@@ -3,7 +3,7 @@
 
  - I write Open Source tools to exploit vulnerabilities  
 
- - On my spare time, I help maintaining Open Source Security Tools such as: [impacket](https://github.com/SecureAuthCorp/impacket) by fixing bugs and responding to issues when I can.
+ - On my spare time, I help maintaining Open Source Security Tools such as [impacket](https://github.com/SecureAuthCorp/impacket) by fixing bugs and responding to issues when I can.
 
 <h3 align="left">Connect with me:</h3>
 
