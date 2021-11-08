@@ -1,9 +1,9 @@
 <h1 align="center"><b>🦋 Podalirius</b></h1>
-<h3 align="center">Security Researcher | OSCP | Semipro CTF Player</h3>
+<h3 align="center">French Security Researcher 🇫🇷 | OSCP | Semipro CTF Player</h3>
 
- - I write Open Source tools to exploit vulnerabilities  
+ - I write opensource security tools to exploit vulnerabilities
 
- - On my spare time, I help maintaining Open Source Security Tools such as [impacket](https://github.com/SecureAuthCorp/impacket) by fixing bugs and responding to issues when I can.
+ - On my spare time, I help maintaining opensource security projects such as [impacket](https://github.com/SecureAuthCorp/impacket) by fixing bugs and responding to issues when I can.
 
 <h3 align="left">Connect with me:</h3>
 
