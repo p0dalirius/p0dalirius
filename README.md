@@ -7,8 +7,8 @@
 
 <h3 align="left">Connect with me:</h3>
 
- - 📝 My website : [https://podalirius.net/](https://podalirius.net/)
-
+ - 📝 My website: [https://podalirius.net/](https://podalirius.net/)
+ - 💰 Support my work on Patreon: [https://www.patreon.com/podalirius](https://www.patreon.com/podalirius)
  - 📫 Follow me on Twitter [@podalirius_](https://twitter.com/podalirius_)
 
 
