@@ -9,7 +9,7 @@
 
  - 📺 My Youtube channel: [https://www.youtube.com/channel/UCF_x5O7CSfr82AfNVTKOv_A/](https://www.youtube.com/channel/UCF_x5O7CSfr82AfNVTKOv_A/)
  - 💰 Support my work on Patreon: [https://www.patreon.com/podalirius](https://www.patreon.com/podalirius)
- - 📫 Follow me on Twitter [@podalirius_](https://twitter.com/podalirius_)
+ - 📫 Follow me on Twitter  <a href="https://twitter.com/intent/follow?screen_name=podalirius_" title="Follow"><img src="https://img.shields.io/twitter/follow/podalirius_?label=Podalirius&style=social"></a>
  - 📝 My website: [https://podalirius.net/](https://podalirius.net/)
 
 ![My github stats](https://github-readme-stats.vercel.app/api?username=p0dalirius&show_icons=true&include_all_commits=true)
