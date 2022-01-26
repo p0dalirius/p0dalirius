@@ -19,3 +19,9 @@
 |	HeroCTF v3                | 🥇 1     | 645   | https://ctftime.org/event/1284 |
 |	Cyber Apocalypse 2021     | 99    | 2735  | https://ctftime.org/event/1304 |
 |	SecureBug CTF             | 50    | 50    | https://ctftime.org/event/1263 |
+
+## 2020
+
+| Team Name             | Rank  | Total | CTF url                            |
+|-----------------------|-------|-------|------------------------------------|
+|	Sogeti Aces Of Spades | 1     |       | https://challengecybersec.fr/      |
