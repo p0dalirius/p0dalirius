@@ -17,6 +17,9 @@
  - **Node JS - Insecure code evaluation triggers a SIGABRT in parent node.js process, acheiving a denial of service**:
    - **Status**: 🟢 Reported to node.js staff, closed as informative.
  
+ - **Cross site scripting (XSS) on online INPI database**:
+   - **Status**: 🟢 Reported to staff, no response, fixed.
+
 - **CVE-2020-16147 - Telmat - Unauthenticated root Remote Code Execution** :
    - **Status**: 🟢 Reported to the editor, fixed.
    - Technical detail: https://podalirius.net/en/cves/2020-16147/
