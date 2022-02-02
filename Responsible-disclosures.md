@@ -9,6 +9,7 @@
    - **Status**: 🟠 Reported to editor, waiting for fix and public disclosure.
    
 ## 2021
+
  - **Container escape and root privilege escalation on HeroCTF v3**:
    - **Status**: 🟢 Reported to organizers, fixed and rewarded as CTF points.
    - Technical detail: https://podalirius.net/en/writeups/heroctf-2021-rooter-l-infra-for-fun-and-ctf-points/
@@ -25,5 +26,6 @@
    - Technical detail: https://podalirius.net/en/cves/2020-16148/
 
 ## 2020
+
  - **Arbitrary file list and file read on RootMe.org**
    - **Status**: 🟢 Reported to root-me.org, fixed.
