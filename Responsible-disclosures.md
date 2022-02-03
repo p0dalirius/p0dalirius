@@ -2,7 +2,7 @@
 
 ## 2022
 
- - **Authenticated root Remote Code Execution on ████████████ algorithmic challenges plateform**
+ - **Authenticated root Remote Code Execution on ████████████ algorithmic challenges platform**
    - **Reported**: 🟢 Reported to organizers, pending fix.
    - **Fix status**: 🟠 fix in progress.
    
