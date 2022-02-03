@@ -20,8 +20,9 @@
    - **Issue**: Improper code segmentation gives direct access to os module, in case of a Server Side Template Injection (SSTI)
    - **Reported**: 🟢 Reported to maintainers, ruled as not a security issue.
    - **Fix status**: 🔴 won't fix.
-   - Technical detail: https://podalirius.net/en/writeups/heroctf-2021-rooter-l-infra-for-fun-and-ctf-points/
-
+   - Technical detail: https://podalirius.net/en/articles/python-vulnerabilities-code-execution-in-jinja-templates/
+   - Conference: https://podalirius.net/en/publications/grehack-2021-optimizing-ssti-payloads-for-jinja2/
+   
  - **06/05/2021 | Container escape and root privilege escalation on HeroCTF v3**:
    - **Reported**: 🟢 Reported to organizers, rewarded as CTF points.
    - **Fix status**: 🟢 fixed.
