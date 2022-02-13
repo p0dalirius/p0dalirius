@@ -4,6 +4,7 @@
 
 | Capture The Flag          | Rank  | Total | CTF url |
 |---------------------------|-------|-------|------------------------|
+|	DefCamp CTF 2022          | 32    | 1035  | https://dctf21.cyberedu.ro/ |
 |	KnightCTF                 | 35    | 752   | https://knightctf.com/ |
 
 ## 2021
