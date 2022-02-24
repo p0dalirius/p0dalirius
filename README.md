@@ -52,3 +52,8 @@
  - [RemoteMouse-3.008-Exploit](https://github.com/p0dalirius/RemoteMouse-3.008-Exploit): This exploit allows to connect to the remote RemoteMouse 3.008 service to virtually press arbitrary keys and execute code on the machine. 
  - [CVE-2016-10956-mail-masta](https://github.com/p0dalirius/CVE-2016-10956-mail-masta): MailMasta wordpress plugin Local File Inclusion vulnerability (CVE-2016-10956) 
 
+
+<p align="center">
+    <img src="https://visitor-badge.glitch.me/badge?page_id=https://github.com/p0dalirius/p0dalirius/README.md"/>
+</p>
+
