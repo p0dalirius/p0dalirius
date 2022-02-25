@@ -30,6 +30,7 @@
  - [ldap2json](https://github.com/p0dalirius/ldap2json): The ldap2json script allows you to extract the whole LDAP content of a Windows domain into a JSON file. 
  - [ldapconsole](https://github.com/p0dalirius/ldapconsole): The ldapconsole script allows you to perform custom LDAP requests to a Windows domain. 
  - [LDAPmonitor](https://github.com/p0dalirius/LDAPmonitor): Monitor creation, deletion and changes to LDAP objects live during your pentest or system administration! 
+ - [MSRPRN-Coerce](https://github.com/p0dalirius/MSRPRN-Coerce):  A python script to force authentification using MS-RPRN RemoteFindFirstPrinterChangeNotificationEx function (opnum 69). 
  - [pyLAPS](https://github.com/p0dalirius/pyLAPS): Python setter/getter for property ms-Mcs-AdmPwd used by LAPS. 
  - [TargetAllDomainObjects](https://github.com/p0dalirius/TargetAllDomainObjects): A python wrapper to run a command on against all users/computers/DCs of a Windows Domain.
 
