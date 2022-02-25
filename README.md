@@ -54,6 +54,6 @@
 
 
 <p align="center">
-    <img src="https://visitor-badge.glitch.me/badge?page_id=https://github.com/p0dalirius/p0dalirius/README.md"/>
+    <img src="https://badges.pufler.dev/visits/p0dalirius/p0dalirius/"/>
 </p>
 
