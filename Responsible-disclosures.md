@@ -6,9 +6,9 @@
    - **Reported**: 🟢 Reported to organizers, pending fix.
    - **Fix status**: 🟠 fix in progress.
    
- - **CVE-████-█████ - ██████ ██████████████ ██████ ███████████ ████**
+ - **CVE-2022-26159 - Ametys autocompletion plugin information disclosure**
    - **Reported**: 🟢 Reported to editor, waiting for fix and public disclosure.
-   - **Fix status**: 🟠 fix in progress.
+   - **Fix status**: 🟢 fixed.
      
 ## 2021
 
