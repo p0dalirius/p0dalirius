@@ -52,3 +52,5 @@
  - [AdminerRead](https://github.com/p0dalirius/AdminerRead): Exploit tool for Adminer 1.0 up to 4.6.2 Arbitrary File Read vulnerability.
  - [RemoteMouse-3.008-Exploit](https://github.com/p0dalirius/RemoteMouse-3.008-Exploit): This exploit allows to connect to the remote RemoteMouse 3.008 service to virtually press arbitrary keys and execute code on the machine. 
  - [CVE-2016-10956-mail-masta](https://github.com/p0dalirius/CVE-2016-10956-mail-masta): MailMasta wordpress plugin Local File Inclusion vulnerability (CVE-2016-10956) 
+ - [CVE-2020-14144-GiTea-git-hooks-rce](https://github.com/p0dalirius/CVE-2020-14144-GiTea-git-hooks-rce): A script to exploit CVE-2020-14144 - GiTea authenticated Remote Code Execution using git hooks.
+ - [CVE-2022-26159-Ametys-Autocompletion-XML](https://github.com/p0dalirius/CVE-2022-26159-Ametys-Autocompletion-XML): A python exploit to automatically dump all the data stored by the auto-completion plugin of Ametys CMS to a local sqlite database file. 
