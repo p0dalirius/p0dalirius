@@ -4,7 +4,7 @@
 
 | Capture The Flag          | Rank  | Total | CTF url                       |
 |---------------------------|-------|-------|-------------------------------|
-|	DaVinci CTF 2022          | 4     | 725   | https://dctf21.cyberedu.ro/   |
+|	DaVinci CTF 2022          | 4     | 725   | https://dvc.tf/               |
 |	DefCamp CTF 2022          | 32    | 1035  | https://dctf21.cyberedu.ro/   |
 |	KnightCTF                 | 35    | 752   | https://knightctf.com/        |
 
