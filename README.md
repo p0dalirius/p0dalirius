@@ -1,7 +1,7 @@
 <h1 align="center"><b>Podalirius 🦋</b></h1>
 <h3 align="center">French Security Researcher 🇫🇷 | OSCP | Semipro CTF Player</h3>
 
- - Vulnerabilities found in the wild: **10** ([see responsible disclosures](./Responsible-disclosures.md)) | (**3 CVEs**)
+ - Vulnerabilities found in the wild: **10** ([see responsible disclosures](./Responsible-disclosures.md)) | (**4 CVEs**)
 
  - I write opensource security tools to exploit vulnerabilities on many environments.
 
