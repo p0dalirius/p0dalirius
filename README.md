@@ -68,8 +68,8 @@
 ### Data
 
  - [linux-kernels](https://github.com/p0dalirius/linux-kernels): List of linux kernel versions in JSON
- - [volatility3-symbols](https://github.com/p0dalirius/volatility3-symbols): Memory mapping profiles for forensic analysis using volatility 2
- - [volatility2-profiles](https://github.com/p0dalirius/volatility2-profiles): Memory mapping profiles for forensic analysis using volatility 3
+ - [volatility3-symbols](https://github.com/p0dalirius/volatility3-symbols): Memory mapping profiles for forensic analysis using volatility 3
+ - [volatility2-profiles](https://github.com/p0dalirius/volatility2-profiles): Memory mapping profiles for forensic analysis using volatility 2
  - [WindowsBuilds](https://github.com/p0dalirius/WindowsBuilds): This repository contains the list of windows builds as parsable JSON files
 
 ### Other
