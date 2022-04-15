@@ -2,6 +2,10 @@
 
 ## 2022
 
+ - **CVE-2022-█████ - HTTP Request Smuggling in ███████████████ server**
+   - **Reported**: 🟢 Reported to maintainers, pending fix.
+   - **Fix status**: 🟠 fix in progress.
+
  - **Authenticated root Remote Code Execution on ████████████ algorithmic challenges platform**
    - **Reported**: 🟢 Reported to organizers, pending fix.
    - **Fix status**: 🟠 fix in progress.
