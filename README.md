@@ -38,9 +38,9 @@
 ### Web exploitation tools
 
  - [crawlersuseragents](https://github.com/p0dalirius/crawlersuseragents): Python script to check if there is any differences in responses of an application when the request comes from a search engine's crawler. 
- - [GetFortinetSerialNumber](https://github.com/p0dalirius/GetFortinetSerialNumber): A Python script to extract the serial number of a remote Fortinet device. 
  - [ipsourcebypass](https://github.com/p0dalirius/ipsourcebypass): This Python script can be used to bypass IP source restrictions using HTTP headers. 
  - [JoGet-plugin-webshell](https://github.com/p0dalirius/JoGet-plugin-webshell): A webshell plugin and interactive shell for pentesting JoGet application. 
+ - [LimeSurvey-plugin-webshell](https://github.com/p0dalirius/LimeSurvey-plugin-webshell): A webshell plugin and interactive shell for pentesting JoGet application. 
  - [LFIDump](https://github.com/p0dalirius/LFIDump): A simple python script to dump remote files through a local file read or local file inclusion web vulnerability. 
  - [RDWArecon](https://github.com/p0dalirius/RDWArecon): A python script to extract information from a Microsoft Remote Desktop Web Access (RDWA) application.
  - [owabrute](https://github.com/p0dalirius/owabrute): Hydra wrapper for bruteforcing Microsoft Outlook Web Application. 
