@@ -9,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 
- - 📺 My Youtube channel: <a href="https://www.youtube.com/channel/UCF_x5O7CSfr82AfNVTKOv_A?sub_confirmation=1" title="Subscribe"><img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCF_x5O7CSfr82AfNVTKOv_A?style=social"></a>
+ - 📺 My Youtube channel: <a href="https://www.youtube.com/c/Podalirius_?sub_confirmation=1" title="Subscribe"><img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCF_x5O7CSfr82AfNVTKOv_A?style=social"></a>
  - 💰 Support my work on Patreon: [https://www.patreon.com/podalirius](https://www.patreon.com/podalirius)
  - 📫 Follow me on Twitter: <a href="https://twitter.com/intent/follow?screen_name=podalirius_" title="Follow"><img src="https://img.shields.io/twitter/follow/podalirius_?label=Podalirius&style=social"></a>
  - 📝 My website: [https://podalirius.net/](https://podalirius.net/)
