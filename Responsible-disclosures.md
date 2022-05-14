@@ -2,6 +2,14 @@
 
 ## 2022
 
+ - **CVE-2022-█████ - Denial of Service in ███████████████ server**
+   - **Reported**: 🟢 Fixed, pending CVE id.
+   - **Fix status**: 🟢 Fixed.
+
+ - **CVE-2022-█████ - Cross site scripting (XSS) in ███████████████**
+   - **Reported**: 🟢 Fixed, pending CVE id.
+   - **Fix status**: 🟢 Fixed.
+
  - **CVE-2022-█████ - HTTP Request Smuggling in ███████████████ server**
    - **Reported**: 🟢 Reported to maintainers, pending fix.
    - **Fix status**: 🟠 fix in progress.
