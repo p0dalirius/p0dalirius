@@ -2,8 +2,8 @@
 
 ## 2022
 
- - **CVE-2022-█████ - Denial of Service in ███████████████ server**
-   - **Reported**: 🟢 Fixed, pending CVE id.
+ - **CVE-2022-30780 - Denial of Service in lighttpd server (1.4.56, 1.4.57, 1.4.58)**
+   - **Reported**: 🟢 Fixed.
    - **Fix status**: 🟢 Fixed.
 
  - **CVE-2022-█████ - Cross site scripting (XSS) in ███████████████**
