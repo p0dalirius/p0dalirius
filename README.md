@@ -22,7 +22,7 @@
 
 ## Summary of my tools
 
-### Active Directory tools
+### <img src="https://raw.githubusercontent.com/p0dalirius/p0dalirius/main/assets/icon-ad.png" width="2%" height="2%"> Active Directory tools
 
  - [DumpSMBShare](https://github.com/p0dalirius/DumpSMBShare): A script to dump files and folders remotely from a Windows SMB share. 
  - [pydsinternals](https://github.com/p0dalirius/pydsinternals): A Python native library containing necessary classes, functions and structures to interact with Windows Active Directory. 
@@ -62,7 +62,7 @@
  - [CVE-2022-21907-http.sys](https://github.com/p0dalirius/CVE-2022-21907-http.sys): Proof of concept of CVE-2022-21907 Double Free in http.sys driver, triggering a kernel crash on IIS servers
  - [CVE-2022-30780-lighttpd-denial-of-service](https://github.com/p0dalirius/CVE-2022-30780-lighttpd-denial-of-service): CVE-2022-30780 - lighttpd remote denial of service 
 
-### Windows
+### <img src="https://raw.githubusercontent.com/p0dalirius/p0dalirius/main/assets/icon-microsoft-logo.png" width="2%" height="2%">  Windows
 
  - [DownloadPDBSymbols](https://github.com/p0dalirius/DownloadPDBSymbols): A Python script to download PDB files associated with a Portable Executable (PE).
  - [hivetools](https://github.com/p0dalirius/hivetools): A collection of python scripts to work with Windows Hives. 
