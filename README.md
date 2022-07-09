@@ -24,7 +24,8 @@
 
 ### <img src="https://raw.githubusercontent.com/p0dalirius/p0dalirius/main/assets/icon-ad.png" width="2%" height="2%"> Active Directory tools
 
- - [AccountShadowTakeover](https://github.com/p0dalirius/AccountShadowTakeover): A python script to automatically add a KeyCredentialLink to newly created users, by quickly connecting to them with default credentials. 
+ - [AccountShadowTakeover](https://github.com/p0dalirius/AccountShadowTakeover): A python script to automatically add a KeyCredentialLink to newly created users, by quickly connecting to them with default credentials.
+ - [Coercer](https://github.com/p0dalirius/Coercer): A python script to automatically coerce a Windows server to authenticate on an arbitrary machine through 9 methods.
  - [DomainUsersToXLSX](https://github.com/p0dalirius/DomainUsersToXLSX): Extract all users from an Active Directory domain to an Excel worksheet.
  - [DumpSMBShare](https://github.com/p0dalirius/DumpSMBShare): A script to dump files and folders remotely from a Windows SMB share.
  - [FindUncommonShares](https://github.com/p0dalirius/FindUncommonShares): A Python tool allowing to quickly find uncommon shares in vast Windows Domains.
@@ -73,13 +74,14 @@
  - [OffensiveBatchScripts](https://github.com/p0dalirius/OffensiveBatchScripts): Offensive batch scripts. 
  - [SortWindowsISOs](https://github.com/p0dalirius/SortWindowsISOs): Extract the windows major and minor build numbers from an ISO file, and automatically sort the iso files.
  
-### <img src="https://raw.githubusercontent.com/p0dalirius/p0dalirius/main/assets/icon-data.png" width="2%" height="2%"> Data
+### <img src="https://raw.githubusercontent.com/p0dalirius/p0dalirius/main/assets/icon-data.png" width="2%" height="2%"> Data & Researches
 
  - [linux-kernels](https://github.com/p0dalirius/linux-kernels): List of linux kernel versions in JSON.
  - [volatility3-symbols](https://github.com/p0dalirius/volatility3-symbols): Memory mapping profiles for forensic analysis using volatility 3.
  - [volatility2-profiles](https://github.com/p0dalirius/volatility2-profiles): Memory mapping profiles for forensic analysis using volatility 2.
  - [WindowsBuilds](https://github.com/p0dalirius/WindowsBuilds): This repository contains the list of windows builds as parsable JSON files.
-
+ - [windows-coerced-authentication-methods](https://github.com/p0dalirius/windows-coerced-authentication-methods): A list of methods to coerce a windows machine to authenticate to an attacker-controlled machine through a Remote Procedure Call (RPC) with various protocols. 
+ 
 ### <img src="https://raw.githubusercontent.com/p0dalirius/p0dalirius/main/assets/icon-arrow.png" width="2%" height="2%"> Other
 
  - [Argon2Cracker](https://github.com/p0dalirius/Argon2Cracker): A multithreaded bruteforcer of argon2 hashes.
