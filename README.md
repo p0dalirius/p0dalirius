@@ -77,6 +77,7 @@
 ### <img src="https://raw.githubusercontent.com/p0dalirius/p0dalirius/main/assets/icon-data.png" width="2%" height="2%"> Data & Researches
 
  - [linux-kernels](https://github.com/p0dalirius/linux-kernels): List of linux kernel versions in JSON.
+ - [microsoft-rpc-fuzzing-tools](https://github.com/p0dalirius/microsoft-rpc-fuzzing-tools): This repository contains a list of python scripts to work with Microsoft RPC for research purposes. 
  - [volatility3-symbols](https://github.com/p0dalirius/volatility3-symbols): Memory mapping profiles for forensic analysis using volatility 3.
  - [volatility2-profiles](https://github.com/p0dalirius/volatility2-profiles): Memory mapping profiles for forensic analysis using volatility 2.
  - [WindowsBuilds](https://github.com/p0dalirius/WindowsBuilds): This repository contains the list of windows builds as parsable JSON files.
