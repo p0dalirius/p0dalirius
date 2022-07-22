@@ -46,7 +46,7 @@
  - [JoGet-plugin-webshell](https://github.com/p0dalirius/JoGet-plugin-webshell): A webshell plugin and interactive shell for pentesting JoGet application. 
  - [LimeSurvey-plugin-webshell](https://github.com/p0dalirius/LimeSurvey-plugin-webshell): A webshell plugin and interactive shell for pentesting JoGet application. 
  - [LFIDump](https://github.com/p0dalirius/LFIDump): A simple python script to dump remote files through a local file read or local file inclusion web vulnerability. 
- - [LootApacheServerStatus](https://github.com/p0dalirius/LootApacheServerStatus): 
+ - [LootApacheServerStatus](https://github.com/p0dalirius/LootApacheServerStatus): A script to automatically dump all URLs present in /server-status to a file locally. 
  - [Moodle-webshell-plugin](https://github.com/p0dalirius/Moodle-webshell-plugin): A webshell plugin and interactive shell for pentesting a Moodle instance.
  - [owabrute](https://github.com/p0dalirius/owabrute): Hydra wrapper for bruteforcing Microsoft Outlook Web Application. 
  - [RDWArecon](https://github.com/p0dalirius/RDWArecon): A python script to extract information from a Microsoft Remote Desktop Web Access (RDWA) application.
