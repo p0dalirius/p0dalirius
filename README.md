@@ -1,17 +1,20 @@
 <h1 align="center"><b>Podalirius 🦋</b></h1>
 <h3 align="center">French Security Researcher 🇫🇷 | OSCP | Semipro CTF Player</h3>
 
- - Vulnerabilities found in the wild: **10** ([see responsible disclosures](./Responsible-disclosures.md)) | (**5 CVEs + 2 waiting for release**)
+I'm a Security french Researcher publishing opensource security tools to test for vulnerabilities on many environments. I truly love to tinker with undefined behaviors in computers, mostly in Windows, Active Directory and various web apps. I've publicly released 70 projects and tools so far, and I'm planning to publish many more! 🥳
 
- - I write opensource security tools to exploit vulnerabilities on many environments.
+If any of my tools helped you, please consider sponsoring my work! Sponsorship will help me cover the costs of my projects (server costs, mainframe restoration, buying books on a research subject ...). You can support my work through:
+ - 🔥 Patreon: [https://www.patreon.com/podalirius](https://www.patreon.com/podalirius)
+ - 🔥 Github Sponsors: [https://github.com/sponsors/p0dalirius](https://github.com/sponsors/p0dalirius)
 
- - I work on opensource security projects such as [impacket](https://github.com/SecureAuthCorp/impacket) by fixing bugs and responding to issues.
+I'm also constantly reporting security vulnerabilities found everwhere. I currently have reported **10** of security vulnerabilities found in the wild ([see responsible disclosures](./Responsible-disclosures.md)) and got **6** CVEs ([CVE-2020-16147](https://podalirius.net/en/cves/2020-16147/), [CVE-2020-16148](https://podalirius.net/en/cves/2020-16148/), [CVE-2021-43008](https://podalirius.net/en/cves/2021-43008/), [CVE-2022-26159](https://podalirius.net/en/cves/2022-26159/), [CVE-2022-29710](https://podalirius.net/en/cves/2022-29710/), [CVE-2022-30780](https://podalirius.net/en/cves/2022-30780/)) + 2 waiting for release
 
 <h3 align="left">Connect with me:</h3>
 
  - 📺 My Youtube channel: <a href="https://www.youtube.com/c/Podalirius_?sub_confirmation=1" title="Subscribe"><img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCF_x5O7CSfr82AfNVTKOv_A?style=social"></a>
- - 💰 Support my work on Patreon: [https://www.patreon.com/podalirius](https://www.patreon.com/podalirius)
+
  - 📫 Follow me on Twitter: <a href="https://twitter.com/intent/follow?screen_name=podalirius_" title="Follow"><img src="https://img.shields.io/twitter/follow/podalirius_?label=Podalirius&style=social"></a>
+ 
  - 📝 My website: [https://podalirius.net/](https://podalirius.net/)
 
 <p align="center">
