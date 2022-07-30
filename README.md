@@ -7,7 +7,7 @@ If any of my tools helped you, please consider sponsoring my work! Sponsorship w
  - 🔥 Patreon: [https://www.patreon.com/podalirius](https://www.patreon.com/podalirius)
  - 🔥 Github Sponsors: [https://github.com/sponsors/p0dalirius](https://github.com/sponsors/p0dalirius)
 
-I'm also constantly reporting security vulnerabilities found everwhere. I currently have reported **10** of security vulnerabilities found in the wild ([see responsible disclosures](https://github.com/p0dalirius/p0dalirius/blob/main/Responsible-disclosures.md)) and got **6** CVEs ([CVE-2020-16147](https://podalirius.net/en/cves/2020-16147/), [CVE-2020-16148](https://podalirius.net/en/cves/2020-16148/), [CVE-2021-43008](https://podalirius.net/en/cves/2021-43008/), [CVE-2022-26159](https://podalirius.net/en/cves/2022-26159/), [CVE-2022-29710](https://podalirius.net/en/cves/2022-29710/), [CVE-2022-30780](https://podalirius.net/en/cves/2022-30780/)) + 2 waiting for release
+I'm also constantly reporting security vulnerabilities found everywhere. I currently have reported **10** of security vulnerabilities found in the wild ([see responsible disclosures](https://github.com/p0dalirius/p0dalirius/blob/main/Responsible-disclosures.md)) and got **6** CVEs ([CVE-2020-16147](https://podalirius.net/en/cves/2020-16147/), [CVE-2020-16148](https://podalirius.net/en/cves/2020-16148/), [CVE-2021-43008](https://podalirius.net/en/cves/2021-43008/), [CVE-2022-26159](https://podalirius.net/en/cves/2022-26159/), [CVE-2022-29710](https://podalirius.net/en/cves/2022-29710/), [CVE-2022-30780](https://podalirius.net/en/cves/2022-30780/)) + 2 waiting for release
 
 <h3 align="left">Connect with me:</h3>
 
