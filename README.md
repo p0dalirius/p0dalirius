@@ -5,7 +5,7 @@
 
  - I write opensource security tools to exploit vulnerabilities on many environments.
 
- - I help maintaining opensource security projects such as [impacket](https://github.com/SecureAuthCorp/impacket) by fixing bugs and responding to issues.
+ - I work on opensource security projects such as [impacket](https://github.com/SecureAuthCorp/impacket) by fixing bugs and responding to issues.
 
 <h3 align="left">Connect with me:</h3>
 
