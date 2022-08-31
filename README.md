@@ -3,9 +3,7 @@
 
 I'm a Security french Researcher publishing opensource security tools to test for vulnerabilities on many environments. I truly love to tinker with undefined behaviors in computers, mostly in Windows, Active Directory and various web apps. I've publicly released 70 projects and tools so far, and I'm planning to publish many more! 🥳
 
-If any of my tools helped you, please consider sponsoring my work! Sponsorship will help me cover the costs of my projects (server costs, mainframe restoration, buying books on a research subject ...). You can support my work through:
- - 🔥 Patreon: [https://www.patreon.com/podalirius](https://www.patreon.com/podalirius)
- - 🔥 Github Sponsors: [https://github.com/sponsors/p0dalirius](https://github.com/sponsors/p0dalirius)
+If any of my tools helped you, please consider sponsoring my work! Sponsorship will help me cover the costs of my projects (server costs, mainframe restoration, buying books on a research subject ...). You can support my work through Patreon: [https://www.patreon.com/podalirius](https://www.patreon.com/podalirius)
 
 I'm also constantly reporting security vulnerabilities found everywhere. I currently have reported **10** of security vulnerabilities found in the wild ([see responsible disclosures](https://github.com/p0dalirius/p0dalirius/blob/main/Responsible-disclosures.md)) and got **6** CVEs ([CVE-2020-16147](https://podalirius.net/en/cves/2020-16147/), [CVE-2020-16148](https://podalirius.net/en/cves/2020-16148/), [CVE-2021-43008](https://podalirius.net/en/cves/2021-43008/), [CVE-2022-26159](https://podalirius.net/en/cves/2022-26159/), [CVE-2022-29710](https://podalirius.net/en/cves/2022-29710/), [CVE-2022-30780](https://podalirius.net/en/cves/2022-30780/)) + 2 waiting for release
 
