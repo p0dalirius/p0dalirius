@@ -7,7 +7,7 @@
  - **07 Sep 2022 - kitploit - 
 Coercer - A Python Script To Automatically Coerce A Windows Server To Authenticate On An Arbitrary Machine Through 9 Methods**
     + [Coercer](https://github.com/p0dalirius/Coercer) - A Python Script To Automatically Coerce A Windows Server To Authenticate On An Arbitrary Machine Through 9 Methods 
-    + **Link**: [https://www.kitploit.com/2022/02/ipsourcebypass-this-python-script-can.html](https://www.kitploit.com/2022/09/coercer-python-script-to-automatically.html)
+    + **Link**: [[https://www.kitploit.com/2022/02/ipsourcebypass-this-python-script-can.html](https://www.kitploit.com/2022/09/coercer-python-script-to-automatically.html)](https://www.kitploit.com/2022/09/coercer-python-script-to-automatically.html)
 
  - **02 Feb 2022 - kitploit - This Python Script Can Be Used To Bypass IP Source Restrictions Using HTTP Headers**
     + [ipsourcebypass](https://github.com/p0dalirius/ipsourcebypass), this Python Script Can Be Used To Bypass IP Source Restrictions Using HTTP Headers
