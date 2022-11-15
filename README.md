@@ -1,7 +1,7 @@
 <h1 align="center"><b>Podalirius 🦋</b></h1>
 <h3 align="center">French Security Researcher 🇫🇷 | OSCP | Semipro CTF Player</h3>
 
-I'm a Security french Researcher publishing opensource security tools to test for vulnerabilities on many environments. I truly love to tinker with undefined behaviors in computers, mostly in Windows, Active Directory and various web apps. I've publicly released 78 projects and tools so far, and I'm planning to publish many more! 🥳
+I'm a french Security Researcher publishing opensource security tools to test for vulnerabilities on many environments. I truly love to tinker with undefined behaviors in computers, mostly in Windows, Active Directory and various web apps. I've publicly released 78 projects and tools so far, and I'm planning to publish many more! 🥳
 
 If any of my tools helped you, please consider sponsoring my work! Sponsorship will help me cover the costs of my projects (server costs, mainframe restoration, buying books on a research subject ...). You can support my work through Patreon: [https://www.patreon.com/podalirius](https://www.patreon.com/podalirius)
 
