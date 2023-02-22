@@ -1,5 +1,4 @@
-<h1 align="center"><b>Rémi GASCOU (Podalirius) 🦋</b></h1>
-<h3 align="center">French Security Researcher 🇫🇷 | Public Speaker in security conferences </h3>
+![](./assets/banner.png)
 
 I'm a french Security Researcher publishing opensource security tools to test for vulnerabilities on many environments. I truly love to tinker with undefined behaviors in computers, mostly in Windows, Active Directory and various web apps. I've publicly released 83 projects and tools so far, and I'm planning to publish many more! 🥳
 
