@@ -3,9 +3,9 @@
 <p align="center">
      <img src="https://raw.githubusercontent.com/p0dalirius/p0dalirius/main/assets/bar-follow-me-on.png">
      <br>
-     <img src="https://raw.githubusercontent.com/p0dalirius/p0dalirius/main/assets/youtube.png" width="30%" height="30%">
-     <img src="https://raw.githubusercontent.com/p0dalirius/p0dalirius/main/assets/twitter.png" width="30%" height="30%">
-     <img src="https://raw.githubusercontent.com/p0dalirius/p0dalirius/main/assets/linkedin.png" width="30%" height="30%">
+     <img src="https://raw.githubusercontent.com/p0dalirius/p0dalirius/main/assets/youtube.png" width="33%" height="33%">
+     <img src="https://raw.githubusercontent.com/p0dalirius/p0dalirius/main/assets/twitter.png" width="33%" height="33%">
+     <img src="https://raw.githubusercontent.com/p0dalirius/p0dalirius/main/assets/linkedin.png" width="33%" height="33%">
 </p>
 
 I'm a french Security Researcher publishing opensource security tools to test for vulnerabilities on many environments. I truly love to tinker with undefined behaviors in computers, mostly in Windows, Active Directory and various web apps. I've publicly released 83 projects and tools so far, and I'm planning to publish many more! 🥳
