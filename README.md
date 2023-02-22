@@ -1,5 +1,13 @@
 ![](./assets/banner.png)
 
+<p align="center">
+     <img src="https://raw.githubusercontent.com/p0dalirius/p0dalirius/main/assets/bar-follow-me-on.png">
+     <br>
+     <img src="https://raw.githubusercontent.com/p0dalirius/p0dalirius/main/assets/youtube.png">
+     <img src="https://raw.githubusercontent.com/p0dalirius/p0dalirius/main/assets/twitter.png">
+     <img src="https://raw.githubusercontent.com/p0dalirius/p0dalirius/main/assets/none.png">
+</p>
+
 I'm a french Security Researcher publishing opensource security tools to test for vulnerabilities on many environments. I truly love to tinker with undefined behaviors in computers, mostly in Windows, Active Directory and various web apps. I've publicly released 83 projects and tools so far, and I'm planning to publish many more! 🥳
 
 If any of my tools helped you, please consider sponsoring my work! Sponsorship will help me cover the costs of my projects (server costs, mainframe restoration, buying books on a research subject ...). You can support my work through Patreon: [https://www.patreon.com/podalirius](https://www.patreon.com/podalirius)
