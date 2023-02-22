@@ -15,16 +15,6 @@ If any of my tools helped you, please consider sponsoring my work! Sponsorship w
 
 I'm also constantly reporting security vulnerabilities found everywhere. I currently have reported **10** of security vulnerabilities found in the wild ([see responsible disclosures](https://github.com/p0dalirius/p0dalirius/blob/main/Responsible-disclosures.md)) and got **6** CVEs ([CVE-2020-16147](https://podalirius.net/en/cves/2020-16147/), [CVE-2020-16148](https://podalirius.net/en/cves/2020-16148/), [CVE-2021-43008](https://podalirius.net/en/cves/2021-43008/), [CVE-2022-26159](https://podalirius.net/en/cves/2022-26159/), [CVE-2022-29710](https://podalirius.net/en/cves/2022-29710/), [CVE-2022-30780](https://podalirius.net/en/cves/2022-30780/)) + 2 waiting for release
 
-<h3 align="left">Connect with me:</h3>
-
- - 📺 My Youtube channel: <a href="https://www.youtube.com/c/Podalirius_?sub_confirmation=1" title="Subscribe"><img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCF_x5O7CSfr82AfNVTKOv_A?style=social"></a>
-
- - 🐦 Follow me on Twitter: <a href="https://twitter.com/intent/follow?screen_name=podalirius_" title="Follow"><img src="https://img.shields.io/twitter/follow/podalirius_?label=Podalirius&style=social"></a>
- 
- - 📝 My website: [https://podalirius.net/](https://podalirius.net/)
-
- - 🐘 Mastodon: [https://infosec.exchange/@podalirius](https://infosec.exchange/@podalirius)
-
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=p0dalirius&show_icons=true&include_all_commits=true">
 </p>
