@@ -3,8 +3,8 @@
 <p align="center">
      <img src="https://raw.githubusercontent.com/p0dalirius/p0dalirius/main/assets/bar-follow-me-on.png">
      <br>
-     <a href="https://www.youtube.com/@Podalirius_"><img src="https://raw.githubusercontent.com/p0dalirius/p0dalirius/main/assets/youtube.png" width="33%" height="33%"></a>
-     <a href="https://twitter.com/podalirius_"><img src="https://raw.githubusercontent.com/p0dalirius/p0dalirius/main/assets/twitter.png" width="33%" height="33%"></a>
+     <a href="https://www.youtube.com/c/Podalirius_?sub_confirmation=1"><img src="https://raw.githubusercontent.com/p0dalirius/p0dalirius/main/assets/youtube.png" width="33%" height="33%"></a>
+     <a href="https://twitter.com/intent/follow?screen_name=podalirius_"><img src="https://raw.githubusercontent.com/p0dalirius/p0dalirius/main/assets/twitter.png" width="33%" height="33%"></a>
      <a href="https://www.linkedin.com/in/remigascou/"><img src="https://raw.githubusercontent.com/p0dalirius/p0dalirius/main/assets/linkedin.png" width="33%" height="33%"></a>
 </p>
 
