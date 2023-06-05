@@ -11,7 +11,7 @@
 
 I'm a French Security Researcher and Microsoft MVP. I specialize in finding vulnerabilities in various environments, including Windows, Active Directory, and web applications. With a passion for tinkering with undefined behaviors in computers, I have published 90 open-source security tools so far, and there are many more to come! 🥳
 
-If any of my tools have been helpful to you, please consider sponsoring my work. Sponsorship will support the costs of my projects, including server expenses, mainframe restoration, and research materials. You can support me through Patreon: [https://www.patreon.com/podalirius](https://www.patreon.com/podalirius)
+If any of my tools have been helpful to you, please consider sponsoring my work. Sponsorship will support the costs of my projects, including server expenses, mainframe restoration, and research materials. You can support me through GitHub Sponsors [https://github.com/sponsors/p0dalirius](https://github.com/sponsors/p0dalirius) or through Patreon: [https://www.patreon.com/podalirius](https://www.patreon.com/podalirius)
 
 As part of my dedication to security, I actively report vulnerabilities I discover. To date, I have reported and responsibly disclosed 10 security vulnerabilities found in the wild. I have also received 6 CVEs (([CVE-2020-16147](https://podalirius.net/en/cves/2020-16147/), [CVE-2020-16148](https://podalirius.net/en/cves/2020-16148/), [CVE-2021-43008](https://podalirius.net/en/cves/2021-43008/), [CVE-2022-26159](https://podalirius.net/en/cves/2022-26159/), [CVE-2022-29710](https://podalirius.net/en/cves/2022-29710/), [CVE-2022-30780](https://podalirius.net/en/cves/2022-30780/))), with 2 more awaiting release.
 
