@@ -29,6 +29,7 @@ As part of my dedication to security, I actively report vulnerabilities I discov
  - [Coercer](https://github.com/p0dalirius/Coercer): A python script to automatically coerce a Windows server to authenticate on an arbitrary machine through 9 methods.
  - [DomainUsersToXLSX](https://github.com/p0dalirius/DomainUsersToXLSX): Extract all users from an Active Directory domain to an Excel worksheet.
  - [DumpSMBShare](https://github.com/p0dalirius/DumpSMBShare): A script to dump files and folders remotely from a Windows SMB share.
+ - [ExtractBitlockerKeys](https://github.com/p0dalirius/ExtractBitlockerKeys): A post-exploitation python script to automatically extract the bitlocker recovery keys from a domain. 
  - [FindUncommonShares](https://github.com/p0dalirius/FindUncommonShares): A Python tool allowing to quickly find uncommon shares in vast Windows Domains.
  - [ldap2json](https://github.com/p0dalirius/ldap2json): The ldap2json script allows you to extract the whole LDAP content of a Windows domain into a JSON file. 
  - [ldapconsole](https://github.com/p0dalirius/ldapconsole): The ldapconsole script allows you to perform custom LDAP requests to a Windows domain.
