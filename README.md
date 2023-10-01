@@ -83,6 +83,7 @@ As part of my dedication to security, I actively report vulnerabilities I discov
  - [linux-kernels](https://github.com/p0dalirius/linux-kernels): List of linux kernel versions in JSON.
  - [microsoft-rpc-fuzzing-tools](https://github.com/p0dalirius/microsoft-rpc-fuzzing-tools): This repository contains a list of python scripts to work with Microsoft RPC for research purposes. 
  - [volatility3-symbols](https://github.com/p0dalirius/volatility3-symbols): Memory mapping profiles for forensic analysis using volatility 3.
+ - [volatility2docker](https://github.com/p0dalirius/volatility2docker): A volatility 2 docker for forensic investigations.
  - [volatility2-profiles](https://github.com/p0dalirius/volatility2-profiles): Memory mapping profiles for forensic analysis using volatility 2.
  - [WindowsBuilds](https://github.com/p0dalirius/WindowsBuilds): This repository contains the list of windows builds as parsable JSON files.
  - [windows-coerced-authentication-methods](https://github.com/p0dalirius/windows-coerced-authentication-methods): A list of methods to coerce a windows machine to authenticate to an attacker-controlled machine through a Remote Procedure Call (RPC) with various protocols. 
