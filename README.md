@@ -81,7 +81,7 @@ As part of my dedication to security, I actively report vulnerabilities I discov
 
 ### <img src="https://raw.githubusercontent.com/p0dalirius/p0dalirius/main/assets/icon-microsoft-logo.png" width="2%" height="2%"> Windows
 
- - [DownloadPDBSymbols](https://github.com/p0dalirius/DownloadPDBSymbols): A Python script to download PDB files associated with a Portable Executable (PE).
+ - [pdbdownload](https://github.com/p0dalirius/pdbdownload): A Python script to download PDB files associated with a Portable Executable (PE).
  - [hivetools](https://github.com/p0dalirius/hivetools): A collection of python scripts to work with Windows Hives. 
  - [msFlagsDecoder](https://github.com/p0dalirius/msFlagsDecoder): Decode the values of common Windows properties such as userAccountControl and sAMAccountType.
  - [MSSQL-Analysis-Coerce](https://github.com/p0dalirius/MSSQL-Analysis-Coerce): A technique to coerce a Windows SQL Server to authenticate on an arbitrary machine. 
