@@ -82,7 +82,8 @@ As part of my dedication to security, I actively report vulnerabilities I discov
  - [hivetools](https://github.com/p0dalirius/hivetools): A collection of python scripts to work with Windows Hives. 
  - [msFlagsDecoder](https://github.com/p0dalirius/msFlagsDecoder): Decode the values of common Windows properties such as userAccountControl and sAMAccountType.
  - [MSSQL-Analysis-Coerce](https://github.com/p0dalirius/MSSQL-Analysis-Coerce): A technique to coerce a Windows SQL Server to authenticate on an arbitrary machine. 
- - [OffensiveBatchScripts](https://github.com/p0dalirius/OffensiveBatchScripts): Offensive batch scripts. 
+ - [OffensiveBatchScripts](https://github.com/p0dalirius/OffensiveBatchScripts): Offensive batch scripts.
+ - [SortPEbyVersions](https://github.com/p0dalirius/SortPEbyVersions): A Python script to sort Portable Executable (PE) files by their version and download debug symbols if existing. 
  - [SortWindowsISOs](https://github.com/p0dalirius/SortWindowsISOs): Extract the windows major and minor build numbers from an ISO file, and automatically sort the iso files.
 
 ### <img src="https://raw.githubusercontent.com/p0dalirius/p0dalirius/main/assets/icon-data.png" width="2%" height="2%"> Data & Researches
