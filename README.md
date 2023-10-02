@@ -107,6 +107,7 @@ As part of my dedication to security, I actively report vulnerabilities I discov
  - [GetFortinetSerialNumber](https://github.com/p0dalirius/GetFortinetSerialNumber): A Python script to extract the serial number of a remote Fortinet device.
  - [GithubBackupAllRepos](https://github.com/p0dalirius/GithubBackupAllRepos): A Python script to backup all repos (public or private) of a user.
  - [Hashes-Harvester](https://github.com/p0dalirius/Hashes-Harvester): Automatically extracts NTLM hashes from Windows memory dumps.
+ - [objectwalker](https://github.com/p0dalirius/objectwalker): A python module to explore the object tree to extract paths to interesting objects in memory.
  - [ParseFortinetSerialNumber](https://github.com/p0dalirius/ParseFortinetSerialNumber): A Python script to parse Fortinet products serial numbers, and detect the associated model and version.
  - [python_packages_paths](https://github.com/p0dalirius/python_packages_paths): This repository contains paths to python modules from inside python modules.
  - [pwndocapi](https://github.com/p0dalirius/pwndocapi): A python library to interact with Pwndoc instances for pentest reports generation.
