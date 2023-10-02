@@ -31,6 +31,7 @@ As part of my dedication to security, I actively report vulnerabilities I discov
  - [DumpSMBShare](https://github.com/p0dalirius/DumpSMBShare): A script to dump files and folders remotely from a Windows SMB share.
  - [ExtractBitlockerKeys](https://github.com/p0dalirius/ExtractBitlockerKeys): A post-exploitation python script to automatically extract the bitlocker recovery keys from a domain. 
  - [FindUncommonShares](https://github.com/p0dalirius/FindUncommonShares): A Python tool allowing to quickly find uncommon shares in vast Windows Domains.
+ - [GeoWordlists](https://github.com/p0dalirius/GeoWordlists): GeoWordlists is a tool to generate wordlists of passwords containing cities at a defined distance around the client city. 
  - [ldap2json](https://github.com/p0dalirius/ldap2json): The ldap2json script allows you to extract the whole LDAP content of a Windows domain into a JSON file. 
  - [ldapconsole](https://github.com/p0dalirius/ldapconsole): The ldapconsole script allows you to perform custom LDAP requests to a Windows domain.
  - [LDAPmonitor](https://github.com/p0dalirius/LDAPmonitor): Monitor creation, deletion and changes to LDAP objects live during your pentest or system administration!
@@ -45,10 +46,11 @@ As part of my dedication to security, I actively report vulnerabilities I discov
  - [ApacheTomcatScanner](https://github.com/p0dalirius/ApacheTomcatScanner): A python script to scan for Apache Tomcat server vulnerabilities. 
  - [Awesome-RCE-techniques](https://github.com/p0dalirius/Awesome-RCE-techniques): Awesome list of techniques to achieve Remote Code Execution on various apps!
  - [crawlersuseragents](https://github.com/p0dalirius/crawlersuseragents): Python script to check if there is any differences in responses of an application when the request comes from a search engine's crawler.
- - [CodeIgniter-session-unsign](https://github.com/p0dalirius/CodeIgniter-session-unsign): Command line tool to fetch, decode and brute-force CodeIgniter session cookies by guessing and bruteforcing secret keys.  
+ - [CodeIgniter-session-unsign](https://github.com/p0dalirius/CodeIgniter-session-unsign): Command line tool to fetch, decode and brute-force CodeIgniter session cookies by guessing and bruteforcing secret keys.
+ - [FindAzureDomainTenant](https://github.com/p0dalirius/FindAzureDomainTenant): A Python script to find tenant id an region from a list of domain names. 
  - [http-fuzzing-scripts](https://github.com/p0dalirius/http-fuzzing-scripts): A collection of http fuzzing python scripts to fuzz HTTP servers for bugs. 
  - [ipsourcebypass](https://github.com/p0dalirius/ipsourcebypass): This Python script can be used to bypass IP source restrictions using HTTP headers. 
- - [Joomla-1.6-1.7-2.5-Privilege-Escalation-Vulnerability](https://github.com/p0dalirius/Joomla-1.6-1.7-2.5-Privilege-Escalation-Vulnerability): A Python script to create an administrator account on Joomla! 1.6/1.7/2.5 using a privilege escalation vulnerability 
+ - [Joomla-1.6-1.7-2.5-Privilege-Escalation-Vulnerability](https://github.com/p0dalirius/Joomla-1.6-1.7-2.5-Privilege-Escalation-Vulnerability): A Python script to create an administrator account on Joomla! 1.6/1.7/2.5 using a privilege escalation vulnerability.
  - [LFIDump](https://github.com/p0dalirius/LFIDump): A simple python script to dump remote files through a local file read or local file inclusion web vulnerability. 
  - [LootApacheServerStatus](https://github.com/p0dalirius/LootApacheServerStatus): A script to automatically dump all URLs present in /server-status to a file locally. 
  - [owabrute](https://github.com/p0dalirius/owabrute): Hydra wrapper for bruteforcing Microsoft Outlook Web Application. 
