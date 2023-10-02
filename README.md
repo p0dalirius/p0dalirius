@@ -74,6 +74,7 @@ As part of my dedication to security, I actively report vulnerabilities I discov
  - [CVE-2022-21907-http.sys](https://github.com/p0dalirius/CVE-2022-21907-http.sys): Proof of concept of CVE-2022-21907 Double Free in http.sys driver, triggering a kernel crash on IIS servers
  - [CVE-2022-26159-Ametys-Autocompletion-XML](https://github.com/p0dalirius/CVE-2022-26159-Ametys-Autocompletion-XML): A python exploit to automatically dump all the data stored by the auto-completion plugin of Ametys CMS to a local sqlite database file. 
  - [CVE-2022-30780-lighttpd-denial-of-service](https://github.com/p0dalirius/CVE-2022-30780-lighttpd-denial-of-service): CVE-2022-30780 - lighttpd remote denial of service 
+ - [CVE-2022-36446-Webmin-Software-Package-Updates-RCE](https://github.com/p0dalirius/CVE-2022-36446-Webmin-Software-Package-Updates-RCE): A Python script to exploit CVE-2022-36446 Software Package Updates RCE (Authenticated) on Webmin < 1.997.
 
 ### <img src="https://raw.githubusercontent.com/p0dalirius/p0dalirius/main/assets/icon-microsoft-logo.png" width="2%" height="2%"> Windows
 
@@ -104,7 +105,8 @@ As part of my dedication to security, I actively report vulnerabilities I discov
  - [Hashes-Harvester](https://github.com/p0dalirius/Hashes-Harvester): Automatically extracts NTLM hashes from Windows memory dumps.
  - [ParseFortinetSerialNumber](https://github.com/p0dalirius/ParseFortinetSerialNumber): A Python script to parse Fortinet products serial numbers, and detect the associated model and version.
  - [python_packages_paths](https://github.com/p0dalirius/python_packages_paths): This repository contains paths to python modules from inside python modules.
- - [pwndocapi](https://github.com/p0dalirius/pwndocapi): A python library to interact with Pwndoc instances for pentest reports generation .
+ - [pwndocapi](https://github.com/p0dalirius/pwndocapi): A python library to interact with Pwndoc instances for pentest reports generation.
+ - [pdsimage-downloader](https://github.com/pdsimage-downloader): 
  - [streamableDownloader](https://github.com/p0dalirius/streamableDownloader): A simple python script to download videos hosted on streamable from their link.
  - [wav2mmv](https://github.com/p0dalirius/wav2mmv): WAV to MMV converter. You can then use the MMV file in input of MSSTV to decode Slow Scan Television (SSTV) sound signals.
  - [WifiListProbeRequests](https://github.com/p0dalirius/WifiListProbeRequests): Monitor 802.11 probe requests from a capture file or network sniffing!
