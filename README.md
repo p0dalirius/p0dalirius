@@ -52,7 +52,8 @@ As part of my dedication to security, I actively report vulnerabilities I discov
  - [ipsourcebypass](https://github.com/p0dalirius/ipsourcebypass): This Python script can be used to bypass IP source restrictions using HTTP headers. 
  - [Joomla-1.6-1.7-2.5-Privilege-Escalation-Vulnerability](https://github.com/p0dalirius/Joomla-1.6-1.7-2.5-Privilege-Escalation-Vulnerability): A Python script to create an administrator account on Joomla! 1.6/1.7/2.5 using a privilege escalation vulnerability.
  - [LFIDump](https://github.com/p0dalirius/LFIDump): A simple python script to dump remote files through a local file read or local file inclusion web vulnerability. 
- - [LootApacheServerStatus](https://github.com/p0dalirius/LootApacheServerStatus): A script to automatically dump all URLs present in /server-status to a file locally. 
+ - [LootApacheServerStatus](https://github.com/p0dalirius/LootApacheServerStatus): A script to automatically dump all URLs present in /server-status to a file locally.
+ - [mercurial-scm-extract](https://github.com/p0dalirius/mercurial-scm-extract): A tool to extract and dump files of mercurial SCM exposed on a web server.
  - [owabrute](https://github.com/p0dalirius/owabrute): Hydra wrapper for bruteforcing Microsoft Outlook Web Application. 
  - [RDWArecon](https://github.com/p0dalirius/RDWArecon): A python script to extract information from a Microsoft Remote Desktop Web Access (RDWA) application.
  - [robotstester](https://github.com/p0dalirius/robotstester): This Python script can enumerate all URLs present in robots.txt files, and test whether they can be accessed or not.
@@ -107,11 +108,12 @@ As part of my dedication to security, I actively report vulnerabilities I discov
  - [GetFortinetSerialNumber](https://github.com/p0dalirius/GetFortinetSerialNumber): A Python script to extract the serial number of a remote Fortinet device.
  - [GithubBackupAllRepos](https://github.com/p0dalirius/GithubBackupAllRepos): A Python script to backup all repos (public or private) of a user.
  - [Hashes-Harvester](https://github.com/p0dalirius/Hashes-Harvester): Automatically extracts NTLM hashes from Windows memory dumps.
+ - [hexcat](https://github.com/p0dalirius/hexcat): A tool to show only printable characters of a file.
  - [objectwalker](https://github.com/p0dalirius/objectwalker): A python module to explore the object tree to extract paths to interesting objects in memory.
  - [ParseFortinetSerialNumber](https://github.com/p0dalirius/ParseFortinetSerialNumber): A Python script to parse Fortinet products serial numbers, and detect the associated model and version.
  - [python_packages_paths](https://github.com/p0dalirius/python_packages_paths): This repository contains paths to python modules from inside python modules.
  - [pwndocapi](https://github.com/p0dalirius/pwndocapi): A python library to interact with Pwndoc instances for pentest reports generation.
- - [pdsimage-downloader](https://github.com/pdsimage-downloader): 
+ - [pdsimage-downloader](https://github.com/p0dalirius/pdsimage-downloader): A python script to filter by filename and download PDS images. 
  - [streamableDownloader](https://github.com/p0dalirius/streamableDownloader): A simple python script to download videos hosted on streamable from their link.
  - [wav2mmv](https://github.com/p0dalirius/wav2mmv): WAV to MMV converter. You can then use the MMV file in input of MSSTV to decode Slow Scan Television (SSTV) sound signals.
  - [WifiListProbeRequests](https://github.com/p0dalirius/WifiListProbeRequests): Monitor 802.11 probe requests from a capture file or network sniffing!
