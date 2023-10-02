@@ -85,6 +85,7 @@ As part of my dedication to security, I actively report vulnerabilities I discov
  - [OffensiveBatchScripts](https://github.com/p0dalirius/OffensiveBatchScripts): Offensive batch scripts.
  - [SortPEbyVersions](https://github.com/p0dalirius/SortPEbyVersions): A Python script to sort Portable Executable (PE) files by their version and download debug symbols if existing. 
  - [SortWindowsISOs](https://github.com/p0dalirius/SortWindowsISOs): Extract the windows major and minor build numbers from an ISO file, and automatically sort the iso files.
+ - [win32errorcodes](https://github.com/p0dalirius/win32errorcodes): A small C/C++ library to lookup Windows error codes. 
 
 ### <img src="https://raw.githubusercontent.com/p0dalirius/p0dalirius/main/assets/icon-data.png" width="2%" height="2%"> Data & Researches
 
