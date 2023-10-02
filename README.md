@@ -104,6 +104,7 @@ As part of my dedication to security, I actively report vulnerabilities I discov
  - [Hashes-Harvester](https://github.com/p0dalirius/Hashes-Harvester): Automatically extracts NTLM hashes from Windows memory dumps.
  - [ParseFortinetSerialNumber](https://github.com/p0dalirius/ParseFortinetSerialNumber): A Python script to parse Fortinet products serial numbers, and detect the associated model and version.
  - [python_packages_paths](https://github.com/p0dalirius/python_packages_paths): This repository contains paths to python modules from inside python modules.
+ - [pwndocapi](https://github.com/p0dalirius/pwndocapi): A python library to interact with Pwndoc instances for pentest reports generation .
  - [streamableDownloader](https://github.com/p0dalirius/streamableDownloader): A simple python script to download videos hosted on streamable from their link.
  - [wav2mmv](https://github.com/p0dalirius/wav2mmv): WAV to MMV converter. You can then use the MMV file in input of MSSTV to decode Slow Scan Television (SSTV) sound signals.
  - [WifiListProbeRequests](https://github.com/p0dalirius/WifiListProbeRequests): Monitor 802.11 probe requests from a capture file or network sniffing!
