@@ -19,6 +19,9 @@ As part of my dedication to security, I actively report vulnerabilities I discov
     <img src="https://github-profile-trophy.vercel.app/?username=p0dalirius&row=1">
 </p>
 
+<!-- my-badges start -->
+<!-- my-badges end -->
+
 ---
 
 ## Summary of my tools
