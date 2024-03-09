@@ -8,10 +8,10 @@ Repos:
 * <a href="https://github.com/p0dalirius/windows-coerced-authentication-methods">p0dalirius/windows-coerced-authentication-methods: ★445</a>
 * <a href="https://github.com/p0dalirius/FindUncommonShares">p0dalirius/FindUncommonShares: ★368</a>
 * <a href="https://github.com/p0dalirius/ipsourcebypass">p0dalirius/ipsourcebypass: ★360</a>
-* <a href="https://github.com/ShutdownRepo/smartbrute">ShutdownRepo/smartbrute: ★312</a>
+* <a href="https://github.com/ShutdownRepo/smartbrute">ShutdownRepo/smartbrute: ★313</a>
 * <a href="https://github.com/p0dalirius/LDAPWordlistHarvester">p0dalirius/LDAPWordlistHarvester: ★283</a>
 * <a href="https://github.com/p0dalirius/ExtractBitlockerKeys">p0dalirius/ExtractBitlockerKeys: ★282</a>
-* <a href="https://github.com/p0dalirius/DumpSMBShare">p0dalirius/DumpSMBShare: ★196</a>
+* <a href="https://github.com/p0dalirius/DumpSMBShare">p0dalirius/DumpSMBShare: ★197</a>
 * <a href="https://github.com/p0dalirius/GeoWordlists">p0dalirius/GeoWordlists: ★138</a>
 * <a href="https://github.com/p0dalirius/MSSQL-Analysis-Coerce">p0dalirius/MSSQL-Analysis-Coerce: ★115</a>
 * <a href="https://github.com/p0dalirius/ctfd-parser">p0dalirius/ctfd-parser: ★111</a>
@@ -102,6 +102,7 @@ Repos:
 * <a href="https://github.com/p0dalirius/stackdumper">p0dalirius/stackdumper: ★3</a>
 * <a href="https://github.com/p0dalirius/volatility_symbols">p0dalirius/volatility_symbols: ★2</a>
 * <a href="https://github.com/p0dalirius/SortPEbyVersions">p0dalirius/SortPEbyVersions: ★2</a>
+* <a href="https://github.com/p0dalirius/CpuCoresTemperatureGraph">p0dalirius/CpuCoresTemperatureGraph: ★1</a>
 * <a href="https://github.com/p0dalirius/CoercedPotato">p0dalirius/CoercedPotato: ★1</a>
 * <a href="https://github.com/Edr4/GLPI-RCE-Authenticated">Edr4/GLPI-RCE-Authenticated: ★1</a>
 
