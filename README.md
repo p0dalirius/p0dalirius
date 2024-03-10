@@ -127,6 +127,7 @@ As part of my dedication to security, I actively report vulnerabilities I discov
 
 ### <img src="https://raw.githubusercontent.com/p0dalirius/p0dalirius/main/assets/icon-data.png" width="2%" height="2%"> Data & Researches
 
+ - [DescribeNTSecurityDescriptor](https://github.com/p0dalirius/DescribeNTSecurityDescriptor): A python tool to parse and describe the contents of a raw ntSecurityDescriptor structure. 
  - [linux-kernels](https://github.com/p0dalirius/linux-kernels): List of linux kernel versions in JSON.
  - [microsoft-rpc-fuzzing-tools](https://github.com/p0dalirius/microsoft-rpc-fuzzing-tools): This repository contains a list of python scripts to work with Microsoft RPC for research purposes. 
  - [volatility3-symbols](https://github.com/p0dalirius/volatility3-symbols): Memory mapping profiles for forensic analysis using volatility 3.
@@ -139,6 +140,7 @@ As part of my dedication to security, I actively report vulnerabilities I discov
 
  - [Argon2Cracker](https://github.com/p0dalirius/Argon2Cracker): A multithreaded bruteforcer of argon2 hashes.
  - [ctfd-parser](https://github.com/p0dalirius/ctfd-parser): A python script to dump all the challenges locally of a CTFd-based Capture the Flag.
+ - [CpuCoresTemperatureGraph](https://github.com/p0dalirius/CpuCoresTemperatureGraph): A python tool to print CPU core temperatures for each cores.
  - [factorizator](https://github.com/p0dalirius/factorizator): A script to factorize integers with sagemath and factordb. 
  - [GetFortinetSerialNumber](https://github.com/p0dalirius/GetFortinetSerialNumber): A Python script to extract the serial number of a remote Fortinet device.
  - [GithubBackupAllRepos](https://github.com/p0dalirius/GithubBackupAllRepos): A Python script to backup all repos (public or private) of a user.
