@@ -9,7 +9,7 @@ Repos:
 * <a href="https://github.com/p0dalirius/robotstester">p0dalirius/robotstester: ★38</a>
 * <a href="https://github.com/p0dalirius/microsoft-rpc-fuzzing-tools">p0dalirius/microsoft-rpc-fuzzing-tools: ★38</a>
 * <a href="https://github.com/Ruulian/CSPass">Ruulian/CSPass: ★35</a>
-* <a href="https://github.com/p0dalirius/Joomla-webshell-plugin">p0dalirius/Joomla-webshell-plugin: ★32</a>
+* <a href="https://github.com/p0dalirius/Joomla-webshell-plugin">p0dalirius/Joomla-webshell-plugin: ★33</a>
 * <a href="https://github.com/p0dalirius/sectools">p0dalirius/sectools: ★28</a>
 * <a href="https://github.com/p0dalirius/Argon2Cracker">p0dalirius/Argon2Cracker: ★27</a>
 * <a href="https://github.com/p0dalirius/WifiListProbeRequests">p0dalirius/WifiListProbeRequests: ★26</a>
