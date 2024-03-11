@@ -4,12 +4,12 @@
 
 Commits:
 
+- <a href="https://github.com/p0dalirius/p0dalirius/commit/f5d9a9b7cb30943ec47e51328fe4c9ee952523d6">f5d9a9b</a>
+- <a href="https://github.com/p0dalirius/CpuCoresTemperatureGraph/commit/dda4075af9175270671afc3aa659cdaaa30be0a6">dda4075</a>
 - <a href="https://github.com/p0dalirius/DescribeNTSecurityDescriptor/commit/e87c583bb2cf13a751b80b143ae4517ce181c8bb">e87c583</a>
 - <a href="https://github.com/p0dalirius/DescribeNTSecurityDescriptor/commit/90ca610e050f20d17724e179d0787ed5d07f5eca">90ca610</a>
 - <a href="https://github.com/p0dalirius/DescribeNTSecurityDescriptor/commit/55c41492bb1660f0353d25c80bc74d538eaad641">55c4149</a>
 - <a href="https://github.com/p0dalirius/DescribeNTSecurityDescriptor/commit/0c4c1572ed84d98cabec6ac753180633ab59538c">0c4c157</a>
-- <a href="https://github.com/p0dalirius/DescribeNTSecurityDescriptor/commit/450427a4fc9eb0c883a9a2536963b6a9827be509">450427a</a>
-- <a href="https://github.com/p0dalirius/Tomcat-webshell-application/commit/7504054d3860c4152b380ba537fe8daa4b80600d">7504054</a>
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
