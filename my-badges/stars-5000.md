@@ -4,8 +4,8 @@
 
 Repos:
 
-* <a href="https://github.com/p0dalirius/webapp-wordlists">p0dalirius/webapp-wordlists: ★459</a>
-* <a href="https://github.com/p0dalirius/windows-coerced-authentication-methods">p0dalirius/windows-coerced-authentication-methods: ★446</a>
+* <a href="https://github.com/p0dalirius/webapp-wordlists">p0dalirius/webapp-wordlists: ★458</a>
+* <a href="https://github.com/p0dalirius/windows-coerced-authentication-methods">p0dalirius/windows-coerced-authentication-methods: ★448</a>
 * <a href="https://github.com/p0dalirius/FindUncommonShares">p0dalirius/FindUncommonShares: ★368</a>
 * <a href="https://github.com/p0dalirius/ipsourcebypass">p0dalirius/ipsourcebypass: ★360</a>
 * <a href="https://github.com/ShutdownRepo/smartbrute">ShutdownRepo/smartbrute: ★313</a>
@@ -16,8 +16,8 @@ Repos:
 * <a href="https://github.com/p0dalirius/MSSQL-Analysis-Coerce">p0dalirius/MSSQL-Analysis-Coerce: ★115</a>
 * <a href="https://github.com/p0dalirius/ctfd-parser">p0dalirius/ctfd-parser: ★114</a>
 * <a href="https://github.com/p0dalirius/CVE-2022-36446-Webmin-Software-Package-Updates-RCE">p0dalirius/CVE-2022-36446-Webmin-Software-Package-Updates-RCE: ★108</a>
+* <a href="https://github.com/p0dalirius/ldap2json">p0dalirius/ldap2json: ★106</a>
 * <a href="https://github.com/p0dalirius/pdbdownload">p0dalirius/pdbdownload: ★103</a>
-* <a href="https://github.com/p0dalirius/ldap2json">p0dalirius/ldap2json: ★103</a>
 * <a href="https://github.com/p0dalirius/Tomcat-webshell-application">p0dalirius/Tomcat-webshell-application: ★86</a>
 * <a href="https://github.com/p0dalirius/CVE-2022-21907-http.sys">p0dalirius/CVE-2022-21907-http.sys: ★78</a>
 * <a href="https://github.com/p0dalirius/objectwalker">p0dalirius/objectwalker: ★76</a>
