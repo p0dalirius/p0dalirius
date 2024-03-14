@@ -4,7 +4,7 @@
 
 Repos:
 
-* <a href="https://github.com/p0dalirius/CVE-2018-16763-FuelCMS-1.4.1-RCE">p0dalirius/CVE-2018-16763-FuelCMS-1.4.1-RCE: ★8</a>
+* <a href="https://github.com/p0dalirius/hexcat">p0dalirius/hexcat: ★8</a>
 * <a href="https://github.com/p0dalirius/WindowsBuilds">p0dalirius/WindowsBuilds: ★7</a>
 * <a href="https://github.com/p0dalirius/linux-kernels">p0dalirius/linux-kernels: ★7</a>
 * <a href="https://github.com/p0dalirius/impacket">p0dalirius/impacket: ★7</a>
@@ -23,7 +23,7 @@ Repos:
 * <a href="https://github.com/p0dalirius/stackdumper">p0dalirius/stackdumper: ★3</a>
 * <a href="https://github.com/p0dalirius/volatility_symbols">p0dalirius/volatility_symbols: ★2</a>
 * <a href="https://github.com/p0dalirius/SortPEbyVersions">p0dalirius/SortPEbyVersions: ★2</a>
-* <a href="https://github.com/p0dalirius/CpuCoresTemperatureGraph">p0dalirius/CpuCoresTemperatureGraph: ★1</a>
+* <a href="https://github.com/p0dalirius/CpuCoresTemperatureGraph">p0dalirius/CpuCoresTemperatureGraph: ★2</a>
 * <a href="https://github.com/p0dalirius/CoercedPotato">p0dalirius/CoercedPotato: ★1</a>
 * <a href="https://github.com/Edr4/GLPI-RCE-Authenticated">Edr4/GLPI-RCE-Authenticated: ★1</a>
 
