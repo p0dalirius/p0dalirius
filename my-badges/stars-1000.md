@@ -4,7 +4,6 @@
 
 Repos:
 
-* <a href="https://github.com/p0dalirius/volatility2-profiles">p0dalirius/volatility2-profiles: ★42</a>
 * <a href="https://github.com/p0dalirius/RemoteMouse-3.008-Exploit">p0dalirius/RemoteMouse-3.008-Exploit: ★40</a>
 * <a href="https://github.com/p0dalirius/robotstester">p0dalirius/robotstester: ★38</a>
 * <a href="https://github.com/p0dalirius/microsoft-rpc-fuzzing-tools">p0dalirius/microsoft-rpc-fuzzing-tools: ★38</a>
@@ -67,6 +66,7 @@ Repos:
 * <a href="https://github.com/p0dalirius/FindAzureDomainTenant">p0dalirius/FindAzureDomainTenant: ★6</a>
 * <a href="https://github.com/p0dalirius/CVE-2021-31800-Impacket-SMB-Server-Arbitrary-file-read-write">p0dalirius/CVE-2021-31800-Impacket-SMB-Server-Arbitrary-file-read-write: ★6</a>
 * <a href="https://github.com/p0dalirius/what-if">p0dalirius/what-if: ★5</a>
+* <a href="https://github.com/p0dalirius/SymfonyDumpSource">p0dalirius/SymfonyDumpSource: ★5</a>
 * <a href="https://github.com/p0dalirius/CrackedNTDStoXLSX">p0dalirius/CrackedNTDStoXLSX: ★5</a>
 * <a href="https://github.com/p0dalirius/win32errorcodes">p0dalirius/win32errorcodes: ★4</a>
 * <a href="https://github.com/p0dalirius/pdsimage-downloader">p0dalirius/pdsimage-downloader: ★4</a>

@@ -4,7 +4,6 @@
 
 Repos:
 
-* <a href="https://github.com/p0dalirius/hexcat">p0dalirius/hexcat: ★8</a>
 * <a href="https://github.com/p0dalirius/DescribeNTSecurityDescriptor">p0dalirius/DescribeNTSecurityDescriptor: ★8</a>
 * <a href="https://github.com/p0dalirius/WindowsBuilds">p0dalirius/WindowsBuilds: ★7</a>
 * <a href="https://github.com/p0dalirius/linux-kernels">p0dalirius/linux-kernels: ★7</a>
@@ -15,6 +14,7 @@ Repos:
 * <a href="https://github.com/p0dalirius/FindAzureDomainTenant">p0dalirius/FindAzureDomainTenant: ★6</a>
 * <a href="https://github.com/p0dalirius/CVE-2021-31800-Impacket-SMB-Server-Arbitrary-file-read-write">p0dalirius/CVE-2021-31800-Impacket-SMB-Server-Arbitrary-file-read-write: ★6</a>
 * <a href="https://github.com/p0dalirius/what-if">p0dalirius/what-if: ★5</a>
+* <a href="https://github.com/p0dalirius/SymfonyDumpSource">p0dalirius/SymfonyDumpSource: ★5</a>
 * <a href="https://github.com/p0dalirius/CrackedNTDStoXLSX">p0dalirius/CrackedNTDStoXLSX: ★5</a>
 * <a href="https://github.com/p0dalirius/win32errorcodes">p0dalirius/win32errorcodes: ★4</a>
 * <a href="https://github.com/p0dalirius/pdsimage-downloader">p0dalirius/pdsimage-downloader: ★4</a>
