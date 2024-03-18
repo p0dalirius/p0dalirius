@@ -4,12 +4,12 @@
 
 Commits:
 
+- <a href="https://github.com/p0dalirius/Joomla-1.6-1.7-2.5-Privilege-Escalation-Vulnerability/commit/b140b36cbd7445ed053e882300575fc84d998374">b140b36</a>
+- <a href="https://github.com/p0dalirius/Joomla-1.6-1.7-2.5-Privilege-Escalation-Vulnerability/commit/c37d7ea45759fc700ee8f145f72161e1d335ff76">c37d7ea</a>
+- <a href="https://github.com/p0dalirius/Joomla-1.6-1.7-2.5-Privilege-Escalation-Vulnerability/commit/9e07b27c9dc2428b606789d6a03f8af94caa1252">9e07b27</a>
+- <a href="https://github.com/p0dalirius/Joomla-1.6-1.7-2.5-Privilege-Escalation-Vulnerability/commit/fa9102c728f4cd6b2ded11a351f6745d11c32241">fa9102c</a>
+- <a href="https://github.com/p0dalirius/AccountShadowTakeover/commit/af30f61f51d4213c967afc0a3ad67f6efd7cff38">af30f61</a>
 - <a href="https://github.com/p0dalirius/webapp-wordlists/commit/c1b6ec2d1562a68a720a45ddd3d900688dc3d007">c1b6ec2</a>
-- <a href="https://github.com/p0dalirius/webapp-wordlists/commit/5eed546934172f5d8dcf4051c5dfa8b2876c88e6">5eed546</a>
-- <a href="https://github.com/p0dalirius/windows-coerced-authentication-methods/commit/2589eeed240298aa11f75041d49a6467c473e43d">2589eee</a>
-- <a href="https://github.com/p0dalirius/ListValidGSuiteEmails/commit/be0c03a0a762ba2be01f1e96211dc3cd5bf9e535">be0c03a</a>
-- <a href="https://github.com/p0dalirius/ListValidGSuiteEmails/commit/9c8ef0c47f2053cdb82978dd48eed6cb3a931016">9c8ef0c</a>
-- <a href="https://github.com/p0dalirius/ListValidGSuiteEmails/commit/7a82de851fe5509482eca203df1983fc3a61c0dc">7a82de8</a>
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>

@@ -4,9 +4,9 @@
 
 Repos:
 
-* <a href="https://github.com/p0dalirius/webapp-wordlists">p0dalirius/webapp-wordlists: ★458</a>
+* <a href="https://github.com/p0dalirius/webapp-wordlists">p0dalirius/webapp-wordlists: ★459</a>
 * <a href="https://github.com/p0dalirius/windows-coerced-authentication-methods">p0dalirius/windows-coerced-authentication-methods: ★448</a>
-* <a href="https://github.com/p0dalirius/FindUncommonShares">p0dalirius/FindUncommonShares: ★368</a>
+* <a href="https://github.com/p0dalirius/FindUncommonShares">p0dalirius/FindUncommonShares: ★369</a>
 * <a href="https://github.com/p0dalirius/ipsourcebypass">p0dalirius/ipsourcebypass: ★359</a>
 * <a href="https://github.com/ShutdownRepo/smartbrute">ShutdownRepo/smartbrute: ★313</a>
 * <a href="https://github.com/p0dalirius/LDAPWordlistHarvester">p0dalirius/LDAPWordlistHarvester: ★283</a>
@@ -18,14 +18,14 @@ Repos:
 * <a href="https://github.com/p0dalirius/ldap2json">p0dalirius/ldap2json: ★109</a>
 * <a href="https://github.com/p0dalirius/CVE-2022-36446-Webmin-Software-Package-Updates-RCE">p0dalirius/CVE-2022-36446-Webmin-Software-Package-Updates-RCE: ★108</a>
 * <a href="https://github.com/p0dalirius/pdbdownload">p0dalirius/pdbdownload: ★103</a>
-* <a href="https://github.com/p0dalirius/Tomcat-webshell-application">p0dalirius/Tomcat-webshell-application: ★86</a>
+* <a href="https://github.com/p0dalirius/Tomcat-webshell-application">p0dalirius/Tomcat-webshell-application: ★87</a>
 * <a href="https://github.com/p0dalirius/CVE-2022-21907-http.sys">p0dalirius/CVE-2022-21907-http.sys: ★78</a>
 * <a href="https://github.com/p0dalirius/objectwalker">p0dalirius/objectwalker: ★76</a>
 * <a href="https://github.com/p0dalirius/CVE-2021-43008-AdminerRead">p0dalirius/CVE-2021-43008-AdminerRead: ★71</a>
 * <a href="https://github.com/p0dalirius/RDWAtool">p0dalirius/RDWAtool: ★68</a>
 * <a href="https://github.com/p0dalirius/LFIDump">p0dalirius/LFIDump: ★58</a>
 * <a href="https://github.com/p0dalirius/pyLAPS">p0dalirius/pyLAPS: ★56</a>
-* <a href="https://github.com/p0dalirius/owabrute">p0dalirius/owabrute: ★53</a>
+* <a href="https://github.com/p0dalirius/owabrute">p0dalirius/owabrute: ★54</a>
 * <a href="https://github.com/p0dalirius/pydsinternals">p0dalirius/pydsinternals: ★50</a>
 * <a href="https://github.com/ShutdownRepo/httpmethods">ShutdownRepo/httpmethods: ★48</a>
 * <a href="https://github.com/p0dalirius/Wordpress-webshell-plugin">p0dalirius/Wordpress-webshell-plugin: ★48</a>
