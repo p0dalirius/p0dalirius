@@ -4,8 +4,8 @@
 
 Repos:
 
-* <a href="https://github.com/p0dalirius/webapp-wordlists">p0dalirius/webapp-wordlists: ★460</a>
-* <a href="https://github.com/p0dalirius/windows-coerced-authentication-methods">p0dalirius/windows-coerced-authentication-methods: ★452</a>
+* <a href="https://github.com/p0dalirius/webapp-wordlists">p0dalirius/webapp-wordlists: ★463</a>
+* <a href="https://github.com/p0dalirius/windows-coerced-authentication-methods">p0dalirius/windows-coerced-authentication-methods: ★454</a>
 * <a href="https://github.com/p0dalirius/FindUncommonShares">p0dalirius/FindUncommonShares: ★370</a>
 * <a href="https://github.com/p0dalirius/ipsourcebypass">p0dalirius/ipsourcebypass: ★359</a>
 * <a href="https://github.com/ShutdownRepo/smartbrute">ShutdownRepo/smartbrute: ★314</a>
