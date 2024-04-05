@@ -4,7 +4,7 @@
 
 Repos:
 
-* <a href="https://github.com/p0dalirius/webapp-wordlists">p0dalirius/webapp-wordlists: ★468</a>
+* <a href="https://github.com/p0dalirius/webapp-wordlists">p0dalirius/webapp-wordlists: ★471</a>
 * <a href="https://github.com/p0dalirius/windows-coerced-authentication-methods">p0dalirius/windows-coerced-authentication-methods: ★454</a>
 * <a href="https://github.com/p0dalirius/FindUncommonShares">p0dalirius/FindUncommonShares: ★371</a>
 * <a href="https://github.com/p0dalirius/ipsourcebypass">p0dalirius/ipsourcebypass: ★359</a>
