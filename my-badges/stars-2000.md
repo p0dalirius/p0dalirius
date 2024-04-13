@@ -12,7 +12,7 @@ Repos:
 * <a href="https://github.com/p0dalirius/CVE-2021-43008-AdminerRead">p0dalirius/CVE-2021-43008-AdminerRead: ★71</a>
 * <a href="https://github.com/p0dalirius/RDWAtool">p0dalirius/RDWAtool: ★69</a>
 * <a href="https://github.com/p0dalirius/LFIDump">p0dalirius/LFIDump: ★59</a>
-* <a href="https://github.com/p0dalirius/pyLAPS">p0dalirius/pyLAPS: ★57</a>
+* <a href="https://github.com/p0dalirius/pyLAPS">p0dalirius/pyLAPS: ★58</a>
 * <a href="https://github.com/p0dalirius/owabrute">p0dalirius/owabrute: ★54</a>
 * <a href="https://github.com/p0dalirius/Wordpress-webshell-plugin">p0dalirius/Wordpress-webshell-plugin: ★50</a>
 * <a href="https://github.com/p0dalirius/pydsinternals">p0dalirius/pydsinternals: ★50</a>
@@ -24,7 +24,7 @@ Repos:
 * <a href="https://github.com/p0dalirius/microsoft-rpc-fuzzing-tools">p0dalirius/microsoft-rpc-fuzzing-tools: ★39</a>
 * <a href="https://github.com/p0dalirius/robotstester">p0dalirius/robotstester: ★38</a>
 * <a href="https://github.com/Ruulian/CSPass">Ruulian/CSPass: ★36</a>
-* <a href="https://github.com/p0dalirius/Joomla-webshell-plugin">p0dalirius/Joomla-webshell-plugin: ★34</a>
+* <a href="https://github.com/p0dalirius/Joomla-webshell-plugin">p0dalirius/Joomla-webshell-plugin: ★35</a>
 * <a href="https://github.com/p0dalirius/sectools">p0dalirius/sectools: ★28</a>
 * <a href="https://github.com/p0dalirius/Argon2Cracker">p0dalirius/Argon2Cracker: ★27</a>
 * <a href="https://github.com/p0dalirius/WifiListProbeRequests">p0dalirius/WifiListProbeRequests: ★26</a>
