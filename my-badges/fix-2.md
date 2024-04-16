@@ -4,8 +4,8 @@
 
 Commits:
 
-- <a href="https://github.com/p0dalirius/UsersWithPwdLastSetOlderThan/commit/26635e6bc3df1b2c1a62d01cf6be48573fe56b17">26635e6</a>: Fixed pwdLastSetTime format
-- <a href="https://github.com/p0dalirius/UsersWithPwdLastSetOlderThan/commit/ab2a0456abd0ac181c65750b91c0171c9adc2cb0">ab2a045</a>: Fixed Microsot epoch timestamp for pwdLastSet
+- <a href="https://github.com/p0dalirius/win32errorcodes/commit/d0788de868cd83aeca9310811921dcd422d9171b">d0788de</a>: Fixed .h header file generation (missing function prototypes)
+- <a href="https://github.com/p0dalirius/win32errorcodes/commit/60c75e85029b50eac4976d920ca1945a85287647">60c75e8</a>: Fixed .h header file generation (missing function prototypes)
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
