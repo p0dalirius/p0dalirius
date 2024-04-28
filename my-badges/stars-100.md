@@ -4,7 +4,7 @@
 
 Repos:
 
-* <a href="https://github.com/p0dalirius/DescribeSDDL">p0dalirius/DescribeSDDL: ★8</a>
+* <a href="https://github.com/p0dalirius/mercurial-scm-extract">p0dalirius/mercurial-scm-extract: ★7</a>
 * <a href="https://github.com/p0dalirius/linux-kernels">p0dalirius/linux-kernels: ★7</a>
 * <a href="https://github.com/p0dalirius/impacket">p0dalirius/impacket: ★7</a>
 * <a href="https://github.com/p0dalirius/Windows-Hardening">p0dalirius/Windows-Hardening: ★6</a>
