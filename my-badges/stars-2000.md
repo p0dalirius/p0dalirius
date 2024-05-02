@@ -13,8 +13,8 @@ Repos:
 * <a href="https://github.com/p0dalirius/LFIDump">p0dalirius/LFIDump: ★61</a>
 * <a href="https://github.com/p0dalirius/pyLAPS">p0dalirius/pyLAPS: ★60</a>
 * <a href="https://github.com/p0dalirius/owabrute">p0dalirius/owabrute: ★55</a>
+* <a href="https://github.com/p0dalirius/ldapconsole">p0dalirius/ldapconsole: ★52</a>
 * <a href="https://github.com/p0dalirius/Wordpress-webshell-plugin">p0dalirius/Wordpress-webshell-plugin: ★51</a>
-* <a href="https://github.com/p0dalirius/ldapconsole">p0dalirius/ldapconsole: ★51</a>
 * <a href="https://github.com/p0dalirius/pydsinternals">p0dalirius/pydsinternals: ★49</a>
 * <a href="https://github.com/ShutdownRepo/httpmethods">ShutdownRepo/httpmethods: ★48</a>
 * <a href="https://github.com/p0dalirius/volatility2-profiles">p0dalirius/volatility2-profiles: ★43</a>
@@ -22,7 +22,7 @@ Repos:
 * <a href="https://github.com/p0dalirius/RemoteMouse-3.008-Exploit">p0dalirius/RemoteMouse-3.008-Exploit: ★40</a>
 * <a href="https://github.com/p0dalirius/microsoft-rpc-fuzzing-tools">p0dalirius/microsoft-rpc-fuzzing-tools: ★40</a>
 * <a href="https://github.com/p0dalirius/robotstester">p0dalirius/robotstester: ★39</a>
-* <a href="https://github.com/Ruulian/CSPass">Ruulian/CSPass: ★36</a>
+* <a href="https://github.com/Ruulian/CSPass">Ruulian/CSPass: ★37</a>
 * <a href="https://github.com/p0dalirius/Joomla-webshell-plugin">p0dalirius/Joomla-webshell-plugin: ★36</a>
 * <a href="https://github.com/p0dalirius/sectools">p0dalirius/sectools: ★29</a>
 * <a href="https://github.com/p0dalirius/Argon2Cracker">p0dalirius/Argon2Cracker: ★27</a>
