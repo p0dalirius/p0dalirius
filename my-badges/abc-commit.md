@@ -2,7 +2,7 @@
 <strong>One of my commit sha starts with &quot;abc&quot;.</strong>
 <br><br>
 
-- <a href="https://github.com/p0dalirius/webapp-wordlists/commit/abc8a57d81293113d2014dc2b0f037823ffa145c"><strong>abc</strong>8a57d81293113d2014dc2b0f037823ffa145c</a>
+- <a href="https://github.com/p0dalirius/webapp-wordlists/commit/abc83f90c176ed24e5f92088266abf6a0ee59f58"><strong>abc</strong>83f90c176ed24e5f92088266abf6a0ee59f58</a>
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
