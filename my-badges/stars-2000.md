@@ -10,12 +10,12 @@ Repos:
 * <a href="https://github.com/p0dalirius/objectwalker">p0dalirius/objectwalker: ★76</a>
 * <a href="https://github.com/p0dalirius/CVE-2021-43008-AdminerRead">p0dalirius/CVE-2021-43008-AdminerRead: ★73</a>
 * <a href="https://github.com/p0dalirius/RDWAtool">p0dalirius/RDWAtool: ★72</a>
+* <a href="https://github.com/p0dalirius/pyLAPS">p0dalirius/pyLAPS: ★62</a>
 * <a href="https://github.com/p0dalirius/LFIDump">p0dalirius/LFIDump: ★62</a>
-* <a href="https://github.com/p0dalirius/pyLAPS">p0dalirius/pyLAPS: ★61</a>
 * <a href="https://github.com/p0dalirius/owabrute">p0dalirius/owabrute: ★56</a>
 * <a href="https://github.com/p0dalirius/ldapconsole">p0dalirius/ldapconsole: ★54</a>
 * <a href="https://github.com/p0dalirius/Wordpress-webshell-plugin">p0dalirius/Wordpress-webshell-plugin: ★52</a>
-* <a href="https://github.com/p0dalirius/pydsinternals">p0dalirius/pydsinternals: ★50</a>
+* <a href="https://github.com/p0dalirius/pydsinternals">p0dalirius/pydsinternals: ★51</a>
 * <a href="https://github.com/ShutdownRepo/httpmethods">ShutdownRepo/httpmethods: ★48</a>
 * <a href="https://github.com/p0dalirius/volatility2-profiles">p0dalirius/volatility2-profiles: ★43</a>
 * <a href="https://github.com/p0dalirius/CVE-2022-45771-Pwndoc-LFI-to-RCE">p0dalirius/CVE-2022-45771-Pwndoc-LFI-to-RCE: ★43</a>
@@ -94,8 +94,8 @@ Repos:
 * <a href="https://github.com/p0dalirius/volatility_symbols">p0dalirius/volatility_symbols: ★2</a>
 * <a href="https://github.com/p0dalirius/SortPEbyVersions">p0dalirius/SortPEbyVersions: ★2</a>
 * <a href="https://github.com/p0dalirius/CpuCoresTemperatureGraph">p0dalirius/CpuCoresTemperatureGraph: ★2</a>
+* <a href="https://github.com/p0dalirius/ADcheck">p0dalirius/ADcheck: ★2</a>
 * <a href="https://github.com/p0dalirius/CoercedPotato">p0dalirius/CoercedPotato: ★1</a>
-* <a href="https://github.com/p0dalirius/ADcheck">p0dalirius/ADcheck: ★1</a>
 * <a href="https://github.com/Edr4/GLPI-RCE-Authenticated">Edr4/GLPI-RCE-Authenticated: ★1</a>
 
 <sup>I have push, maintainer or admin permissions, so I'm definitely an author.<sup>
