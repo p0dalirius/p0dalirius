@@ -48,16 +48,17 @@ Repos:
 * <a href="https://github.com/p0dalirius/goLAPS">p0dalirius/goLAPS: ★11</a>
 * <a href="https://github.com/p0dalirius/GhostSPN">p0dalirius/GhostSPN: ★11</a>
 * <a href="https://github.com/p0dalirius/ListValidGSuiteEmails">p0dalirius/ListValidGSuiteEmails: ★10</a>
+* <a href="https://github.com/p0dalirius/Joomla-1.6-1.7-2.5-Privilege-Escalation-Vulnerability">p0dalirius/Joomla-1.6-1.7-2.5-Privilege-Escalation-Vulnerability: ★10</a>
 * <a href="https://github.com/p0dalirius/factorizator">p0dalirius/factorizator: ★10</a>
 * <a href="https://github.com/pwnwithlove/conf-steakoverlow-2022">pwnwithlove/conf-steakoverlow-2022: ★9</a>
 * <a href="https://github.com/p0dalirius/SortWindowsISOs">p0dalirius/SortWindowsISOs: ★9</a>
 * <a href="https://github.com/p0dalirius/pwndocapi">p0dalirius/pwndocapi: ★9</a>
-* <a href="https://github.com/p0dalirius/Joomla-1.6-1.7-2.5-Privilege-Escalation-Vulnerability">p0dalirius/Joomla-1.6-1.7-2.5-Privilege-Escalation-Vulnerability: ★9</a>
 * <a href="https://github.com/p0dalirius/hexcat">p0dalirius/hexcat: ★9</a>
 * <a href="https://github.com/p0dalirius/CVE-2018-16763-FuelCMS-1.4.1-RCE">p0dalirius/CVE-2018-16763-FuelCMS-1.4.1-RCE: ★9</a>
 * <a href="https://github.com/p0dalirius/WindowsBuilds">p0dalirius/WindowsBuilds: ★8</a>
 * <a href="https://github.com/p0dalirius/python_packages_paths">p0dalirius/python_packages_paths: ★8</a>
 * <a href="https://github.com/p0dalirius/DescribeSDDL">p0dalirius/DescribeSDDL: ★8</a>
+* <a href="https://github.com/p0dalirius/streamableDownloader">p0dalirius/streamableDownloader: ★7</a>
 * <a href="https://github.com/p0dalirius/mercurial-scm-extract">p0dalirius/mercurial-scm-extract: ★7</a>
 * <a href="https://github.com/p0dalirius/linux-kernels">p0dalirius/linux-kernels: ★7</a>
 * <a href="https://github.com/p0dalirius/impacket">p0dalirius/impacket: ★7</a>
@@ -65,7 +66,6 @@ Repos:
 * <a href="https://github.com/p0dalirius/UsersWithPwdLastSetOlderThan">p0dalirius/UsersWithPwdLastSetOlderThan: ★6</a>
 * <a href="https://github.com/p0dalirius/SymfonyDumpSource">p0dalirius/SymfonyDumpSource: ★6</a>
 * <a href="https://github.com/p0dalirius/SweetRice-webshell-plugin">p0dalirius/SweetRice-webshell-plugin: ★6</a>
-* <a href="https://github.com/p0dalirius/streamableDownloader">p0dalirius/streamableDownloader: ★6</a>
 * <a href="https://github.com/p0dalirius/FindAzureDomainTenant">p0dalirius/FindAzureDomainTenant: ★6</a>
 * <a href="https://github.com/p0dalirius/CVE-2021-31800-Impacket-SMB-Server-Arbitrary-file-read-write">p0dalirius/CVE-2021-31800-Impacket-SMB-Server-Arbitrary-file-read-write: ★6</a>
 * <a href="https://github.com/p0dalirius/what-if">p0dalirius/what-if: ★5</a>
