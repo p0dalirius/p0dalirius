@@ -10,7 +10,7 @@ Repos:
 * <a href="https://github.com/p0dalirius/objectwalker">p0dalirius/objectwalker: ★76</a>
 * <a href="https://github.com/p0dalirius/RDWAtool">p0dalirius/RDWAtool: ★74</a>
 * <a href="https://github.com/p0dalirius/CVE-2021-43008-AdminerRead">p0dalirius/CVE-2021-43008-AdminerRead: ★73</a>
-* <a href="https://github.com/p0dalirius/pyLAPS">p0dalirius/pyLAPS: ★65</a>
+* <a href="https://github.com/p0dalirius/pyLAPS">p0dalirius/pyLAPS: ★66</a>
 * <a href="https://github.com/p0dalirius/LFIDump">p0dalirius/LFIDump: ★63</a>
 * <a href="https://github.com/p0dalirius/owabrute">p0dalirius/owabrute: ★56</a>
 * <a href="https://github.com/p0dalirius/ldapconsole">p0dalirius/ldapconsole: ★56</a>
