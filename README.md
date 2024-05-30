@@ -110,7 +110,7 @@ As part of my dedication to security, I actively report vulnerabilities I discov
 
 
 <!-- -->
-<details open><summary><h3><img src="https://raw.githubusercontent.com/p0dalirius/p0dalirius/main/assets/icon-target.png" width="2%" height="2%"> Vulnerability exploits</h3></summary><ul>
+<details open><summary><h3>Vulnerability exploits</h3></summary><ul>
 <li><a href="https://github.com/p0dalirius/RemoteMouse-3.008-Exploit">RemoteMouse-3.008-Exploit</a>: This exploit allows to connect to the remote RemoteMouse 3.008 service to virtually press arbitrary keys and execute code on the machine. </li>
 <li><a href="https://github.com/p0dalirius/CVE-2016-10956-mail-masta">CVE-2016-10956-mail-masta</a>: MailMasta wordpress plugin Local File Inclusion vulnerability (CVE-2016-10956).</li>
 <li><a href="https://github.com/p0dalirius/CVE-2020-14144-GiTea-git-hooks-rce">CVE-2020-14144-GiTea-git-hooks-rce</a>: A script to exploit CVE-2020-14144 - GiTea authenticated Remote Code Execution using git hooks.</li>
