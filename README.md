@@ -57,25 +57,30 @@ As part of my dedication to security, I actively report vulnerabilities I discov
 ---
 
 ## Summary of my tools
+<details open>
+<summary>
+     <h3><img src="https://raw.githubusercontent.com/p0dalirius/p0dalirius/main/assets/icon-ad.png" width="4%" height="4%"> Active Directory tools</h3>
+</summary>
+<ul>
+<li><a href="https://github.com/p0dalirius/AccountShadowTakeover">AccountShadowTakeover</a>: A python script to automatically add a KeyCredentialLink to newly created users, by quickly connecting to them with default credentials.</li>
+<li><a href="https://github.com/p0dalirius/Coercer">Coercer</a>: A python script to automatically coerce a Windows server to authenticate on an arbitrary machine through 9 methods.</li>
+<li><a href="https://github.com/p0dalirius/DomainUsersToXLSX">DomainUsersToXLSX</a>: Extract all users from an Active Directory domain to an Excel worksheet.</li>
+<li><a href="https://github.com/p0dalirius/DumpSMBShare">DumpSMBShare</a>: A script to dump files and folders remotely from a Windows SMB share.</li>
+<li><a href="https://github.com/p0dalirius/ExtractBitlockerKeys">ExtractBitlockerKeys</a>: A post-exploitation python script to automatically extract the bitlocker recovery keys from a domain. </li>
+<li><a href="https://github.com/p0dalirius/FindUncommonShares">FindUncommonShares</a>: A Python tool allowing to quickly find uncommon shares in vast Windows Domains.</li>
+<li><a href="https://github.com/p0dalirius/GeoWordlists">GeoWordlists</a>: GeoWordlists is a tool to generate wordlists of passwords containing cities at a defined distance around the client city. </li>
+<li><a href="https://github.com/p0dalirius/ldap2json">ldap2json</a>: The ldap2json script allows you to extract the whole LDAP content of a Windows domain into a JSON file. </li>
+<li><a href="https://github.com/p0dalirius/ldapconsole">ldapconsole</a>: The ldapconsole script allows you to perform custom LDAP requests to a Windows domain.</li>
+<li><a href="https://github.com/p0dalirius/LDAPmonitor">LDAPmonitor</a>: Monitor creation, deletion and changes to LDAP objects live during your pentest or system administration!</li>
+<li><a href="https://github.com/p0dalirius/LDAPWordlistHarvester">LDAPWordlistHarvester</a>: A tool to generate a wordlist from the information present in LDAP, in order to crack passwords of domain accounts.</li>
+<li><a href="https://github.com/p0dalirius/MSRPRN-Coerce">MSRPRN-Coerce</a>: A python script to force authentification using MS-RPRN RemoteFindFirstPrinterChangeNotificationEx function (opnum 69).</li>
+<li><a href="https://github.com/p0dalirius/pydsinternals">pydsinternals</a>: A Python native library containing necessary classes, functions and structures to interact with Windows Active Directory. </li>
+<li><a href="https://github.com/p0dalirius/pyLAPS">pyLAPS</a>: Python setter/getter for property ms-Mcs-AdmPwd used by LAPS.</li>
+<li><a href="https://github.com/p0dalirius/TargetAllDomainObjects">TargetAllDomainObjects</a>: A python wrapper to run a command on against all users/computers/DCs of a Windows Domain.</li>
+</ul>
 
-### <img src="https://raw.githubusercontent.com/p0dalirius/p0dalirius/main/assets/icon-ad.png" width="2%" height="2%"> Active Directory tools
+</details>
 
- - [AccountShadowTakeover](https://github.com/p0dalirius/AccountShadowTakeover): A python script to automatically add a KeyCredentialLink to newly created users, by quickly connecting to them with default credentials.
- - [Coercer](https://github.com/p0dalirius/Coercer): A python script to automatically coerce a Windows server to authenticate on an arbitrary machine through 9 methods.
- - [DomainUsersToXLSX](https://github.com/p0dalirius/DomainUsersToXLSX): Extract all users from an Active Directory domain to an Excel worksheet.
- - [DumpSMBShare](https://github.com/p0dalirius/DumpSMBShare): A script to dump files and folders remotely from a Windows SMB share.
- - [ExtractBitlockerKeys](https://github.com/p0dalirius/ExtractBitlockerKeys): A post-exploitation python script to automatically extract the bitlocker recovery keys from a domain. 
- - [FindUncommonShares](https://github.com/p0dalirius/FindUncommonShares): A Python tool allowing to quickly find uncommon shares in vast Windows Domains.
- - [GeoWordlists](https://github.com/p0dalirius/GeoWordlists): GeoWordlists is a tool to generate wordlists of passwords containing cities at a defined distance around the client city. 
- - [ldap2json](https://github.com/p0dalirius/ldap2json): The ldap2json script allows you to extract the whole LDAP content of a Windows domain into a JSON file. 
- - [ldapconsole](https://github.com/p0dalirius/ldapconsole): The ldapconsole script allows you to perform custom LDAP requests to a Windows domain.
- - [LDAPmonitor](https://github.com/p0dalirius/LDAPmonitor): Monitor creation, deletion and changes to LDAP objects live during your pentest or system administration!
- - [LDAPWordlistHarvester](https://github.com/p0dalirius/LDAPWordlistHarvester): A tool to generate a wordlist from the information present in LDAP, in order to crack passwords of domain accounts.
- - [MSRPRN-Coerce](https://github.com/p0dalirius/MSRPRN-Coerce): A python script to force authentification using MS-RPRN RemoteFindFirstPrinterChangeNotificationEx function (opnum 69).
- - [pydsinternals](https://github.com/p0dalirius/pydsinternals): A Python native library containing necessary classes, functions and structures to interact with Windows Active Directory. 
- - [pyLAPS](https://github.com/p0dalirius/pyLAPS): Python setter/getter for property ms-Mcs-AdmPwd used by LAPS.
- - [TargetAllDomainObjects](https://github.com/p0dalirius/TargetAllDomainObjects): A python wrapper to run a command on against all users/computers/DCs of a Windows Domain.
- 
 ### <img src="https://raw.githubusercontent.com/p0dalirius/p0dalirius/main/assets/icon-www.png" width="2%" height="2%"> Web exploitation tools
 
  - [ApacheTomcatScanner](https://github.com/p0dalirius/ApacheTomcatScanner): A python script to scan for Apache Tomcat server vulnerabilities. 
