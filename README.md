@@ -57,11 +57,8 @@ As part of my dedication to security, I actively report vulnerabilities I discov
 ---
 
 ## Summary of my tools
-<details open>
-<summary>
-     <h3><img src="https://raw.githubusercontent.com/p0dalirius/p0dalirius/main/assets/icon-ad.png" width="4%" height="4%"> Active Directory tools</h3>
-</summary>
-<ul>
+<!-- -->
+<details open><summary><h3><img src="https://raw.githubusercontent.com/p0dalirius/p0dalirius/main/assets/icon-ad.png" width="4%" height="4%"> Active Directory tools</h3></summary><ul>
 <li><a href="https://github.com/p0dalirius/AccountShadowTakeover">AccountShadowTakeover</a>: A python script to automatically add a KeyCredentialLink to newly created users, by quickly connecting to them with default credentials.</li>
 <li><a href="https://github.com/p0dalirius/Coercer">Coercer</a>: A python script to automatically coerce a Windows server to authenticate on an arbitrary machine through 9 methods.</li>
 <li><a href="https://github.com/p0dalirius/DomainUsersToXLSX">DomainUsersToXLSX</a>: Extract all users from an Active Directory domain to an Excel worksheet.</li>
@@ -78,84 +75,96 @@ As part of my dedication to security, I actively report vulnerabilities I discov
 <li><a href="https://github.com/p0dalirius/pyLAPS">pyLAPS</a>: Python setter/getter for property ms-Mcs-AdmPwd used by LAPS.</li>
 <li><a href="https://github.com/p0dalirius/TargetAllDomainObjects">TargetAllDomainObjects</a>: A python wrapper to run a command on against all users/computers/DCs of a Windows Domain.</li>
 </ul>
-
 </details>
 
-### <img src="https://raw.githubusercontent.com/p0dalirius/p0dalirius/main/assets/icon-www.png" width="2%" height="2%"> Web exploitation tools
+<!-- -->
+<details open><summary><h3><img src="https://raw.githubusercontent.com/p0dalirius/p0dalirius/main/assets/icon-www.png" width="4%" height="4%"> Web exploitation tools</h3></summary><ul>
+<li><a href="https://github.com/p0dalirius/ApacheTomcatScanner">ApacheTomcatScanner</a>: A python script to scan for Apache Tomcat server vulnerabilities. </li>
+<li><a href="https://github.com/p0dalirius/Awesome-RCE-techniques">Awesome-RCE-techniques</a>: Awesome list of techniques to achieve Remote Code Execution on various apps!</li>
+<li><a href="https://github.com/p0dalirius/crawlersuseragents">crawlersuseragents</a>: Python script to check if there is any differences in responses of an application when the request comes from a search engine&#39;s crawler.</li>
+<li><a href="https://github.com/p0dalirius/CodeIgniter-session-unsign">CodeIgniter-session-unsign</a>: Command line tool to fetch, decode and brute-force CodeIgniter session cookies by guessing and bruteforcing secret keys.</li>
+<li><a href="https://github.com/p0dalirius/FindAzureDomainTenant">FindAzureDomainTenant</a>: A Python script to find tenant id an region from a list of domain names. </li>
+<li><a href="https://github.com/p0dalirius/http-fuzzing-scripts">http-fuzzing-scripts</a>: A collection of http fuzzing python scripts to fuzz HTTP servers for bugs. </li>
+<li><a href="https://github.com/p0dalirius/ipsourcebypass">ipsourcebypass</a>: This Python script can be used to bypass IP source restrictions using HTTP headers. </li>
+<li><a href="https://github.com/p0dalirius/Joomla-1.6-1.7-2.5-Privilege-Escalation-Vulnerability">Joomla-1.6-1.7-2.5-Privilege-Escalation-Vulnerability</a>: A Python script to create an administrator account on Joomla! 1.6/1.7/2.5 using a privilege escalation vulnerability.</li>
+<li><a href="https://github.com/p0dalirius/LFIDump">LFIDump</a>: A simple python script to dump remote files through a local file read or local file inclusion web vulnerability. </li>
+<li><a href="https://github.com/p0dalirius/LootApacheServerStatus">LootApacheServerStatus</a>: A script to automatically dump all URLs present in /server-status to a file locally.</li>
+<li><a href="https://github.com/p0dalirius/mercurial-scm-extract">mercurial-scm-extract</a>: A tool to extract and dump files of mercurial SCM exposed on a web server.</li>
+<li><a href="https://github.com/p0dalirius/owabrute">owabrute</a>: Hydra wrapper for bruteforcing Microsoft Outlook Web Application. </li>
+<li><a href="https://github.com/p0dalirius/RDWArecon">RDWArecon</a>: A python script to extract information from a Microsoft Remote Desktop Web Access (RDWA) application.</li>
+<li><a href="https://github.com/p0dalirius/robotstester">robotstester</a>: This Python script can enumerate all URLs present in robots.txt files, and test whether they can be accessed or not.</li>
+<li><a href="https://github.com/p0dalirius/robotsvalidator">robotsvalidator</a>: The robotsvalidator script allows you to check if URLs are allowed or disallowed by a robots.txt file. </li>
+<li><a href="https://github.com/p0dalirius/TimeBasedLoginUserEnum">TimeBasedLoginUserEnum</a>: A script to enumerate valid usernames based on the requests response times.</li>
+<li><a href="https://github.com/p0dalirius/webapp-wordlists">webapp-wordlists</a>: This repository contains wordlists for each versions of common web applications and content management systems (CMS). Each version contains a wordlist of all the files directories for this version.</li>
+</ul>
+</details>
 
- - [ApacheTomcatScanner](https://github.com/p0dalirius/ApacheTomcatScanner): A python script to scan for Apache Tomcat server vulnerabilities. 
- - [Awesome-RCE-techniques](https://github.com/p0dalirius/Awesome-RCE-techniques): Awesome list of techniques to achieve Remote Code Execution on various apps!
- - [crawlersuseragents](https://github.com/p0dalirius/crawlersuseragents): Python script to check if there is any differences in responses of an application when the request comes from a search engine's crawler.
- - [CodeIgniter-session-unsign](https://github.com/p0dalirius/CodeIgniter-session-unsign): Command line tool to fetch, decode and brute-force CodeIgniter session cookies by guessing and bruteforcing secret keys.
- - [FindAzureDomainTenant](https://github.com/p0dalirius/FindAzureDomainTenant): A Python script to find tenant id an region from a list of domain names. 
- - [http-fuzzing-scripts](https://github.com/p0dalirius/http-fuzzing-scripts): A collection of http fuzzing python scripts to fuzz HTTP servers for bugs. 
- - [ipsourcebypass](https://github.com/p0dalirius/ipsourcebypass): This Python script can be used to bypass IP source restrictions using HTTP headers. 
- - [Joomla-1.6-1.7-2.5-Privilege-Escalation-Vulnerability](https://github.com/p0dalirius/Joomla-1.6-1.7-2.5-Privilege-Escalation-Vulnerability): A Python script to create an administrator account on Joomla! 1.6/1.7/2.5 using a privilege escalation vulnerability.
- - [LFIDump](https://github.com/p0dalirius/LFIDump): A simple python script to dump remote files through a local file read or local file inclusion web vulnerability. 
- - [LootApacheServerStatus](https://github.com/p0dalirius/LootApacheServerStatus): A script to automatically dump all URLs present in /server-status to a file locally.
- - [mercurial-scm-extract](https://github.com/p0dalirius/mercurial-scm-extract): A tool to extract and dump files of mercurial SCM exposed on a web server.
- - [owabrute](https://github.com/p0dalirius/owabrute): Hydra wrapper for bruteforcing Microsoft Outlook Web Application. 
- - [RDWArecon](https://github.com/p0dalirius/RDWArecon): A python script to extract information from a Microsoft Remote Desktop Web Access (RDWA) application.
- - [robotstester](https://github.com/p0dalirius/robotstester): This Python script can enumerate all URLs present in robots.txt files, and test whether they can be accessed or not.
- - [robotsvalidator](https://github.com/p0dalirius/robotsvalidator): The robotsvalidator script allows you to check if URLs are allowed or disallowed by a robots.txt file. 
- - [TimeBasedLoginUserEnum](https://github.com/p0dalirius/TimeBasedLoginUserEnum): A script to enumerate valid usernames based on the requests response times.
- - [webapp-wordlists](https://github.com/p0dalirius/webapp-wordlists): This repository contains wordlists for each versions of common web applications and content management systems (CMS). Each version contains a wordlist of all the files directories for this version.
+<!-- -->
+<details open><summary><h3><img src="https://raw.githubusercontent.com/p0dalirius/p0dalirius/main/assets/icon-www.png" width="4%" height="4%"> Web shells</h3></summary><ul>
+<li><a href="https://github.com/p0dalirius/JoGet-plugin-webshell">JoGet-plugin-webshell</a>: A webshell plugin and interactive shell for pentesting JoGet application.</li>
+<li><a href="https://github.com/p0dalirius/LimeSurvey-plugin-webshell">LimeSurvey-plugin-webshell</a>: A webshell plugin and interactive shell for pentesting JoGet application. </li>
+<li><a href="https://github.com/p0dalirius/Moodle-webshell-plugin">Moodle-webshell-plugin</a>: A webshell plugin and interactive shell for pentesting a Moodle instance.</li>
+<li><a href="https://github.com/p0dalirius/Tomcat-application-webshell">Tomcat-application-webshell</a>: A webshell application and interactive shell for pentesting Apache Tomcat servers. </li>
+</ul>
+</details>
 
-### <img src="https://raw.githubusercontent.com/p0dalirius/p0dalirius/main/assets/icon-www.png" width="2%" height="2%"> Web shells
 
- - [JoGet-plugin-webshell](https://github.com/p0dalirius/JoGet-plugin-webshell): A webshell plugin and interactive shell for pentesting JoGet application.
- - [LimeSurvey-plugin-webshell](https://github.com/p0dalirius/LimeSurvey-plugin-webshell): A webshell plugin and interactive shell for pentesting JoGet application. 
- - [Moodle-webshell-plugin](https://github.com/p0dalirius/Moodle-webshell-plugin): A webshell plugin and interactive shell for pentesting a Moodle instance.
- - [Tomcat-application-webshell](https://github.com/p0dalirius/Tomcat-application-webshell): A webshell application and interactive shell for pentesting Apache Tomcat servers. 
+<!-- -->
+<details open><summary><h3><img src="https://raw.githubusercontent.com/p0dalirius/p0dalirius/main/assets/icon-target.png" width="2%" height="2%"> Vulnerability exploits</h3></summary><ul>
+<li><a href="https://github.com/p0dalirius/RemoteMouse-3.008-Exploit">RemoteMouse-3.008-Exploit</a>: This exploit allows to connect to the remote RemoteMouse 3.008 service to virtually press arbitrary keys and execute code on the machine. </li>
+<li><a href="https://github.com/p0dalirius/CVE-2016-10956-mail-masta">CVE-2016-10956-mail-masta</a>: MailMasta wordpress plugin Local File Inclusion vulnerability (CVE-2016-10956).</li>
+<li><a href="https://github.com/p0dalirius/CVE-2020-14144-GiTea-git-hooks-rce">CVE-2020-14144-GiTea-git-hooks-rce</a>: A script to exploit CVE-2020-14144 - GiTea authenticated Remote Code Execution using git hooks.</li>
+<li><a href="https://github.com/p0dalirius/AdminerRead">CVE-2021-43008-AdminerRead</a>: Exploit tool for Adminer 1.0 up to 4.6.2 Arbitrary File Read vulnerability.</li>
+<li><a href="https://github.com/p0dalirius/CVE-2022-21907-http.sys">CVE-2022-21907-http.sys</a>: Proof of concept of CVE-2022-21907 Double Free in http.sys driver, triggering a kernel crash on IIS servers</li>
+<li><a href="https://github.com/p0dalirius/CVE-2022-26159-Ametys-Autocompletion-XML">CVE-2022-26159-Ametys-Autocompletion-XML</a>: A python exploit to automatically dump all the data stored by the auto-completion plugin of Ametys CMS to a local sqlite database file. </li>
+<li><a href="https://github.com/p0dalirius/CVE-2022-30780-lighttpd-denial-of-service">CVE-2022-30780-lighttpd-denial-of-service</a>: CVE-2022-30780 - lighttpd remote denial of service </li>
+<li><a href="https://github.com/p0dalirius/CVE-2022-36446-Webmin-Software-Package-Updates-RCE">CVE-2022-36446-Webmin-Software-Package-Updates-RCE</a>: A Python script to exploit CVE-2022-36446 Software Package Updates RCE (Authenticated) on Webmin &lt; 1.997.</li>
+</ul>
+</details>
 
-### <img src="https://raw.githubusercontent.com/p0dalirius/p0dalirius/main/assets/icon-target.png" width="2%" height="2%"> Vulnerability exploits
+<!-- -->
+<details open><summary><h3><img src="https://raw.githubusercontent.com/p0dalirius/p0dalirius/main/assets/icon-microsoft-logo.png" width="2%" height="2%"> Windows</h3></summary><ul>
+<li><a href="https://github.com/p0dalirius/pdbdownload">pdbdownload</a>: A Python script to download PDB files associated with a Portable Executable (PE).</li>
+<li><a href="https://github.com/p0dalirius/hivetools">hivetools</a>: A collection of python scripts to work with Windows Hives. </li>
+<li><a href="https://github.com/p0dalirius/msFlagsDecoder">msFlagsDecoder</a>: Decode the values of common Windows properties such as userAccountControl and sAMAccountType.</li>
+<li><a href="https://github.com/p0dalirius/MSSQL-Analysis-Coerce">MSSQL-Analysis-Coerce</a>: A technique to coerce a Windows SQL Server to authenticate on an arbitrary machine. </li>
+<li><a href="https://github.com/p0dalirius/OffensiveBatchScripts">OffensiveBatchScripts</a>: Offensive batch scripts.</li>
+<li><a href="https://github.com/p0dalirius/SortPEbyVersions">SortPEbyVersions</a>: A Python script to sort Portable Executable (PE) files by their version and download debug symbols if existing. </li>
+<li><a href="https://github.com/p0dalirius/SortWindowsISOs">SortWindowsISOs</a>: Extract the windows major and minor build numbers from an ISO file, and automatically sort the iso files.</li>
+<li><a href="https://github.com/p0dalirius/win32errorcodes">win32errorcodes</a>: A small C/C++ library to lookup Windows error codes. </li>
+</ul>
+</details>
 
- - [RemoteMouse-3.008-Exploit](https://github.com/p0dalirius/RemoteMouse-3.008-Exploit): This exploit allows to connect to the remote RemoteMouse 3.008 service to virtually press arbitrary keys and execute code on the machine. 
- - [CVE-2016-10956-mail-masta](https://github.com/p0dalirius/CVE-2016-10956-mail-masta): MailMasta wordpress plugin Local File Inclusion vulnerability (CVE-2016-10956).
- - [CVE-2020-14144-GiTea-git-hooks-rce](https://github.com/p0dalirius/CVE-2020-14144-GiTea-git-hooks-rce): A script to exploit CVE-2020-14144 - GiTea authenticated Remote Code Execution using git hooks.
- - [CVE-2021-43008-AdminerRead](https://github.com/p0dalirius/AdminerRead): Exploit tool for Adminer 1.0 up to 4.6.2 Arbitrary File Read vulnerability.
- - [CVE-2022-21907-http.sys](https://github.com/p0dalirius/CVE-2022-21907-http.sys): Proof of concept of CVE-2022-21907 Double Free in http.sys driver, triggering a kernel crash on IIS servers
- - [CVE-2022-26159-Ametys-Autocompletion-XML](https://github.com/p0dalirius/CVE-2022-26159-Ametys-Autocompletion-XML): A python exploit to automatically dump all the data stored by the auto-completion plugin of Ametys CMS to a local sqlite database file. 
- - [CVE-2022-30780-lighttpd-denial-of-service](https://github.com/p0dalirius/CVE-2022-30780-lighttpd-denial-of-service): CVE-2022-30780 - lighttpd remote denial of service 
- - [CVE-2022-36446-Webmin-Software-Package-Updates-RCE](https://github.com/p0dalirius/CVE-2022-36446-Webmin-Software-Package-Updates-RCE): A Python script to exploit CVE-2022-36446 Software Package Updates RCE (Authenticated) on Webmin < 1.997.
+<!-- -->
+<details open><summary><h3><img src="https://raw.githubusercontent.com/p0dalirius/p0dalirius/main/assets/icon-data.png" width="2%" height="2%">Data & Researches</h3></summary><ul>
+<li><a href="https://github.com/p0dalirius/DescribeNTSecurityDescriptor">DescribeNTSecurityDescriptor</a>: A python tool to parse and describe the contents of a raw ntSecurityDescriptor structure. </li>
+<li><a href="https://github.com/p0dalirius/linux-kernels">linux-kernels</a>: List of linux kernel versions in JSON.</li>
+<li><a href="https://github.com/p0dalirius/microsoft-rpc-fuzzing-tools">microsoft-rpc-fuzzing-tools</a>: This repository contains a list of python scripts to work with Microsoft RPC for research purposes. </li>
+<li><a href="https://github.com/p0dalirius/volatility3-symbols">volatility3-symbols</a>: Memory mapping profiles for forensic analysis using volatility 3.</li>
+<li><a href="https://github.com/p0dalirius/volatility2docker">volatility2docker</a>: A volatility 2 docker for forensic investigations.</li>
+<li><a href="https://github.com/p0dalirius/volatility2-profiles">volatility2-profiles</a>: Memory mapping profiles for forensic analysis using volatility 2.</li>
+<li><a href="https://github.com/p0dalirius/WindowsBuilds">WindowsBuilds</a>: This repository contains the list of windows builds as parsable JSON files.</li>
+<li><a href="https://github.com/p0dalirius/windows-coerced-authentication-methods">windows-coerced-authentication-methods</a>: A list of methods to coerce a windows machine to authenticate to an attacker-controlled machine through a Remote Procedure Call (RPC) with various protocols. </li>
+</ul>
+</details>
 
-### <img src="https://raw.githubusercontent.com/p0dalirius/p0dalirius/main/assets/icon-microsoft-logo.png" width="2%" height="2%"> Windows
-
- - [pdbdownload](https://github.com/p0dalirius/pdbdownload): A Python script to download PDB files associated with a Portable Executable (PE).
- - [hivetools](https://github.com/p0dalirius/hivetools): A collection of python scripts to work with Windows Hives. 
- - [msFlagsDecoder](https://github.com/p0dalirius/msFlagsDecoder): Decode the values of common Windows properties such as userAccountControl and sAMAccountType.
- - [MSSQL-Analysis-Coerce](https://github.com/p0dalirius/MSSQL-Analysis-Coerce): A technique to coerce a Windows SQL Server to authenticate on an arbitrary machine. 
- - [OffensiveBatchScripts](https://github.com/p0dalirius/OffensiveBatchScripts): Offensive batch scripts.
- - [SortPEbyVersions](https://github.com/p0dalirius/SortPEbyVersions): A Python script to sort Portable Executable (PE) files by their version and download debug symbols if existing. 
- - [SortWindowsISOs](https://github.com/p0dalirius/SortWindowsISOs): Extract the windows major and minor build numbers from an ISO file, and automatically sort the iso files.
- - [win32errorcodes](https://github.com/p0dalirius/win32errorcodes): A small C/C++ library to lookup Windows error codes. 
-
-### <img src="https://raw.githubusercontent.com/p0dalirius/p0dalirius/main/assets/icon-data.png" width="2%" height="2%"> Data & Researches
-
- - [DescribeNTSecurityDescriptor](https://github.com/p0dalirius/DescribeNTSecurityDescriptor): A python tool to parse and describe the contents of a raw ntSecurityDescriptor structure. 
- - [linux-kernels](https://github.com/p0dalirius/linux-kernels): List of linux kernel versions in JSON.
- - [microsoft-rpc-fuzzing-tools](https://github.com/p0dalirius/microsoft-rpc-fuzzing-tools): This repository contains a list of python scripts to work with Microsoft RPC for research purposes. 
- - [volatility3-symbols](https://github.com/p0dalirius/volatility3-symbols): Memory mapping profiles for forensic analysis using volatility 3.
- - [volatility2docker](https://github.com/p0dalirius/volatility2docker): A volatility 2 docker for forensic investigations.
- - [volatility2-profiles](https://github.com/p0dalirius/volatility2-profiles): Memory mapping profiles for forensic analysis using volatility 2.
- - [WindowsBuilds](https://github.com/p0dalirius/WindowsBuilds): This repository contains the list of windows builds as parsable JSON files.
- - [windows-coerced-authentication-methods](https://github.com/p0dalirius/windows-coerced-authentication-methods): A list of methods to coerce a windows machine to authenticate to an attacker-controlled machine through a Remote Procedure Call (RPC) with various protocols. 
- 
-### <img src="https://raw.githubusercontent.com/p0dalirius/p0dalirius/main/assets/icon-arrow.png" width="2%" height="2%"> Other
-
- - [Argon2Cracker](https://github.com/p0dalirius/Argon2Cracker): A multithreaded bruteforcer of argon2 hashes.
- - [ctfd-parser](https://github.com/p0dalirius/ctfd-parser): A python script to dump all the challenges locally of a CTFd-based Capture the Flag.
- - [CpuCoresTemperatureGraph](https://github.com/p0dalirius/CpuCoresTemperatureGraph): A python tool to print CPU core temperatures for each cores.
- - [factorizator](https://github.com/p0dalirius/factorizator): A script to factorize integers with sagemath and factordb. 
- - [GetFortinetSerialNumber](https://github.com/p0dalirius/GetFortinetSerialNumber): A Python script to extract the serial number of a remote Fortinet device.
- - [GithubBackupAllRepos](https://github.com/p0dalirius/GithubBackupAllRepos): A Python script to backup all repos (public or private) of a user.
- - [Hashes-Harvester](https://github.com/p0dalirius/Hashes-Harvester): Automatically extracts NTLM hashes from Windows memory dumps.
- - [hexcat](https://github.com/p0dalirius/hexcat): A tool to show only printable characters of a file.
- - [objectwalker](https://github.com/p0dalirius/objectwalker): A python module to explore the object tree to extract paths to interesting objects in memory.
- - [ParseFortinetSerialNumber](https://github.com/p0dalirius/ParseFortinetSerialNumber): A Python script to parse Fortinet products serial numbers, and detect the associated model and version.
- - [python_packages_paths](https://github.com/p0dalirius/python_packages_paths): This repository contains paths to python modules from inside python modules.
- - [pwndocapi](https://github.com/p0dalirius/pwndocapi): A python library to interact with Pwndoc instances for pentest reports generation.
- - [pdsimage-downloader](https://github.com/p0dalirius/pdsimage-downloader): A python script to filter by filename and download PDS images. 
- - [streamableDownloader](https://github.com/p0dalirius/streamableDownloader): A simple python script to download videos hosted on streamable from their link.
- - [wav2mmv](https://github.com/p0dalirius/wav2mmv): WAV to MMV converter. You can then use the MMV file in input of MSSTV to decode Slow Scan Television (SSTV) sound signals.
- - [WifiListProbeRequests](https://github.com/p0dalirius/WifiListProbeRequests): Monitor 802.11 probe requests from a capture file or network sniffing!
+<!-- -->
+<details open><summary><h3><img src="https://raw.githubusercontent.com/p0dalirius/p0dalirius/main/assets/icon-arrow.png" width="2%" height="2%"> Other</h3></summary><ul>
+<li><a href="https://github.com/p0dalirius/Argon2Cracker">Argon2Cracker</a>: A multithreaded bruteforcer of argon2 hashes.</li>
+<li><a href="https://github.com/p0dalirius/ctfd-parser">ctfd-parser</a>: A python script to dump all the challenges locally of a CTFd-based Capture the Flag.</li>
+<li><a href="https://github.com/p0dalirius/CpuCoresTemperatureGraph">CpuCoresTemperatureGraph</a>: A python tool to print CPU core temperatures for each cores.</li>
+<li><a href="https://github.com/p0dalirius/factorizator">factorizator</a>: A script to factorize integers with sagemath and factordb. </li>
+<li><a href="https://github.com/p0dalirius/GetFortinetSerialNumber">GetFortinetSerialNumber</a>: A Python script to extract the serial number of a remote Fortinet device.</li>
+<li><a href="https://github.com/p0dalirius/GithubBackupAllRepos">GithubBackupAllRepos</a>: A Python script to backup all repos (public or private) of a user.</li>
+<li><a href="https://github.com/p0dalirius/Hashes-Harvester">Hashes-Harvester</a>: Automatically extracts NTLM hashes from Windows memory dumps.</li>
+<li><a href="https://github.com/p0dalirius/hexcat">hexcat</a>: A tool to show only printable characters of a file.</li>
+<li><a href="https://github.com/p0dalirius/objectwalker">objectwalker</a>: A python module to explore the object tree to extract paths to interesting objects in memory.</li>
+<li><a href="https://github.com/p0dalirius/ParseFortinetSerialNumber">ParseFortinetSerialNumber</a>: A Python script to parse Fortinet products serial numbers, and detect the associated model and version.</li>
+<li><a href="https://github.com/p0dalirius/python_packages_paths">python_packages_paths</a>: This repository contains paths to python modules from inside python modules.</li>
+<li><a href="https://github.com/p0dalirius/pwndocapi">pwndocapi</a>: A python library to interact with Pwndoc instances for pentest reports generation.</li>
+<li><a href="https://github.com/p0dalirius/pdsimage-downloader">pdsimage-downloader</a>: A python script to filter by filename and download PDS images. </li>
+<li><a href="https://github.com/p0dalirius/streamableDownloader">streamableDownloader</a>: A simple python script to download videos hosted on streamable from their link.</li>
+<li><a href="https://github.com/p0dalirius/wav2mmv">wav2mmv</a>: WAV to MMV converter. You can then use the MMV file in input of MSSTV to decode Slow Scan Television (SSTV) sound signals.</li>
+<li><a href="https://github.com/p0dalirius/WifiListProbeRequests">WifiListProbeRequests</a>: Monitor 802.11 probe requests from a capture file or network sniffing!</li>
+</ul>
+</details>
