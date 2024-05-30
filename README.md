@@ -57,8 +57,8 @@ As part of my dedication to security, I actively report vulnerabilities I discov
 ---
 
 ## Summary of my tools
-<!-- -->
-<details open><summary><h3><img src="https://raw.githubusercontent.com/p0dalirius/p0dalirius/main/assets/icon-ad.png" width="4%" height="4%"> Active Directory tools</h3></summary><ul>
+
+<details open><summary><h3><img src="https://raw.githubusercontent.com/p0dalirius/p0dalirius/main/assets/icon-ad.png" width="2%" height="2%"> Active Directory tools</h3></summary><ul>
 <li><a href="https://github.com/p0dalirius/AccountShadowTakeover">AccountShadowTakeover</a>: A python script to automatically add a KeyCredentialLink to newly created users, by quickly connecting to them with default credentials.</li>
 <li><a href="https://github.com/p0dalirius/Coercer">Coercer</a>: A python script to automatically coerce a Windows server to authenticate on an arbitrary machine through 9 methods.</li>
 <li><a href="https://github.com/p0dalirius/DomainUsersToXLSX">DomainUsersToXLSX</a>: Extract all users from an Active Directory domain to an Excel worksheet.</li>
@@ -78,7 +78,7 @@ As part of my dedication to security, I actively report vulnerabilities I discov
 </details>
 
 <!-- -->
-<details open><summary><h3><img src="https://raw.githubusercontent.com/p0dalirius/p0dalirius/main/assets/icon-www.png" width="4%" height="4%"> Web exploitation tools</h3></summary><ul>
+<details open><summary><h3><img src="https://raw.githubusercontent.com/p0dalirius/p0dalirius/main/assets/icon-www.png" width="2%" height="2%"> Web exploitation tools</h3></summary><ul>
 <li><a href="https://github.com/p0dalirius/ApacheTomcatScanner">ApacheTomcatScanner</a>: A python script to scan for Apache Tomcat server vulnerabilities. </li>
 <li><a href="https://github.com/p0dalirius/Awesome-RCE-techniques">Awesome-RCE-techniques</a>: Awesome list of techniques to achieve Remote Code Execution on various apps!</li>
 <li><a href="https://github.com/p0dalirius/crawlersuseragents">crawlersuseragents</a>: Python script to check if there is any differences in responses of an application when the request comes from a search engine&#39;s crawler.</li>
@@ -99,8 +99,8 @@ As part of my dedication to security, I actively report vulnerabilities I discov
 </ul>
 </details>
 
-<!-- -->
-<details open><summary><h3><img src="https://raw.githubusercontent.com/p0dalirius/p0dalirius/main/assets/icon-www.png" width="4%" height="4%"> Web shells</h3></summary><ul>
+
+<details open><summary><h3><img src="https://raw.githubusercontent.com/p0dalirius/p0dalirius/main/assets/icon-www.png" width="2%" height="2%"> Web shells</h3></summary><ul>
 <li><a href="https://github.com/p0dalirius/JoGet-plugin-webshell">JoGet-plugin-webshell</a>: A webshell plugin and interactive shell for pentesting JoGet application.</li>
 <li><a href="https://github.com/p0dalirius/LimeSurvey-plugin-webshell">LimeSurvey-plugin-webshell</a>: A webshell plugin and interactive shell for pentesting JoGet application. </li>
 <li><a href="https://github.com/p0dalirius/Moodle-webshell-plugin">Moodle-webshell-plugin</a>: A webshell plugin and interactive shell for pentesting a Moodle instance.</li>
@@ -122,7 +122,7 @@ As part of my dedication to security, I actively report vulnerabilities I discov
 </ul>
 </details>
 
-<!-- -->
+
 <details open><summary><h3><img src="https://raw.githubusercontent.com/p0dalirius/p0dalirius/main/assets/icon-microsoft-logo.png" width="2%" height="2%"> Windows</h3></summary><ul>
 <li><a href="https://github.com/p0dalirius/pdbdownload">pdbdownload</a>: A Python script to download PDB files associated with a Portable Executable (PE).</li>
 <li><a href="https://github.com/p0dalirius/hivetools">hivetools</a>: A collection of python scripts to work with Windows Hives. </li>
@@ -148,7 +148,7 @@ As part of my dedication to security, I actively report vulnerabilities I discov
 </ul>
 </details>
 
-<!-- -->
+
 <details open><summary><h3><img src="https://raw.githubusercontent.com/p0dalirius/p0dalirius/main/assets/icon-arrow.png" width="2%" height="2%"> Other</h3></summary><ul>
 <li><a href="https://github.com/p0dalirius/Argon2Cracker">Argon2Cracker</a>: A multithreaded bruteforcer of argon2 hashes.</li>
 <li><a href="https://github.com/p0dalirius/ctfd-parser">ctfd-parser</a>: A python script to dump all the challenges locally of a CTFd-based Capture the Flag.</li>
