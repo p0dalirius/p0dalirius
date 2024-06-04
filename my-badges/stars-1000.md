@@ -4,7 +4,6 @@
 
 Repos:
 
-* <a href="https://github.com/p0dalirius/microsoft-rpc-fuzzing-tools">p0dalirius/microsoft-rpc-fuzzing-tools: ★41</a>
 * <a href="https://github.com/p0dalirius/robotstester">p0dalirius/robotstester: ★39</a>
 * <a href="https://github.com/Ruulian/CSPass">Ruulian/CSPass: ★36</a>
 * <a href="https://github.com/p0dalirius/Joomla-webshell-plugin">p0dalirius/Joomla-webshell-plugin: ★36</a>
@@ -79,6 +78,7 @@ Repos:
 * <a href="https://github.com/p0dalirius/SortPEbyVersions">p0dalirius/SortPEbyVersions: ★2</a>
 * <a href="https://github.com/p0dalirius/CpuCoresTemperatureGraph">p0dalirius/CpuCoresTemperatureGraph: ★2</a>
 * <a href="https://github.com/p0dalirius/ADcheck">p0dalirius/ADcheck: ★2</a>
+* <a href="https://github.com/p0dalirius/Exegol-images">p0dalirius/Exegol-images: ★1</a>
 * <a href="https://github.com/p0dalirius/CoercedPotato">p0dalirius/CoercedPotato: ★1</a>
 * <a href="https://github.com/Edr4/GLPI-RCE-Authenticated">Edr4/GLPI-RCE-Authenticated: ★1</a>
 
