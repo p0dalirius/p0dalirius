@@ -5,11 +5,11 @@
 Repos:
 
 * <a href="https://github.com/p0dalirius/windows-coerced-authentication-methods">p0dalirius/windows-coerced-authentication-methods: ★471</a>
-* <a href="https://github.com/p0dalirius/smbclient-ng">p0dalirius/smbclient-ng: ★390</a>
+* <a href="https://github.com/p0dalirius/smbclient-ng">p0dalirius/smbclient-ng: ★420</a>
 * <a href="https://github.com/p0dalirius/FindUncommonShares">p0dalirius/FindUncommonShares: ★377</a>
 * <a href="https://github.com/p0dalirius/ipsourcebypass">p0dalirius/ipsourcebypass: ★367</a>
 * <a href="https://github.com/ShutdownRepo/smartbrute">ShutdownRepo/smartbrute: ★318</a>
-* <a href="https://github.com/p0dalirius/LDAPWordlistHarvester">p0dalirius/LDAPWordlistHarvester: ★305</a>
+* <a href="https://github.com/p0dalirius/LDAPWordlistHarvester">p0dalirius/LDAPWordlistHarvester: ★306</a>
 * <a href="https://github.com/p0dalirius/ExtractBitlockerKeys">p0dalirius/ExtractBitlockerKeys: ★288</a>
 * <a href="https://github.com/p0dalirius/DumpSMBShare">p0dalirius/DumpSMBShare: ★203</a>
 * <a href="https://github.com/p0dalirius/GeoWordlists">p0dalirius/GeoWordlists: ★140</a>
