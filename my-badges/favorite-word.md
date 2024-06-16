@@ -5,7 +5,7 @@
 My favorite commit message words are:
 
 1. added (used 37917 times)
-2. for (used 36545 times)
+2. for (used 36547 times)
 3. wordlists (used 35866 times)
 4. version (used 35665 times)
 5. wordpress (used 29299 times)
