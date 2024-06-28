@@ -87,11 +87,11 @@ Repos:
 * <a href="https://github.com/p0dalirius/SymfonyDumpSource">p0dalirius/SymfonyDumpSource: ★5</a>
 * <a href="https://github.com/p0dalirius/CrackedNTDStoXLSX">p0dalirius/CrackedNTDStoXLSX: ★5</a>
 * <a href="https://github.com/p0dalirius/win32errorcodes">p0dalirius/win32errorcodes: ★4</a>
+* <a href="https://github.com/p0dalirius/pwndoc-ng">p0dalirius/pwndoc-ng: ★4</a>
 * <a href="https://github.com/p0dalirius/pdsimage-downloader">p0dalirius/pdsimage-downloader: ★4</a>
 * <a href="https://github.com/p0dalirius/lib-parseargs">p0dalirius/lib-parseargs: ★4</a>
 * <a href="https://github.com/p0dalirius/CVE-2020-8813-Cacti-RCE-in-graph_realtime">p0dalirius/CVE-2020-8813-Cacti-RCE-in-graph_realtime: ★4</a>
 * <a href="https://github.com/p0dalirius/stackdumper">p0dalirius/stackdumper: ★3</a>
-* <a href="https://github.com/p0dalirius/pwndoc-ng">p0dalirius/pwndoc-ng: ★3</a>
 * <a href="https://github.com/p0dalirius/volatility_symbols">p0dalirius/volatility_symbols: ★2</a>
 * <a href="https://github.com/p0dalirius/SortPEbyVersions">p0dalirius/SortPEbyVersions: ★2</a>
 * <a href="https://github.com/p0dalirius/CpuCoresTemperatureGraph">p0dalirius/CpuCoresTemperatureGraph: ★2</a>
