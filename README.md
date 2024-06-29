@@ -1,12 +1,12 @@
-![](./assets/banner.png)
+![](./.github/banner.png)
 
 <p align="center">
-     <img src="https://raw.githubusercontent.com/p0dalirius/p0dalirius/main/assets/bar-follow-me-on.png">
+     <img src="https://raw.githubusercontent.com/p0dalirius/p0dalirius/main/.github/bar-follow-me-on.png">
      <br>
-     <a href="https://twitter.com/intent/follow?screen_name=podalirius_"><img src="https://raw.githubusercontent.com/p0dalirius/p0dalirius/main/assets/twitter.png" width="24%" height="24%"></a>
-     <a href="https://www.youtube.com/c/Podalirius_?sub_confirmation=1"><img src="https://raw.githubusercontent.com/p0dalirius/p0dalirius/main/assets/youtube.png" width="24%" height="24%"></a>
-     <a href="https://www.linkedin.com/in/remigascou/"><img src="https://raw.githubusercontent.com/p0dalirius/p0dalirius/main/assets/linkedin.png" width="24%" height="24%"></a>
-     <a href="https://infosec.exchange/@podalirius"><img src="https://raw.githubusercontent.com/p0dalirius/p0dalirius/main/assets/mastodon.png" width="24%" height="24%"></a>
+     <a href="https://twitter.com/intent/follow?screen_name=podalirius_"><img src="https://raw.githubusercontent.com/p0dalirius/p0dalirius/main/.github/twitter.png" width="24%" height="24%"></a>
+     <a href="https://www.youtube.com/c/Podalirius_?sub_confirmation=1"><img src="https://raw.githubusercontent.com/p0dalirius/p0dalirius/main/.github/youtube.png" width="24%" height="24%"></a>
+     <a href="https://www.linkedin.com/in/remigascou/"><img src="https://raw.githubusercontent.com/p0dalirius/p0dalirius/main/.github/linkedin.png" width="24%" height="24%"></a>
+     <a href="https://infosec.exchange/@podalirius"><img src="https://raw.githubusercontent.com/p0dalirius/p0dalirius/main/.github/mastodon.png" width="24%" height="24%"></a>
 </p>
 
 I'm a French Security Researcher and [Microsoft MVP in Security](https://mvp.microsoft.com/fr-FR/MVP/profile/74f43269-95fb-ed11-8f6d-000d3a560942). I specialize in finding vulnerabilities in various environments, including Windows, Active Directory, and web applications. With a passion for tinkering with undefined behaviors in computers, I have published 101 open-source security tools so far, and there are many more to come! 🥳
