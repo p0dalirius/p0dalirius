@@ -4,11 +4,11 @@
 
 My favorite commit message words are:
 
-1. added (used 37929 times)
-2. for (used 36547 times)
-3. wordlists (used 35866 times)
-4. version (used 35666 times)
-5. wordpress (used 29299 times)
+1. added (used 2054 times)
+2. kernel (used 1205 times)
+3. update (used 702 times)
+4. for (used 684 times)
+5. symbols (used 637 times)
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
