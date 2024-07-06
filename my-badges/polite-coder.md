@@ -1,4 +1,4 @@
-<img src="https://github.com/my-badges/my-badges/blob/master/src/all-badges/polite-coder/polite-coder.png?raw=true" alt="I am a polite coder." title="I am a polite coder." width="128">
+<img src="https://github.com/my-badges/my-badges/blob/master/badges/polite-coder/polite-coder.png?raw=true" alt="I am a polite coder." title="I am a polite coder." width="128">
 <strong>I am a polite coder.</strong>
 <br><br>
 

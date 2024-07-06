@@ -1,12 +1,12 @@
-<img src="https://github.com/my-badges/my-badges/blob/master/src/all-badges/fix-commit/fix-3.png?raw=true" alt="I did 3 sequential fixes." title="I did 3 sequential fixes." width="128">
+<img src="https://github.com/my-badges/my-badges/blob/master/badges/fix-commit/fix-3.png?raw=true" alt="I did 3 sequential fixes." title="I did 3 sequential fixes." width="128">
 <strong>I did 3 sequential fixes.</strong>
 <br><br>
 
 Commits:
 
-- <a href="https://github.com/p0dalirius/Tomcat-webshell-application/commit/7504054d3860c4152b380ba537fe8daa4b80600d">7504054</a>: Fixes #7
-- <a href="https://github.com/p0dalirius/Tomcat-webshell-application/commit/64689383ea4b818ca28639a32d52e2e235bb40a6">6468938</a>: Fixes #5, Fixes #6
-- <a href="https://github.com/p0dalirius/Tomcat-webshell-application/commit/b42c17f0933e9c30f89605a080fdecdcc5413a5c">b42c17f</a>: Fixed missing api endpoint in console.py
+- <a href="https://github.com/p0dalirius/ApacheTomcatScanner/commit/68ab24f11982a66edbd5ca312b5a146757f696e4">68ab24f</a>: Fixed AttributeError: 'Namespace' object has no attribute 'request_http_headers'. Did you mean: 'request_http_header'?
+- <a href="https://github.com/p0dalirius/ApacheTomcatScanner/commit/c3d16d79c34f1ca745c93f0537a8a2d0ee6584b7">c3d16d7</a>: Fixed #23
+- <a href="https://github.com/p0dalirius/ApacheTomcatScanner/commit/ac691d5e26c52eaa92cd06b7a63f4febb9d7a429">ac691d5</a>: Fixed #24
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>

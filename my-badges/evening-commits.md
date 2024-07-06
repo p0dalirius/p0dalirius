@@ -1,4 +1,4 @@
-<img src="https://github.com/my-badges/my-badges/blob/master/src/all-badges/time-of-commit/evening-commits.png?raw=true" alt="I commit in the evening." title="I commit in the evening." width="128">
+<img src="https://github.com/my-badges/my-badges/blob/master/badges/time-of-commit/evening-commits.png?raw=true" alt="I commit in the evening." title="I commit in the evening." width="128">
 <strong>I commit in the evening.</strong>
 <br><br>
 
