@@ -1,4 +1,4 @@
-<img src="https://github.com/my-badges/my-badges/blob/master/badges/fix-commit/fix-6.png?raw=true" alt="I did 6 sequential fixes." title="I did 6 sequential fixes." width="128">
+<img src="https://my-badges.github.io/my-badges/fix-6.png" alt="I did 6 sequential fixes." title="I did 6 sequential fixes." width="128">
 <strong>I did 6 sequential fixes.</strong>
 <br><br>
 

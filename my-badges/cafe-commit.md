@@ -1,4 +1,4 @@
-<img src="https://github.com/my-badges/my-badges/blob/master/badges/cafe-commit/cafe-commit.png?raw=true" alt="I pushed a commit with &quot;cafe&quot; 4 times." title="I pushed a commit with &quot;cafe&quot; 4 times." width="128">
+<img src="https://my-badges.github.io/my-badges/cafe-commit.png" alt="I pushed a commit with &quot;cafe&quot; 4 times." title="I pushed a commit with &quot;cafe&quot; 4 times." width="128">
 <strong>I pushed a commit with &quot;cafe&quot; 4 times.</strong>
 <br><br>
 
