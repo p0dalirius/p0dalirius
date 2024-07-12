@@ -6,9 +6,9 @@ Repos:
 
 * <a href="https://github.com/Ruulian/CSPass">Ruulian/CSPass: ★37</a>
 * <a href="https://github.com/p0dalirius/sectools">p0dalirius/sectools: ★31</a>
-* <a href="https://github.com/p0dalirius/Argon2Cracker">p0dalirius/Argon2Cracker: ★30</a>
+* <a href="https://github.com/p0dalirius/Argon2Cracker">p0dalirius/Argon2Cracker: ★31</a>
+* <a href="https://github.com/p0dalirius/DomainUsersToXLSX">p0dalirius/DomainUsersToXLSX: ★30</a>
 * <a href="https://github.com/p0dalirius/p0dalirius">p0dalirius/p0dalirius: ★29</a>
-* <a href="https://github.com/p0dalirius/DomainUsersToXLSX">p0dalirius/DomainUsersToXLSX: ★29</a>
 * <a href="https://github.com/p0dalirius/WifiListProbeRequests">p0dalirius/WifiListProbeRequests: ★27</a>
 * <a href="https://github.com/p0dalirius/TargetAllDomainObjects">p0dalirius/TargetAllDomainObjects: ★27</a>
 * <a href="https://github.com/p0dalirius/GetFortinetSerialNumber">p0dalirius/GetFortinetSerialNumber: ★27</a>
@@ -77,7 +77,7 @@ Repos:
 * <a href="https://github.com/p0dalirius/SortPEbyVersions">p0dalirius/SortPEbyVersions: ★3</a>
 * <a href="https://github.com/p0dalirius/CpuCoresTemperatureGraph">p0dalirius/CpuCoresTemperatureGraph: ★3</a>
 * <a href="https://github.com/p0dalirius/CoercedPotato">p0dalirius/CoercedPotato: ★3</a>
-* <a href="https://github.com/p0dalirius/BloodHound.py">p0dalirius/BloodHound.py: ★2</a>
+* <a href="https://github.com/p0dalirius/BloodHound.py">p0dalirius/BloodHound.py: ★3</a>
 * <a href="https://github.com/Edr4/GLPI-RCE-Authenticated">Edr4/GLPI-RCE-Authenticated: ★1</a>
 
 <sup>I have push, maintainer or admin permissions, so I'm definitely an author.<sup>
