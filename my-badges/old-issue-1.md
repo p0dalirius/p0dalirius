@@ -7,6 +7,7 @@ Issues:
 - <a href="https://github.com/p0dalirius/FindUncommonShares/issues/5">#5</a>: [enhancement] Adding an option to list rights on the shares
 - <a href="https://github.com/p0dalirius/ldapconsole/issues/1">#1</a>: [bug] Invalid base when starting the script
 - <a href="https://github.com/p0dalirius/ldapconsole/issues/2">#2</a>: [enhancement] Add an outputfile command to save the output of the next command
+- <a href="https://github.com/login-securite/DonPAPI/issues/57">#57</a>: [bug] ImportError: cannot import name 'PrivateKeyTypes' from 'cryptography.hazmat.primitives.asymmetric.types'
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
