@@ -13,7 +13,7 @@ Repos:
 * <a href="https://github.com/p0dalirius/LFIDump">p0dalirius/LFIDump: ★65</a>
 * <a href="https://github.com/p0dalirius/Wordpress-webshell-plugin">p0dalirius/Wordpress-webshell-plugin: ★58</a>
 * <a href="https://github.com/p0dalirius/owabrute">p0dalirius/owabrute: ★58</a>
-* <a href="https://github.com/p0dalirius/ldapconsole">p0dalirius/ldapconsole: ★57</a>
+* <a href="https://github.com/p0dalirius/ldapconsole">p0dalirius/ldapconsole: ★58</a>
 * <a href="https://github.com/p0dalirius/pydsinternals">p0dalirius/pydsinternals: ★54</a>
 * <a href="https://github.com/ShutdownRepo/httpmethods">ShutdownRepo/httpmethods: ★50</a>
 * <a href="https://github.com/p0dalirius/CVE-2022-45771-Pwndoc-LFI-to-RCE">p0dalirius/CVE-2022-45771-Pwndoc-LFI-to-RCE: ★46</a>
