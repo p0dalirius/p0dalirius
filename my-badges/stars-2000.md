@@ -4,16 +4,15 @@
 
 Repos:
 
-* <a href="https://github.com/p0dalirius/Tomcat-webshell-application">p0dalirius/Tomcat-webshell-application: ★91</a>
 * <a href="https://github.com/p0dalirius/objectwalker">p0dalirius/objectwalker: ★78</a>
 * <a href="https://github.com/p0dalirius/CVE-2022-21907-http.sys">p0dalirius/CVE-2022-21907-http.sys: ★78</a>
 * <a href="https://github.com/p0dalirius/RDWAtool">p0dalirius/RDWAtool: ★77</a>
 * <a href="https://github.com/p0dalirius/CVE-2021-43008-AdminerRead">p0dalirius/CVE-2021-43008-AdminerRead: ★76</a>
 * <a href="https://github.com/p0dalirius/pyLAPS">p0dalirius/pyLAPS: ★73</a>
 * <a href="https://github.com/p0dalirius/LFIDump">p0dalirius/LFIDump: ★65</a>
+* <a href="https://github.com/p0dalirius/ldapconsole">p0dalirius/ldapconsole: ★59</a>
 * <a href="https://github.com/p0dalirius/Wordpress-webshell-plugin">p0dalirius/Wordpress-webshell-plugin: ★58</a>
 * <a href="https://github.com/p0dalirius/owabrute">p0dalirius/owabrute: ★58</a>
-* <a href="https://github.com/p0dalirius/ldapconsole">p0dalirius/ldapconsole: ★58</a>
 * <a href="https://github.com/p0dalirius/pydsinternals">p0dalirius/pydsinternals: ★54</a>
 * <a href="https://github.com/ShutdownRepo/httpmethods">ShutdownRepo/httpmethods: ★50</a>
 * <a href="https://github.com/p0dalirius/CVE-2022-45771-Pwndoc-LFI-to-RCE">p0dalirius/CVE-2022-45771-Pwndoc-LFI-to-RCE: ★46</a>
@@ -60,6 +59,7 @@ Repos:
 * <a href="https://github.com/p0dalirius/CodeIgniter-session-unsign">p0dalirius/CodeIgniter-session-unsign: ★13</a>
 * <a href="https://github.com/Ooggle/shellcoding-companion">Ooggle/shellcoding-companion: ★13</a>
 * <a href="https://github.com/p0dalirius/wav2mmv">p0dalirius/wav2mmv: ★12</a>
+* <a href="https://github.com/p0dalirius/SortWindowsISOs">p0dalirius/SortWindowsISOs: ★12</a>
 * <a href="https://github.com/p0dalirius/goLAPS">p0dalirius/goLAPS: ★12</a>
 * <a href="https://github.com/p0dalirius/GhostSPN">p0dalirius/GhostSPN: ★12</a>
 * <a href="https://github.com/p0dalirius/ListValidGSuiteEmails">p0dalirius/ListValidGSuiteEmails: ★11</a>
@@ -67,7 +67,6 @@ Repos:
 * <a href="https://github.com/p0dalirius/hexcat">p0dalirius/hexcat: ★11</a>
 * <a href="https://github.com/p0dalirius/factorizator">p0dalirius/factorizator: ★11</a>
 * <a href="https://github.com/p0dalirius/CVE-2018-16763-FuelCMS-1.4.1-RCE">p0dalirius/CVE-2018-16763-FuelCMS-1.4.1-RCE: ★11</a>
-* <a href="https://github.com/p0dalirius/SortWindowsISOs">p0dalirius/SortWindowsISOs: ★10</a>
 * <a href="https://github.com/p0dalirius/pwndocapi">p0dalirius/pwndocapi: ★10</a>
 * <a href="https://github.com/p0dalirius/DescribeSDDL">p0dalirius/DescribeSDDL: ★10</a>
 * <a href="https://github.com/pwnwithlove/conf-steakoverlow-2022">pwnwithlove/conf-steakoverlow-2022: ★9</a>
