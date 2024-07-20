@@ -11,8 +11,8 @@ Repos:
 * <a href="https://github.com/p0dalirius/CVE-2021-43008-AdminerRead">p0dalirius/CVE-2021-43008-AdminerRead: ★76</a>
 * <a href="https://github.com/p0dalirius/pyLAPS">p0dalirius/pyLAPS: ★73</a>
 * <a href="https://github.com/p0dalirius/LFIDump">p0dalirius/LFIDump: ★65</a>
+* <a href="https://github.com/p0dalirius/Wordpress-webshell-plugin">p0dalirius/Wordpress-webshell-plugin: ★59</a>
 * <a href="https://github.com/p0dalirius/ldapconsole">p0dalirius/ldapconsole: ★59</a>
-* <a href="https://github.com/p0dalirius/Wordpress-webshell-plugin">p0dalirius/Wordpress-webshell-plugin: ★58</a>
 * <a href="https://github.com/p0dalirius/owabrute">p0dalirius/owabrute: ★58</a>
 * <a href="https://github.com/p0dalirius/pydsinternals">p0dalirius/pydsinternals: ★54</a>
 * <a href="https://github.com/ShutdownRepo/httpmethods">ShutdownRepo/httpmethods: ★50</a>
@@ -42,9 +42,9 @@ Repos:
 * <a href="https://github.com/ShutdownRepo/Get-GPPPassword">ShutdownRepo/Get-GPPPassword: ★19</a>
 * <a href="https://github.com/p0dalirius/TimeBasedLoginUserEnum">p0dalirius/TimeBasedLoginUserEnum: ★18</a>
 * <a href="https://github.com/p0dalirius/GithubBackupAllRepos">p0dalirius/GithubBackupAllRepos: ★18</a>
+* <a href="https://github.com/p0dalirius/CVE-2020-14144-GiTea-git-hooks-rce">p0dalirius/CVE-2020-14144-GiTea-git-hooks-rce: ★18</a>
 * <a href="https://github.com/p0dalirius/LootApacheServerStatus">p0dalirius/LootApacheServerStatus: ★17</a>
 * <a href="https://github.com/p0dalirius/CVE-2022-30780-lighttpd-denial-of-service">p0dalirius/CVE-2022-30780-lighttpd-denial-of-service: ★17</a>
-* <a href="https://github.com/p0dalirius/CVE-2020-14144-GiTea-git-hooks-rce">p0dalirius/CVE-2020-14144-GiTea-git-hooks-rce: ★17</a>
 * <a href="https://github.com/p0dalirius/Sprayer">p0dalirius/Sprayer: ★16</a>
 * <a href="https://github.com/p0dalirius/CVE-2016-10956-mail-masta">p0dalirius/CVE-2016-10956-mail-masta: ★16</a>
 * <a href="https://github.com/p0dalirius/hivetools">p0dalirius/hivetools: ★15</a>

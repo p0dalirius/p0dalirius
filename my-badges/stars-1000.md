@@ -24,9 +24,9 @@ Repos:
 * <a href="https://github.com/ShutdownRepo/Get-GPPPassword">ShutdownRepo/Get-GPPPassword: ★19</a>
 * <a href="https://github.com/p0dalirius/TimeBasedLoginUserEnum">p0dalirius/TimeBasedLoginUserEnum: ★18</a>
 * <a href="https://github.com/p0dalirius/GithubBackupAllRepos">p0dalirius/GithubBackupAllRepos: ★18</a>
+* <a href="https://github.com/p0dalirius/CVE-2020-14144-GiTea-git-hooks-rce">p0dalirius/CVE-2020-14144-GiTea-git-hooks-rce: ★18</a>
 * <a href="https://github.com/p0dalirius/LootApacheServerStatus">p0dalirius/LootApacheServerStatus: ★17</a>
 * <a href="https://github.com/p0dalirius/CVE-2022-30780-lighttpd-denial-of-service">p0dalirius/CVE-2022-30780-lighttpd-denial-of-service: ★17</a>
-* <a href="https://github.com/p0dalirius/CVE-2020-14144-GiTea-git-hooks-rce">p0dalirius/CVE-2020-14144-GiTea-git-hooks-rce: ★17</a>
 * <a href="https://github.com/p0dalirius/Sprayer">p0dalirius/Sprayer: ★16</a>
 * <a href="https://github.com/p0dalirius/CVE-2016-10956-mail-masta">p0dalirius/CVE-2016-10956-mail-masta: ★16</a>
 * <a href="https://github.com/p0dalirius/hivetools">p0dalirius/hivetools: ★15</a>

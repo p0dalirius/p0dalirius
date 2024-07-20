@@ -7,7 +7,7 @@ Repos:
 * <a href="https://github.com/p0dalirius/windows-coerced-authentication-methods">p0dalirius/windows-coerced-authentication-methods: ★475</a>
 * <a href="https://github.com/p0dalirius/FindUncommonShares">p0dalirius/FindUncommonShares: ★383</a>
 * <a href="https://github.com/p0dalirius/ipsourcebypass">p0dalirius/ipsourcebypass: ★371</a>
-* <a href="https://github.com/ShutdownRepo/smartbrute">ShutdownRepo/smartbrute: ★332</a>
+* <a href="https://github.com/ShutdownRepo/smartbrute">ShutdownRepo/smartbrute: ★331</a>
 * <a href="https://github.com/p0dalirius/LDAPWordlistHarvester">p0dalirius/LDAPWordlistHarvester: ★314</a>
 * <a href="https://github.com/p0dalirius/ExtractBitlockerKeys">p0dalirius/ExtractBitlockerKeys: ★295</a>
 * <a href="https://github.com/p0dalirius/DumpSMBShare">p0dalirius/DumpSMBShare: ★207</a>
@@ -15,7 +15,7 @@ Repos:
 * <a href="https://github.com/p0dalirius/ctfd-parser">p0dalirius/ctfd-parser: ★123</a>
 * <a href="https://github.com/p0dalirius/MSSQL-Analysis-Coerce">p0dalirius/MSSQL-Analysis-Coerce: ★122</a>
 * <a href="https://github.com/p0dalirius/pdbdownload">p0dalirius/pdbdownload: ★115</a>
-* <a href="https://github.com/p0dalirius/ldap2json">p0dalirius/ldap2json: ★114</a>
+* <a href="https://github.com/p0dalirius/ldap2json">p0dalirius/ldap2json: ★115</a>
 * <a href="https://github.com/p0dalirius/CVE-2022-36446-Webmin-Software-Package-Updates-RCE">p0dalirius/CVE-2022-36446-Webmin-Software-Package-Updates-RCE: ★108</a>
 * <a href="https://github.com/p0dalirius/Tomcat-webshell-application">p0dalirius/Tomcat-webshell-application: ★92</a>
 * <a href="https://github.com/p0dalirius/objectwalker">p0dalirius/objectwalker: ★78</a>
@@ -24,8 +24,8 @@ Repos:
 * <a href="https://github.com/p0dalirius/CVE-2021-43008-AdminerRead">p0dalirius/CVE-2021-43008-AdminerRead: ★76</a>
 * <a href="https://github.com/p0dalirius/pyLAPS">p0dalirius/pyLAPS: ★73</a>
 * <a href="https://github.com/p0dalirius/LFIDump">p0dalirius/LFIDump: ★65</a>
+* <a href="https://github.com/p0dalirius/Wordpress-webshell-plugin">p0dalirius/Wordpress-webshell-plugin: ★59</a>
 * <a href="https://github.com/p0dalirius/ldapconsole">p0dalirius/ldapconsole: ★59</a>
-* <a href="https://github.com/p0dalirius/Wordpress-webshell-plugin">p0dalirius/Wordpress-webshell-plugin: ★58</a>
 * <a href="https://github.com/p0dalirius/owabrute">p0dalirius/owabrute: ★58</a>
 * <a href="https://github.com/p0dalirius/pydsinternals">p0dalirius/pydsinternals: ★54</a>
 * <a href="https://github.com/ShutdownRepo/httpmethods">ShutdownRepo/httpmethods: ★50</a>
@@ -55,9 +55,9 @@ Repos:
 * <a href="https://github.com/ShutdownRepo/Get-GPPPassword">ShutdownRepo/Get-GPPPassword: ★19</a>
 * <a href="https://github.com/p0dalirius/TimeBasedLoginUserEnum">p0dalirius/TimeBasedLoginUserEnum: ★18</a>
 * <a href="https://github.com/p0dalirius/GithubBackupAllRepos">p0dalirius/GithubBackupAllRepos: ★18</a>
+* <a href="https://github.com/p0dalirius/CVE-2020-14144-GiTea-git-hooks-rce">p0dalirius/CVE-2020-14144-GiTea-git-hooks-rce: ★18</a>
 * <a href="https://github.com/p0dalirius/LootApacheServerStatus">p0dalirius/LootApacheServerStatus: ★17</a>
 * <a href="https://github.com/p0dalirius/CVE-2022-30780-lighttpd-denial-of-service">p0dalirius/CVE-2022-30780-lighttpd-denial-of-service: ★17</a>
-* <a href="https://github.com/p0dalirius/CVE-2020-14144-GiTea-git-hooks-rce">p0dalirius/CVE-2020-14144-GiTea-git-hooks-rce: ★17</a>
 * <a href="https://github.com/p0dalirius/Sprayer">p0dalirius/Sprayer: ★16</a>
 * <a href="https://github.com/p0dalirius/CVE-2016-10956-mail-masta">p0dalirius/CVE-2016-10956-mail-masta: ★16</a>
 * <a href="https://github.com/p0dalirius/hivetools">p0dalirius/hivetools: ★15</a>
