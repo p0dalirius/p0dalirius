@@ -54,6 +54,7 @@ Repos:
 * <a href="https://github.com/p0dalirius/LimeSurvey-webshell-plugin">p0dalirius/LimeSurvey-webshell-plugin: ★13</a>
 * <a href="https://github.com/p0dalirius/JoGet-webshell-plugin">p0dalirius/JoGet-webshell-plugin: ★13</a>
 * <a href="https://github.com/p0dalirius/gitea-extract-users">p0dalirius/gitea-extract-users: ★13</a>
+* <a href="https://github.com/p0dalirius/GhostSPN">p0dalirius/GhostSPN: ★13</a>
 * <a href="https://github.com/p0dalirius/DescribeNTSecurityDescriptor">p0dalirius/DescribeNTSecurityDescriptor: ★13</a>
 * <a href="https://github.com/p0dalirius/CVE-2022-26159-Ametys-Autocompletion-XML">p0dalirius/CVE-2022-26159-Ametys-Autocompletion-XML: ★13</a>
 * <a href="https://github.com/p0dalirius/CodeIgniter-session-unsign">p0dalirius/CodeIgniter-session-unsign: ★13</a>
@@ -61,7 +62,6 @@ Repos:
 * <a href="https://github.com/p0dalirius/wav2mmv">p0dalirius/wav2mmv: ★12</a>
 * <a href="https://github.com/p0dalirius/SortWindowsISOs">p0dalirius/SortWindowsISOs: ★12</a>
 * <a href="https://github.com/p0dalirius/goLAPS">p0dalirius/goLAPS: ★12</a>
-* <a href="https://github.com/p0dalirius/GhostSPN">p0dalirius/GhostSPN: ★12</a>
 * <a href="https://github.com/p0dalirius/ListValidGSuiteEmails">p0dalirius/ListValidGSuiteEmails: ★11</a>
 * <a href="https://github.com/p0dalirius/Joomla-1.6-1.7-2.5-Privilege-Escalation-Vulnerability">p0dalirius/Joomla-1.6-1.7-2.5-Privilege-Escalation-Vulnerability: ★11</a>
 * <a href="https://github.com/p0dalirius/hexcat">p0dalirius/hexcat: ★11</a>
