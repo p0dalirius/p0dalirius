@@ -23,7 +23,7 @@ Repos:
 * <a href="https://github.com/p0dalirius/objectwalker">p0dalirius/objectwalker: ★77</a>
 * <a href="https://github.com/p0dalirius/CVE-2021-43008-AdminerRead">p0dalirius/CVE-2021-43008-AdminerRead: ★76</a>
 * <a href="https://github.com/p0dalirius/pyLAPS">p0dalirius/pyLAPS: ★74</a>
-* <a href="https://github.com/p0dalirius/Wordpress-webshell-plugin">p0dalirius/Wordpress-webshell-plugin: ★63</a>
+* <a href="https://github.com/p0dalirius/Wordpress-webshell-plugin">p0dalirius/Wordpress-webshell-plugin: ★64</a>
 * <a href="https://github.com/p0dalirius/LFIDump">p0dalirius/LFIDump: ★63</a>
 * <a href="https://github.com/p0dalirius/owabrute">p0dalirius/owabrute: ★59</a>
 * <a href="https://github.com/p0dalirius/ldapconsole">p0dalirius/ldapconsole: ★58</a>
