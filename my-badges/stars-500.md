@@ -4,9 +4,9 @@
 
 Repos:
 
+* <a href="https://github.com/p0dalirius/LootApacheServerStatus">p0dalirius/LootApacheServerStatus: ★17</a>
 * <a href="https://github.com/p0dalirius/GithubBackupAllRepos">p0dalirius/GithubBackupAllRepos: ★17</a>
 * <a href="https://github.com/p0dalirius/Sprayer">p0dalirius/Sprayer: ★16</a>
-* <a href="https://github.com/p0dalirius/LootApacheServerStatus">p0dalirius/LootApacheServerStatus: ★16</a>
 * <a href="https://github.com/p0dalirius/CVE-2022-30780-lighttpd-denial-of-service">p0dalirius/CVE-2022-30780-lighttpd-denial-of-service: ★16</a>
 * <a href="https://github.com/p0dalirius/CVE-2016-10956-mail-masta">p0dalirius/CVE-2016-10956-mail-masta: ★16</a>
 * <a href="https://github.com/p0dalirius/DescribeNTSecurityDescriptor">p0dalirius/DescribeNTSecurityDescriptor: ★15</a>
