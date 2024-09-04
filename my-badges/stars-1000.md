@@ -22,9 +22,9 @@ Repos:
 * <a href="https://github.com/p0dalirius/msFlagsDecoder">p0dalirius/msFlagsDecoder: ★20</a>
 * <a href="https://github.com/p0dalirius/crawlersuseragents">p0dalirius/crawlersuseragents: ★20</a>
 * <a href="https://github.com/ShutdownRepo/Get-GPPPassword">ShutdownRepo/Get-GPPPassword: ★18</a>
+* <a href="https://github.com/p0dalirius/win32errorcodes">p0dalirius/win32errorcodes: ★18</a>
 * <a href="https://github.com/p0dalirius/LootApacheServerStatus">p0dalirius/LootApacheServerStatus: ★18</a>
 * <a href="https://github.com/p0dalirius/CVE-2020-14144-GiTea-git-hooks-rce">p0dalirius/CVE-2020-14144-GiTea-git-hooks-rce: ★18</a>
-* <a href="https://github.com/p0dalirius/win32errorcodes">p0dalirius/win32errorcodes: ★17</a>
 * <a href="https://github.com/p0dalirius/TimeBasedLoginUserEnum">p0dalirius/TimeBasedLoginUserEnum: ★17</a>
 * <a href="https://github.com/p0dalirius/GithubBackupAllRepos">p0dalirius/GithubBackupAllRepos: ★17</a>
 * <a href="https://github.com/p0dalirius/Sprayer">p0dalirius/Sprayer: ★16</a>
@@ -45,10 +45,10 @@ Repos:
 * <a href="https://github.com/p0dalirius/JoGet-webshell-plugin">p0dalirius/JoGet-webshell-plugin: ★12</a>
 * <a href="https://github.com/p0dalirius/goLAPS">p0dalirius/goLAPS: ★12</a>
 * <a href="https://github.com/p0dalirius/CVE-2022-26159-Ametys-Autocompletion-XML">p0dalirius/CVE-2022-26159-Ametys-Autocompletion-XML: ★12</a>
+* <a href="https://github.com/p0dalirius/CVE-2018-16763-FuelCMS-1.4.1-RCE">p0dalirius/CVE-2018-16763-FuelCMS-1.4.1-RCE: ★12</a>
 * <a href="https://github.com/p0dalirius/CodeIgniter-session-unsign">p0dalirius/CodeIgniter-session-unsign: ★12</a>
 * <a href="https://github.com/p0dalirius/SortWindowsISOs">p0dalirius/SortWindowsISOs: ★11</a>
 * <a href="https://github.com/p0dalirius/ListValidGSuiteEmails">p0dalirius/ListValidGSuiteEmails: ★11</a>
-* <a href="https://github.com/p0dalirius/CVE-2018-16763-FuelCMS-1.4.1-RCE">p0dalirius/CVE-2018-16763-FuelCMS-1.4.1-RCE: ★11</a>
 * <a href="https://github.com/p0dalirius/Joomla-1.6-1.7-2.5-Privilege-Escalation-Vulnerability">p0dalirius/Joomla-1.6-1.7-2.5-Privilege-Escalation-Vulnerability: ★10</a>
 * <a href="https://github.com/p0dalirius/hexcat">p0dalirius/hexcat: ★10</a>
 * <a href="https://github.com/p0dalirius/factorizator">p0dalirius/factorizator: ★10</a>
