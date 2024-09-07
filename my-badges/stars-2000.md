@@ -28,7 +28,7 @@ Repos:
 * <a href="https://github.com/p0dalirius/DomainUsersToXLSX">p0dalirius/DomainUsersToXLSX: ★30</a>
 * <a href="https://github.com/p0dalirius/WifiListProbeRequests">p0dalirius/WifiListProbeRequests: ★27</a>
 * <a href="https://github.com/p0dalirius/TargetAllDomainObjects">p0dalirius/TargetAllDomainObjects: ★27</a>
-* <a href="https://github.com/p0dalirius/Moodle-webshell-plugin">p0dalirius/Moodle-webshell-plugin: ★26</a>
+* <a href="https://github.com/p0dalirius/Moodle-webshell-plugin">p0dalirius/Moodle-webshell-plugin: ★27</a>
 * <a href="https://github.com/p0dalirius/GetFortinetSerialNumber">p0dalirius/GetFortinetSerialNumber: ★26</a>
 * <a href="https://github.com/p0dalirius/crEAP">p0dalirius/crEAP: ★24</a>
 * <a href="https://github.com/p0dalirius/volatility3-symbols">p0dalirius/volatility3-symbols: ★22</a>
@@ -38,8 +38,8 @@ Repos:
 * <a href="https://github.com/p0dalirius/MSRPRN-Coerce">p0dalirius/MSRPRN-Coerce: ★20</a>
 * <a href="https://github.com/p0dalirius/msFlagsDecoder">p0dalirius/msFlagsDecoder: ★20</a>
 * <a href="https://github.com/p0dalirius/crawlersuseragents">p0dalirius/crawlersuseragents: ★20</a>
+* <a href="https://github.com/p0dalirius/win32errorcodes">p0dalirius/win32errorcodes: ★19</a>
 * <a href="https://github.com/ShutdownRepo/Get-GPPPassword">ShutdownRepo/Get-GPPPassword: ★18</a>
-* <a href="https://github.com/p0dalirius/win32errorcodes">p0dalirius/win32errorcodes: ★18</a>
 * <a href="https://github.com/p0dalirius/LootApacheServerStatus">p0dalirius/LootApacheServerStatus: ★18</a>
 * <a href="https://github.com/p0dalirius/CVE-2020-14144-GiTea-git-hooks-rce">p0dalirius/CVE-2020-14144-GiTea-git-hooks-rce: ★18</a>
 * <a href="https://github.com/p0dalirius/TimeBasedLoginUserEnum">p0dalirius/TimeBasedLoginUserEnum: ★17</a>
