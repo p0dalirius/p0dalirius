@@ -4,12 +4,12 @@
 
 Repos:
 
-* <a href="https://github.com/p0dalirius/windows-coerced-authentication-methods">p0dalirius/windows-coerced-authentication-methods: ★481</a>
+* <a href="https://github.com/p0dalirius/windows-coerced-authentication-methods">p0dalirius/windows-coerced-authentication-methods: ★482</a>
 * <a href="https://github.com/p0dalirius/FindUncommonShares">p0dalirius/FindUncommonShares: ★385</a>
 * <a href="https://github.com/p0dalirius/ipsourcebypass">p0dalirius/ipsourcebypass: ★376</a>
 * <a href="https://github.com/ShutdownRepo/smartbrute">ShutdownRepo/smartbrute: ★336</a>
-* <a href="https://github.com/p0dalirius/LDAPWordlistHarvester">p0dalirius/LDAPWordlistHarvester: ★327</a>
-* <a href="https://github.com/p0dalirius/ExtractBitlockerKeys">p0dalirius/ExtractBitlockerKeys: ★300</a>
+* <a href="https://github.com/p0dalirius/LDAPWordlistHarvester">p0dalirius/LDAPWordlistHarvester: ★328</a>
+* <a href="https://github.com/p0dalirius/ExtractBitlockerKeys">p0dalirius/ExtractBitlockerKeys: ★301</a>
 * <a href="https://github.com/p0dalirius/DumpSMBShare">p0dalirius/DumpSMBShare: ★205</a>
 * <a href="https://github.com/p0dalirius/GeoWordlists">p0dalirius/GeoWordlists: ★143</a>
 * <a href="https://github.com/p0dalirius/MSSQL-Analysis-Coerce">p0dalirius/MSSQL-Analysis-Coerce: ★124</a>
