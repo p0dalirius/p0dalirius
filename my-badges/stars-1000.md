@@ -15,9 +15,9 @@ Repos:
 * <a href="https://github.com/p0dalirius/GetFortinetSerialNumber">p0dalirius/GetFortinetSerialNumber: ★26</a>
 * <a href="https://github.com/p0dalirius/crEAP">p0dalirius/crEAP: ★24</a>
 * <a href="https://github.com/p0dalirius/volatility3-symbols">p0dalirius/volatility3-symbols: ★22</a>
+* <a href="https://github.com/p0dalirius/AccountShadowTakeover">p0dalirius/AccountShadowTakeover: ★22</a>
 * <a href="https://github.com/p0dalirius/RobotsValidator">p0dalirius/RobotsValidator: ★21</a>
 * <a href="https://github.com/p0dalirius/Hashes-Harvester">p0dalirius/Hashes-Harvester: ★21</a>
-* <a href="https://github.com/p0dalirius/AccountShadowTakeover">p0dalirius/AccountShadowTakeover: ★21</a>
 * <a href="https://github.com/p0dalirius/MSRPRN-Coerce">p0dalirius/MSRPRN-Coerce: ★20</a>
 * <a href="https://github.com/p0dalirius/msFlagsDecoder">p0dalirius/msFlagsDecoder: ★20</a>
 * <a href="https://github.com/p0dalirius/crawlersuseragents">p0dalirius/crawlersuseragents: ★20</a>

@@ -12,7 +12,7 @@ Repos:
 * <a href="https://github.com/p0dalirius/ExtractBitlockerKeys">p0dalirius/ExtractBitlockerKeys: ★301</a>
 * <a href="https://github.com/p0dalirius/DumpSMBShare">p0dalirius/DumpSMBShare: ★204</a>
 * <a href="https://github.com/p0dalirius/GeoWordlists">p0dalirius/GeoWordlists: ★143</a>
-* <a href="https://github.com/p0dalirius/ctfd-parser">p0dalirius/ctfd-parser: ★126</a>
+* <a href="https://github.com/p0dalirius/ctfd-parser">p0dalirius/ctfd-parser: ★127</a>
 * <a href="https://github.com/p0dalirius/MSSQL-Analysis-Coerce">p0dalirius/MSSQL-Analysis-Coerce: ★124</a>
 * <a href="https://github.com/p0dalirius/ldap2json">p0dalirius/ldap2json: ★119</a>
 * <a href="https://github.com/p0dalirius/pdbdownload">p0dalirius/pdbdownload: ★113</a>
@@ -23,7 +23,7 @@ Repos:
 * <a href="https://github.com/p0dalirius/objectwalker">p0dalirius/objectwalker: ★77</a>
 * <a href="https://github.com/p0dalirius/CVE-2021-43008-AdminerRead">p0dalirius/CVE-2021-43008-AdminerRead: ★77</a>
 * <a href="https://github.com/p0dalirius/pyLAPS">p0dalirius/pyLAPS: ★74</a>
-* <a href="https://github.com/p0dalirius/Wordpress-webshell-plugin">p0dalirius/Wordpress-webshell-plugin: ★66</a>
+* <a href="https://github.com/p0dalirius/Wordpress-webshell-plugin">p0dalirius/Wordpress-webshell-plugin: ★67</a>
 * <a href="https://github.com/p0dalirius/LFIDump">p0dalirius/LFIDump: ★64</a>
 * <a href="https://github.com/p0dalirius/owabrute">p0dalirius/owabrute: ★59</a>
 * <a href="https://github.com/p0dalirius/ldapconsole">p0dalirius/ldapconsole: ★59</a>
@@ -46,9 +46,9 @@ Repos:
 * <a href="https://github.com/p0dalirius/GetFortinetSerialNumber">p0dalirius/GetFortinetSerialNumber: ★26</a>
 * <a href="https://github.com/p0dalirius/crEAP">p0dalirius/crEAP: ★24</a>
 * <a href="https://github.com/p0dalirius/volatility3-symbols">p0dalirius/volatility3-symbols: ★22</a>
+* <a href="https://github.com/p0dalirius/AccountShadowTakeover">p0dalirius/AccountShadowTakeover: ★22</a>
 * <a href="https://github.com/p0dalirius/RobotsValidator">p0dalirius/RobotsValidator: ★21</a>
 * <a href="https://github.com/p0dalirius/Hashes-Harvester">p0dalirius/Hashes-Harvester: ★21</a>
-* <a href="https://github.com/p0dalirius/AccountShadowTakeover">p0dalirius/AccountShadowTakeover: ★21</a>
 * <a href="https://github.com/p0dalirius/MSRPRN-Coerce">p0dalirius/MSRPRN-Coerce: ★20</a>
 * <a href="https://github.com/p0dalirius/msFlagsDecoder">p0dalirius/msFlagsDecoder: ★20</a>
 * <a href="https://github.com/p0dalirius/crawlersuseragents">p0dalirius/crawlersuseragents: ★20</a>
