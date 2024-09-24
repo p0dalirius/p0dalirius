@@ -4,7 +4,7 @@
 
 Commits:
 
-- <a href="https://github.com/p0dalirius/windows-coerced-authentication-methods/commit/e4d95e90497f8a6ec086460c23787ecb74e0057c">e4d95e9</a>
+- <a href="https://github.com/p0dalirius/winacl/commit/6162ad0faf43f2ffedae9677085e700d95d5bfc0">6162ad0</a>
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
