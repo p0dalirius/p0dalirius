@@ -31,7 +31,7 @@ Repos:
 * <a href="https://github.com/ShutdownRepo/httpmethods">ShutdownRepo/httpmethods: ★51</a>
 * <a href="https://github.com/p0dalirius/CVE-2022-45771-Pwndoc-LFI-to-RCE">p0dalirius/CVE-2022-45771-Pwndoc-LFI-to-RCE: ★46</a>
 * <a href="https://github.com/p0dalirius/RemoteMouse-3.008-Exploit">p0dalirius/RemoteMouse-3.008-Exploit: ★45</a>
-* <a href="https://github.com/p0dalirius/volatility2-profiles">p0dalirius/volatility2-profiles: ★43</a>
+* <a href="https://github.com/p0dalirius/volatility2-profiles">p0dalirius/volatility2-profiles: ★44</a>
 * <a href="https://github.com/p0dalirius/microsoft-rpc-fuzzing-tools">p0dalirius/microsoft-rpc-fuzzing-tools: ★43</a>
 * <a href="https://github.com/p0dalirius/Joomla-webshell-plugin">p0dalirius/Joomla-webshell-plugin: ★41</a>
 * <a href="https://github.com/p0dalirius/robotstester">p0dalirius/robotstester: ★39</a>
@@ -45,7 +45,7 @@ Repos:
 * <a href="https://github.com/p0dalirius/TargetAllDomainObjects">p0dalirius/TargetAllDomainObjects: ★27</a>
 * <a href="https://github.com/p0dalirius/GetFortinetSerialNumber">p0dalirius/GetFortinetSerialNumber: ★26</a>
 * <a href="https://github.com/p0dalirius/crEAP">p0dalirius/crEAP: ★24</a>
-* <a href="https://github.com/p0dalirius/volatility3-symbols">p0dalirius/volatility3-symbols: ★22</a>
+* <a href="https://github.com/p0dalirius/volatility3-symbols">p0dalirius/volatility3-symbols: ★23</a>
 * <a href="https://github.com/p0dalirius/AccountShadowTakeover">p0dalirius/AccountShadowTakeover: ★22</a>
 * <a href="https://github.com/p0dalirius/RobotsValidator">p0dalirius/RobotsValidator: ★21</a>
 * <a href="https://github.com/p0dalirius/Hashes-Harvester">p0dalirius/Hashes-Harvester: ★21</a>
