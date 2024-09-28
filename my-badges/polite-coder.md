@@ -4,6 +4,7 @@
 
 I use words like "thanks" and "please" in my issues:
 
+- <a href="https://github.com/jfjallid/go-smb/issues/16">#16</a>: [enhancement] Adding SMBv1 support
 - <a href="https://github.com/p0dalirius/ApacheTomcatScanner/issues/38">#38</a>: [bug] setuptools CANNOT consider this value unless `scripts` is listed as `dynamic`.
 
 
