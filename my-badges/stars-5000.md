@@ -76,12 +76,12 @@ Repos:
 * <a href="https://github.com/p0dalirius/LimeSurvey-webshell-plugin">p0dalirius/LimeSurvey-webshell-plugin: ★12</a>
 * <a href="https://github.com/p0dalirius/JoGet-webshell-plugin">p0dalirius/JoGet-webshell-plugin: ★12</a>
 * <a href="https://github.com/p0dalirius/goLAPS">p0dalirius/goLAPS: ★12</a>
+* <a href="https://github.com/p0dalirius/FindAzureDomainTenant">p0dalirius/FindAzureDomainTenant: ★12</a>
 * <a href="https://github.com/p0dalirius/CVE-2022-26159-Ametys-Autocompletion-XML">p0dalirius/CVE-2022-26159-Ametys-Autocompletion-XML: ★12</a>
 * <a href="https://github.com/p0dalirius/CVE-2018-16763-FuelCMS-1.4.1-RCE">p0dalirius/CVE-2018-16763-FuelCMS-1.4.1-RCE: ★12</a>
 * <a href="https://github.com/p0dalirius/CodeIgniter-session-unsign">p0dalirius/CodeIgniter-session-unsign: ★12</a>
 * <a href="https://github.com/p0dalirius/SortWindowsISOs">p0dalirius/SortWindowsISOs: ★11</a>
 * <a href="https://github.com/p0dalirius/ListValidGSuiteEmails">p0dalirius/ListValidGSuiteEmails: ★11</a>
-* <a href="https://github.com/p0dalirius/FindAzureDomainTenant">p0dalirius/FindAzureDomainTenant: ★11</a>
 * <a href="https://github.com/p0dalirius/factorizator">p0dalirius/factorizator: ★11</a>
 * <a href="https://github.com/p0dalirius/Joomla-1.6-1.7-2.5-Privilege-Escalation-Vulnerability">p0dalirius/Joomla-1.6-1.7-2.5-Privilege-Escalation-Vulnerability: ★10</a>
 * <a href="https://github.com/p0dalirius/hexcat">p0dalirius/hexcat: ★10</a>
