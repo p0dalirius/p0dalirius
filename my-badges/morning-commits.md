@@ -4,12 +4,12 @@
 
 Commits:
 
+- <a href="https://github.com/p0dalirius/pwndocapi/commit/22c5caf7b795adfcb0f1c4d60dc0348a962f0b1f">22c5caf</a>
+- <a href="https://github.com/p0dalirius/pwndocapi/commit/53efc8ea4366eb1a793a52dedfe878ef2ae8928b">53efc8e</a>
+- <a href="https://github.com/p0dalirius/pwndocapi/commit/84cafe06dd45799f654170bbf846fa4571d67118">84cafe0</a>
 - <a href="https://github.com/p0dalirius/winacl/commit/1896e3f8367d31ab528a3436821b049f68efe7e4">1896e3f</a>
 - <a href="https://github.com/p0dalirius/winacl/commit/aaf341d2c49b6a51387428545dd9a0cc2ce8feab">aaf341d</a>
 - <a href="https://github.com/p0dalirius/winacl/commit/6162ad0faf43f2ffedae9677085e700d95d5bfc0">6162ad0</a>
-- <a href="https://github.com/p0dalirius/smbclient-ng/commit/147810b14260ed943f28ac2c0c89f5a70d395f29">147810b</a>
-- <a href="https://github.com/p0dalirius/smbclient-ng/commit/08be340794f90c403599dd755fe12fc345eb3b41">08be340</a>
-- <a href="https://github.com/p0dalirius/smbclient-ng/commit/cc0a7406ec3baad2bf2faa1f173e56d670e70155">cc0a740</a>
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
