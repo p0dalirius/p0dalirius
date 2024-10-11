@@ -28,9 +28,9 @@ Repos:
 * <a href="https://github.com/p0dalirius/CodeIgniter-session-unsign">p0dalirius/CodeIgniter-session-unsign: ★12</a>
 * <a href="https://github.com/p0dalirius/SortWindowsISOs">p0dalirius/SortWindowsISOs: ★11</a>
 * <a href="https://github.com/p0dalirius/ListValidGSuiteEmails">p0dalirius/ListValidGSuiteEmails: ★11</a>
+* <a href="https://github.com/p0dalirius/Joomla-1.6-1.7-2.5-Privilege-Escalation-Vulnerability">p0dalirius/Joomla-1.6-1.7-2.5-Privilege-Escalation-Vulnerability: ★11</a>
 * <a href="https://github.com/p0dalirius/factorizator">p0dalirius/factorizator: ★11</a>
 * <a href="https://github.com/p0dalirius/pyDescribeSDDL">p0dalirius/pyDescribeSDDL: ★10</a>
-* <a href="https://github.com/p0dalirius/Joomla-1.6-1.7-2.5-Privilege-Escalation-Vulnerability">p0dalirius/Joomla-1.6-1.7-2.5-Privilege-Escalation-Vulnerability: ★10</a>
 * <a href="https://github.com/p0dalirius/hexcat">p0dalirius/hexcat: ★10</a>
 * <a href="https://github.com/pwnwithlove/conf-steakoverlow-2022">pwnwithlove/conf-steakoverlow-2022: ★9</a>
 * <a href="https://github.com/p0dalirius/UsersWithPwdLastSetOlderThan">p0dalirius/UsersWithPwdLastSetOlderThan: ★9</a>
