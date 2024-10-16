@@ -10,9 +10,9 @@ Repos:
 * <a href="https://github.com/ShutdownRepo/smartbrute">ShutdownRepo/smartbrute: ★341</a>
 * <a href="https://github.com/p0dalirius/LDAPWordlistHarvester">p0dalirius/LDAPWordlistHarvester: ★329</a>
 * <a href="https://github.com/p0dalirius/ExtractBitlockerKeys">p0dalirius/ExtractBitlockerKeys: ★302</a>
-* <a href="https://github.com/p0dalirius/DumpSMBShare">p0dalirius/DumpSMBShare: ★205</a>
+* <a href="https://github.com/p0dalirius/DumpSMBShare">p0dalirius/DumpSMBShare: ★206</a>
 * <a href="https://github.com/p0dalirius/GeoWordlists">p0dalirius/GeoWordlists: ★144</a>
-* <a href="https://github.com/p0dalirius/ctfd-parser">p0dalirius/ctfd-parser: ★128</a>
+* <a href="https://github.com/p0dalirius/ctfd-parser">p0dalirius/ctfd-parser: ★129</a>
 * <a href="https://github.com/p0dalirius/MSSQL-Analysis-Coerce">p0dalirius/MSSQL-Analysis-Coerce: ★124</a>
 * <a href="https://github.com/p0dalirius/ldap2json">p0dalirius/ldap2json: ★119</a>
 * <a href="https://github.com/p0dalirius/pdbdownload">p0dalirius/pdbdownload: ★115</a>
@@ -104,7 +104,6 @@ Repos:
 * <a href="https://github.com/p0dalirius/CVE-2020-8813-Cacti-RCE-in-graph_realtime">p0dalirius/CVE-2020-8813-Cacti-RCE-in-graph_realtime: ★5</a>
 * <a href="https://github.com/p0dalirius/stackdumper">p0dalirius/stackdumper: ★4</a>
 * <a href="https://github.com/p0dalirius/pdsimage-downloader">p0dalirius/pdsimage-downloader: ★4</a>
-* <a href="https://github.com/p0dalirius/BloodHound.py">p0dalirius/BloodHound.py: ★4</a>
 * <a href="https://github.com/p0dalirius/volatility_symbols">p0dalirius/volatility_symbols: ★3</a>
 * <a href="https://github.com/p0dalirius/SortPEbyVersions">p0dalirius/SortPEbyVersions: ★3</a>
 * <a href="https://github.com/p0dalirius/CpuCoresTemperatureGraph">p0dalirius/CpuCoresTemperatureGraph: ★3</a>
