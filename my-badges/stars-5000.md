@@ -33,13 +33,13 @@ Repos:
 * <a href="https://github.com/p0dalirius/volatility2-profiles">p0dalirius/volatility2-profiles: ★45</a>
 * <a href="https://github.com/p0dalirius/RemoteMouse-3.008-Exploit">p0dalirius/RemoteMouse-3.008-Exploit: ★45</a>
 * <a href="https://github.com/p0dalirius/microsoft-rpc-fuzzing-tools">p0dalirius/microsoft-rpc-fuzzing-tools: ★43</a>
+* <a href="https://github.com/p0dalirius/Joomla-webshell-plugin">p0dalirius/Joomla-webshell-plugin: ★42</a>
 * <a href="https://github.com/p0dalirius/robotstester">p0dalirius/robotstester: ★41</a>
-* <a href="https://github.com/p0dalirius/Joomla-webshell-plugin">p0dalirius/Joomla-webshell-plugin: ★41</a>
 * <a href="https://github.com/Ruulian/CSPass">Ruulian/CSPass: ★37</a>
 * <a href="https://github.com/p0dalirius/Argon2Cracker">p0dalirius/Argon2Cracker: ★34</a>
 * <a href="https://github.com/p0dalirius/sectools">p0dalirius/sectools: ★32</a>
 * <a href="https://github.com/p0dalirius/p0dalirius">p0dalirius/p0dalirius: ★32</a>
-* <a href="https://github.com/p0dalirius/DomainUsersToXLSX">p0dalirius/DomainUsersToXLSX: ★31</a>
+* <a href="https://github.com/p0dalirius/DomainUsersToXLSX">p0dalirius/DomainUsersToXLSX: ★32</a>
 * <a href="https://github.com/p0dalirius/WifiListProbeRequests">p0dalirius/WifiListProbeRequests: ★28</a>
 * <a href="https://github.com/p0dalirius/TargetAllDomainObjects">p0dalirius/TargetAllDomainObjects: ★28</a>
 * <a href="https://github.com/p0dalirius/Moodle-webshell-plugin">p0dalirius/Moodle-webshell-plugin: ★28</a>
@@ -101,13 +101,13 @@ Repos:
 * <a href="https://github.com/p0dalirius/lib-parseargs">p0dalirius/lib-parseargs: ★6</a>
 * <a href="https://github.com/p0dalirius/CrackedNTDStoXLSX">p0dalirius/CrackedNTDStoXLSX: ★6</a>
 * <a href="https://github.com/p0dalirius/what-if">p0dalirius/what-if: ★5</a>
+* <a href="https://github.com/p0dalirius/goopts">p0dalirius/goopts: ★5</a>
 * <a href="https://github.com/p0dalirius/CVE-2020-8813-Cacti-RCE-in-graph_realtime">p0dalirius/CVE-2020-8813-Cacti-RCE-in-graph_realtime: ★5</a>
 * <a href="https://github.com/p0dalirius/stackdumper">p0dalirius/stackdumper: ★4</a>
 * <a href="https://github.com/p0dalirius/pdsimage-downloader">p0dalirius/pdsimage-downloader: ★4</a>
-* <a href="https://github.com/p0dalirius/goopts">p0dalirius/goopts: ★4</a>
+* <a href="https://github.com/p0dalirius/CpuCoresTemperatureGraph">p0dalirius/CpuCoresTemperatureGraph: ★4</a>
 * <a href="https://github.com/p0dalirius/volatility_symbols">p0dalirius/volatility_symbols: ★3</a>
 * <a href="https://github.com/p0dalirius/SortPEbyVersions">p0dalirius/SortPEbyVersions: ★3</a>
-* <a href="https://github.com/p0dalirius/CpuCoresTemperatureGraph">p0dalirius/CpuCoresTemperatureGraph: ★3</a>
 * <a href="https://github.com/Edr4/GLPI-RCE-Authenticated">Edr4/GLPI-RCE-Authenticated: ★1</a>
 
 <sup>I have push, maintainer or admin permissions, so I'm definitely an author.<sup>
