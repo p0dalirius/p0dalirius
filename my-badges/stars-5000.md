@@ -5,7 +5,7 @@
 Repos:
 
 * <a href="https://github.com/p0dalirius/windows-coerced-authentication-methods">p0dalirius/windows-coerced-authentication-methods: ★488</a>
-* <a href="https://github.com/p0dalirius/FindUncommonShares">p0dalirius/FindUncommonShares: ★387</a>
+* <a href="https://github.com/p0dalirius/FindUncommonShares">p0dalirius/FindUncommonShares: ★388</a>
 * <a href="https://github.com/p0dalirius/ipsourcebypass">p0dalirius/ipsourcebypass: ★379</a>
 * <a href="https://github.com/ShutdownRepo/smartbrute">ShutdownRepo/smartbrute: ★344</a>
 * <a href="https://github.com/p0dalirius/LDAPWordlistHarvester">p0dalirius/LDAPWordlistHarvester: ★331</a>
@@ -25,7 +25,7 @@ Repos:
 * <a href="https://github.com/p0dalirius/CVE-2021-43008-AdminerRead">p0dalirius/CVE-2021-43008-AdminerRead: ★78</a>
 * <a href="https://github.com/p0dalirius/Wordpress-webshell-plugin">p0dalirius/Wordpress-webshell-plugin: ★74</a>
 * <a href="https://github.com/p0dalirius/LFIDump">p0dalirius/LFIDump: ★65</a>
-* <a href="https://github.com/p0dalirius/owabrute">p0dalirius/owabrute: ★62</a>
+* <a href="https://github.com/p0dalirius/owabrute">p0dalirius/owabrute: ★63</a>
 * <a href="https://github.com/p0dalirius/ldapconsole">p0dalirius/ldapconsole: ★62</a>
 * <a href="https://github.com/p0dalirius/pydsinternals">p0dalirius/pydsinternals: ★56</a>
 * <a href="https://github.com/ShutdownRepo/httpmethods">ShutdownRepo/httpmethods: ★51</a>
@@ -35,7 +35,7 @@ Repos:
 * <a href="https://github.com/p0dalirius/microsoft-rpc-fuzzing-tools">p0dalirius/microsoft-rpc-fuzzing-tools: ★43</a>
 * <a href="https://github.com/p0dalirius/Joomla-webshell-plugin">p0dalirius/Joomla-webshell-plugin: ★42</a>
 * <a href="https://github.com/p0dalirius/robotstester">p0dalirius/robotstester: ★41</a>
-* <a href="https://github.com/Ruulian/CSPass">Ruulian/CSPass: ★37</a>
+* <a href="https://github.com/Ruulian/CSPass">Ruulian/CSPass: ★38</a>
 * <a href="https://github.com/p0dalirius/Argon2Cracker">p0dalirius/Argon2Cracker: ★34</a>
 * <a href="https://github.com/p0dalirius/sectools">p0dalirius/sectools: ★32</a>
 * <a href="https://github.com/p0dalirius/p0dalirius">p0dalirius/p0dalirius: ★32</a>
@@ -47,9 +47,9 @@ Repos:
 * <a href="https://github.com/p0dalirius/volatility3-symbols">p0dalirius/volatility3-symbols: ★24</a>
 * <a href="https://github.com/p0dalirius/crEAP">p0dalirius/crEAP: ★24</a>
 * <a href="https://github.com/p0dalirius/Hashes-Harvester">p0dalirius/Hashes-Harvester: ★23</a>
+* <a href="https://github.com/p0dalirius/pyLootApacheServerStatus">p0dalirius/pyLootApacheServerStatus: ★22</a>
 * <a href="https://github.com/p0dalirius/AccountShadowTakeover">p0dalirius/AccountShadowTakeover: ★22</a>
 * <a href="https://github.com/p0dalirius/RobotsValidator">p0dalirius/RobotsValidator: ★21</a>
-* <a href="https://github.com/p0dalirius/pyLootApacheServerStatus">p0dalirius/pyLootApacheServerStatus: ★21</a>
 * <a href="https://github.com/p0dalirius/msFlagsDecoder">p0dalirius/msFlagsDecoder: ★21</a>
 * <a href="https://github.com/p0dalirius/winacl">p0dalirius/winacl: ★20</a>
 * <a href="https://github.com/p0dalirius/MSRPRN-Coerce">p0dalirius/MSRPRN-Coerce: ★20</a>

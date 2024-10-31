@@ -4,12 +4,12 @@
 
 Commits:
 
-- <a href="https://github.com/p0dalirius/winacl/commit/8c29cd3d19323afec4ef2bcef2b3243cd5148bb8">8c29cd3</a>
-- <a href="https://github.com/p0dalirius/winacl/commit/ab43c70cf7eab42600459217ebcd3a7197e49e8d">ab43c70</a>
-- <a href="https://github.com/p0dalirius/pwndocapi/commit/22c5caf7b795adfcb0f1c4d60dc0348a962f0b1f">22c5caf</a>
-- <a href="https://github.com/p0dalirius/pwndocapi/commit/53efc8ea4366eb1a793a52dedfe878ef2ae8928b">53efc8e</a>
-- <a href="https://github.com/p0dalirius/pwndocapi/commit/84cafe06dd45799f654170bbf846fa4571d67118">84cafe0</a>
-- <a href="https://github.com/p0dalirius/winacl/commit/1896e3f8367d31ab528a3436821b049f68efe7e4">1896e3f</a>
+- <a href="https://github.com/p0dalirius/winacl/commit/3aa14b22709c1624dd6f486c5c590b902d2824bc">3aa14b2</a>
+- <a href="https://github.com/p0dalirius/winacl/commit/5d22b72ab6577584dfe3b4524b3868f2d4ba261e">5d22b72</a>
+- <a href="https://github.com/p0dalirius/winacl/commit/a07cfdf631a63315a7138aa39a606fffa1346f38">a07cfdf</a>
+- <a href="https://github.com/p0dalirius/winacl/commit/12f31e7124688ef41a21a049b70588ffe81b95cd">12f31e7</a>
+- <a href="https://github.com/p0dalirius/winacl/commit/62e9312368371d0b253ec44c89ade94dff3e4724">62e9312</a>
+- <a href="https://github.com/p0dalirius/winacl/commit/b5035e7f4b0ae62f551b4244961514c581c23f05">b5035e7</a>
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
