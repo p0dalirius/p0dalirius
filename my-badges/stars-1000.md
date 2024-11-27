@@ -11,7 +11,7 @@ Repos:
 * <a href="https://github.com/p0dalirius/WifiListProbeRequests">p0dalirius/WifiListProbeRequests: ★28</a>
 * <a href="https://github.com/p0dalirius/TargetAllDomainObjects">p0dalirius/TargetAllDomainObjects: ★28</a>
 * <a href="https://github.com/p0dalirius/GetFortinetSerialNumber">p0dalirius/GetFortinetSerialNumber: ★27</a>
-* <a href="https://github.com/p0dalirius/volatility3-symbols">p0dalirius/volatility3-symbols: ★24</a>
+* <a href="https://github.com/p0dalirius/volatility3-symbols">p0dalirius/volatility3-symbols: ★25</a>
 * <a href="https://github.com/p0dalirius/crEAP">p0dalirius/crEAP: ★24</a>
 * <a href="https://github.com/p0dalirius/winacl">p0dalirius/winacl: ★23</a>
 * <a href="https://github.com/p0dalirius/pyLootApacheServerStatus">p0dalirius/pyLootApacheServerStatus: ★23</a>
