@@ -4,8 +4,8 @@
 
 Repos:
 
-* <a href="https://github.com/p0dalirius/windows-coerced-authentication-methods">p0dalirius/windows-coerced-authentication-methods: ★493</a>
-* <a href="https://github.com/p0dalirius/pyFindUncommonShares">p0dalirius/pyFindUncommonShares: ★391</a>
+* <a href="https://github.com/p0dalirius/windows-coerced-authentication-methods">p0dalirius/windows-coerced-authentication-methods: ★494</a>
+* <a href="https://github.com/p0dalirius/pyFindUncommonShares">p0dalirius/pyFindUncommonShares: ★392</a>
 * <a href="https://github.com/p0dalirius/ipsourcebypass">p0dalirius/ipsourcebypass: ★380</a>
 * <a href="https://github.com/ShutdownRepo/smartbrute">ShutdownRepo/smartbrute: ★350</a>
 * <a href="https://github.com/p0dalirius/pyLDAPWordlistHarvester">p0dalirius/pyLDAPWordlistHarvester: ★332</a>
