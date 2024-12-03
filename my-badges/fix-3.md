@@ -4,9 +4,9 @@
 
 Commits:
 
-- <a href="https://github.com/p0dalirius/ApacheTomcatScanner/commit/68ab24f11982a66edbd5ca312b5a146757f696e4">68ab24f</a>: Fixed AttributeError: 'Namespace' object has no attribute 'request_http_headers'. Did you mean: 'request_http_header'?
-- <a href="https://github.com/p0dalirius/ApacheTomcatScanner/commit/c3d16d79c34f1ca745c93f0537a8a2d0ee6584b7">c3d16d7</a>: Fixed #23
-- <a href="https://github.com/p0dalirius/ApacheTomcatScanner/commit/ac691d5e26c52eaa92cd06b7a63f4febb9d7a429">ac691d5</a>: Fixed #24
+- <a href="https://github.com/p0dalirius/smbclient-ng/commit/952734d163010fae9a29829c9786db3069c3f38c">952734d</a>: Fixed #43, Fixed #42, Fixed #41, Fixed #40, Fixed #39
+- <a href="https://github.com/p0dalirius/smbclient-ng/commit/059254551f33d172a7c2c420f8be856002fb903a">0592545</a>: Fixed #18
+- <a href="https://github.com/p0dalirius/smbclient-ng/commit/421be0967c10fa41c1da3da7fec646f8b83853a6">421be09</a>: Fixed check of file existence in remote
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>

@@ -22,7 +22,6 @@ As part of my dedication to security, I actively report vulnerabilities I discov
 <!-- my-badges start -->
 <a href="my-badges/a-commit.md"><img src="https://my-badges.github.io/my-badges/a-commit.png" alt="One of my commit sha starts with &quot;a&quot;." title="One of my commit sha starts with &quot;a&quot;." width="64"></a>
 <a href="my-badges/ab-commit.md"><img src="https://my-badges.github.io/my-badges/ab-commit.png" alt="One of my commit sha starts with &quot;ab&quot;." title="One of my commit sha starts with &quot;ab&quot;." width="64"></a>
-<a href="my-badges/abc-commit.md"><img src="https://github.com/my-badges/my-badges/blob/master/src/all-badges/abc-commit/abc-commit.png?raw=true" alt="One of my commit sha starts with &quot;abc&quot;." title="One of my commit sha starts with &quot;abc&quot;." width="64"></a>
 <a href="my-badges/stars-100.md"><img src="https://my-badges.github.io/my-badges/stars-100.png" alt="I collected 100 stars." title="I collected 100 stars." width="64"></a>
 <a href="my-badges/stars-500.md"><img src="https://my-badges.github.io/my-badges/stars-500.png" alt="I collected 500 stars." title="I collected 500 stars." width="64"></a>
 <a href="my-badges/stars-1000.md"><img src="https://my-badges.github.io/my-badges/stars-1000.png" alt="I collected 1000 stars." title="I collected 1000 stars." width="64"></a>
@@ -32,7 +31,6 @@ As part of my dedication to security, I actively report vulnerabilities I discov
 <a href="my-badges/sleepy-coder.md"><img src="https://my-badges.github.io/my-badges/sleepy-coder.png" alt="I am a sleepy coder." title="I am a sleepy coder." width="64"></a>
 <a href="my-badges/morning-commits.md"><img src="https://my-badges.github.io/my-badges/morning-commits.png" alt="I commit in the morning." title="I commit in the morning." width="64"></a>
 <a href="my-badges/evening-commits.md"><img src="https://my-badges.github.io/my-badges/evening-commits.png" alt="I commit in the evening." title="I commit in the evening." width="64"></a>
-<a href="my-badges/midnight-commits.md"><img src="https://github.com/my-badges/my-badges/blob/master/src/all-badges/time-of-commit/midnight-commits.png?raw=true" alt="I commit at midnight." title="I commit at midnight." width="64"></a>
 <a href="my-badges/dead-commit.md"><img src="https://my-badges.github.io/my-badges/dead-commit.png" alt="I pushed a commit with &quot;dead&quot; 2 times." title="I pushed a commit with &quot;dead&quot; 2 times." width="64"></a>
 <a href="my-badges/mass-delete-commit.md"><img src="https://my-badges.github.io/my-badges/mass-delete-commit.png" alt="When I delete code, I delete a lot." title="When I delete code, I delete a lot." width="64"></a>
 <a href="my-badges/mass-delete-commit-10k.md"><img src="https://my-badges.github.io/my-badges/mass-delete-commit-10k.png" alt="When I delete code, I delete a lot." title="When I delete code, I delete a lot." width="64"></a>
@@ -44,8 +42,6 @@ As part of my dedication to security, I actively report vulnerabilities I discov
 <a href="my-badges/pr-collaboration-5.md"><img src="https://my-badges.github.io/my-badges/pr-collaboration-5.png" alt="I have participated in pull requests with 5 or more people" title="I have participated in pull requests with 5 or more people" width="64"></a>
 <a href="my-badges/pr-collaboration-10.md"><img src="https://my-badges.github.io/my-badges/pr-collaboration-10.png" alt="I have participated in pull requests with 10 or more people" title="I have participated in pull requests with 10 or more people" width="64"></a>
 <a href="my-badges/pr-collaboration-15.md"><img src="https://my-badges.github.io/my-badges/pr-collaboration-15.png" alt="I have participated in pull requests with 15 or more people" title="I have participated in pull requests with 15 or more people" width="64"></a>
-<a href="my-badges/public-keys-4.md"><img src="https://github.com/my-badges/my-badges/blob/master/src/all-badges/public-keys/public-keys-4.png?raw=true" alt="I have four public keys" title="I have four public keys" width="64"></a>
-<a href="my-badges/old-issue-1.md"><img src="https://my-badges.github.io/my-badges/old-issue-1.png" alt="I closed an issue that was open for a year" title="I closed an issue that was open for a year" width="64"></a>
 <a href="my-badges/this-is-fine.md"><img src="https://my-badges.github.io/my-badges/this-is-fine.png" alt="I merged a PR with failing checks" title="I merged a PR with failing checks" width="64"></a>
 <a href="my-badges/the-ultimate-question.md"><img src="https://my-badges.github.io/my-badges/the-ultimate-question.png" alt="I found the answer to the ultimate question of life, the universe, and everything!" title="I found the answer to the ultimate question of life, the universe, and everything!" width="64"></a>
 <a href="my-badges/favorite-word.md"><img src="https://my-badges.github.io/my-badges/favorite-word.png" alt="My favorite word is &quot;added&quot;." title="My favorite word is &quot;added&quot;." width="64"></a>
@@ -53,8 +49,9 @@ As part of my dedication to security, I actively report vulnerabilities I discov
 <a href="my-badges/public-keys-3.md"><img src="https://my-badges.github.io/my-badges/public-keys-3.png" alt="I have three public keys" title="I have three public keys" width="64"></a>
 <a href="my-badges/cafe-commit.md"><img src="https://my-badges.github.io/my-badges/cafe-commit.png" alt="I pushed a commit with &quot;cafe&quot; 5 times." title="I pushed a commit with &quot;cafe&quot; 5 times." width="64"></a>
 <a href="my-badges/epic-commit.md"><img src="https://my-badges.github.io/my-badges/epic-commit.png" alt="I made an epic commit with a message over 500 chars." title="I made an epic commit with a message over 500 chars." width="64"></a>
-<a href="my-badges/old-issue-2.md"><img src="https://my-badges.github.io/my-badges/old-issue-2.png" alt="I closed an issue that was open for 2 years" title="I closed an issue that was open for 2 years" width="64"></a>
 <a href="my-badges/spooky-commit.md"><img src="https://my-badges.github.io/my-badges/spooky-commit.png" alt="I committed on the Halloween! Boo!" title="I committed on the Halloween! Boo!" width="64"></a>
+<a href="my-badges/self-upvote.md"><img src="https://my-badges.github.io/my-badges/self-upvote.png" alt="I liked my own comment so much that I upvoted it." title="I liked my own comment so much that I upvoted it." width="64"></a>
+<a href="my-badges/self-star.md"><img src="https://my-badges.github.io/my-badges/self-star.png" alt="I&apos;ve starred 61 my own repositories." title="I&apos;ve starred 61 my own repositories." width="64"></a>
 <!-- my-badges end -->
 
 ---

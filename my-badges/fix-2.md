@@ -4,8 +4,8 @@
 
 Commits:
 
-- <a href="https://github.com/p0dalirius/ApacheTomcatScanner/commit/2e31cd4f951413aefd79609e57978156f9726ea2">2e31cd4</a>: Fixes #30
-- <a href="https://github.com/p0dalirius/ApacheTomcatScanner/commit/384f64f3979ed795941f4f9473ea712e542a891d">384f64f</a>: Fixed #29
+- <a href="https://github.com/p0dalirius/UsersWithPwdLastSetOlderThan/commit/26635e6bc3df1b2c1a62d01cf6be48573fe56b17">26635e6</a>: Fixed pwdLastSetTime format
+- <a href="https://github.com/p0dalirius/UsersWithPwdLastSetOlderThan/commit/ab2a0456abd0ac181c65750b91c0171c9adc2cb0">ab2a045</a>: Fixed Microsot epoch timestamp for pwdLastSet
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
