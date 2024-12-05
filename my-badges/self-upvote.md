@@ -2,9 +2,9 @@
 <strong>I liked my own comment so much that I upvoted it.</strong>
 <br><br>
 
+* <a href="https://github.com/fortra/impacket/pull/1175">❤️</a>
 * <a href="https://github.com/fortra/impacket/pull/1174">❤️</a>
 * <a href="https://github.com/fortra/impacket/pull/1174">👍</a>
-* <a href="https://github.com/fortra/impacket/pull/1175">❤️</a>
 * <a href="https://github.com/fortra/impacket/issues/1651#issuecomment-2011838335">❤️</a>
 * <a href="https://github.com/go-ldap/ldap/issues/536#issuecomment-2472887301">👍</a>
 
