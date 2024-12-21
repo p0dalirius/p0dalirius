@@ -34,7 +34,7 @@
 - <a href="https://github.com/p0dalirius/pyFindUncommonShares">p0dalirius/pyFindUncommonShares</a>
 - <a href="https://github.com/p0dalirius/ldap2json">p0dalirius/ldap2json</a>
 - <a href="https://github.com/p0dalirius/DomainUsersToXLSX">p0dalirius/DomainUsersToXLSX</a>
-- <a href="https://github.com/p0dalirius/pdbdownload">p0dalirius/pdbdownload</a>
+- <a href="https://github.com/p0dalirius/pyPDBdownload">p0dalirius/pyPDBdownload</a>
 - <a href="https://github.com/p0dalirius/TargetAllDomainObjects">p0dalirius/TargetAllDomainObjects</a>
 - <a href="https://github.com/p0dalirius/pyLAPS">p0dalirius/pyLAPS</a>
 - <a href="https://github.com/p0dalirius/ldapconsole">p0dalirius/ldapconsole</a>
