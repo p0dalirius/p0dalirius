@@ -4,11 +4,11 @@
 
 Repos:
 
-* <a href="https://github.com/p0dalirius/pyLAPS">p0dalirius/pyLAPS: ★81</a>
-* <a href="https://github.com/p0dalirius/objectwalker">p0dalirius/objectwalker: ★80</a>
+* <a href="https://github.com/p0dalirius/pyLAPS">p0dalirius/pyLAPS: ★82</a>
 * <a href="https://github.com/p0dalirius/CVE-2021-43008-AdminerRead">p0dalirius/CVE-2021-43008-AdminerRead: ★79</a>
 * <a href="https://github.com/p0dalirius/CVE-2022-21907-http.sys">p0dalirius/CVE-2022-21907-http.sys: ★79</a>
-* <a href="https://github.com/p0dalirius/LFIDump">p0dalirius/LFIDump: ★66</a>
+* <a href="https://github.com/p0dalirius/objectwalker">p0dalirius/objectwalker: ★79</a>
+* <a href="https://github.com/p0dalirius/LFIDump">p0dalirius/LFIDump: ★67</a>
 * <a href="https://github.com/p0dalirius/owabrute">p0dalirius/owabrute: ★65</a>
 * <a href="https://github.com/p0dalirius/ldapconsole">p0dalirius/ldapconsole: ★63</a>
 * <a href="https://github.com/p0dalirius/pydsinternals">p0dalirius/pydsinternals: ★57</a>
@@ -93,6 +93,8 @@ Repos:
 * <a href="https://github.com/p0dalirius/CpuCoresTemperatureGraph">p0dalirius/CpuCoresTemperatureGraph: ★4</a>
 * <a href="https://github.com/p0dalirius/volatility_symbols">p0dalirius/volatility_symbols: ★3</a>
 * <a href="https://github.com/p0dalirius/SortPEbyVersions">p0dalirius/SortPEbyVersions: ★3</a>
+* <a href="https://github.com/p0dalirius/securityscripts">p0dalirius/securityscripts: ★1</a>
+* <a href="https://github.com/p0dalirius/sql-injections-with-raw-hashes">p0dalirius/sql-injections-with-raw-hashes: ★1</a>
 * <a href="https://github.com/Edr4/GLPI-RCE-Authenticated">Edr4/GLPI-RCE-Authenticated: ★1</a>
 * <a href="https://github.com/p0dalirius/sagemathdocker">p0dalirius/sagemathdocker: ★1</a>
 

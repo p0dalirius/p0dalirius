@@ -4,12 +4,12 @@
 
 Commits:
 
-- <a href="https://github.com/p0dalirius/winacl/commit/d97ec8e91ffba0c77224119b4f72572c250a22af">d97ec8e</a>
-- <a href="https://github.com/p0dalirius/Coercer/commit/1ba95b2377103cf109cdf4fc9275df0cdfcb65f9">1ba95b2</a>
-- <a href="https://github.com/p0dalirius/Coercer/commit/e59d37ddb3918b7dc604c14bae87abed3f4699e6">e59d37d</a>
-- <a href="https://github.com/p0dalirius/Coercer/commit/83a1fd7529ab07720b2d917e59847d8cd236c6aa">83a1fd7</a>
-- <a href="https://github.com/p0dalirius/Coercer/commit/b0cefa9f04f394d179a7e1030d458a1bc20a403a">b0cefa9</a>
-- <a href="https://github.com/p0dalirius/Coercer/commit/c21dfabf18c5c1bbf488d2d9a01a9d12be13b86a">c21dfab</a>
+- <a href="https://github.com/p0dalirius/RDWAtool/commit/f97130eaf3e846f2c0e1ca09ecfc91ba2f3d6f0c">f97130e</a>
+- <a href="https://github.com/p0dalirius/pyFindUncommonShares/commit/a48a0a5d972e792236754cd5ce8f1d39202de751">a48a0a5</a>
+- <a href="https://github.com/p0dalirius/SortPEbyVersions/commit/36c0e2b81c241ae32498b1d2fb16ede3deaf8387">36c0e2b</a>
+- <a href="https://github.com/p0dalirius/SortPEbyVersions/commit/1b47e33b19bab195a3ba2bf2ac9e8fc518d65e02">1b47e33</a>
+- <a href="https://github.com/p0dalirius/python_packages_paths/commit/8bf8f6b32f093726f99dcbbda0b4f4d936c2ea3d">8bf8f6b</a>
+- <a href="https://github.com/p0dalirius/python_packages_paths/commit/6f64eb1cf5a933ddb8af1166a7a52a17b64489d1">6f64eb1</a>
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
