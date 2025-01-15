@@ -4,9 +4,9 @@
 
 Repos:
 
-* <a href="https://github.com/p0dalirius/pyFindUncommonShares">p0dalirius/pyFindUncommonShares: ★397</a>
+* <a href="https://github.com/p0dalirius/pyFindUncommonShares">p0dalirius/pyFindUncommonShares: ★398</a>
 * <a href="https://github.com/p0dalirius/ipsourcebypass">p0dalirius/ipsourcebypass: ★380</a>
-* <a href="https://github.com/ShutdownRepo/smartbrute">ShutdownRepo/smartbrute: ★354</a>
+* <a href="https://github.com/ShutdownRepo/smartbrute">ShutdownRepo/smartbrute: ★355</a>
 * <a href="https://github.com/p0dalirius/pyLDAPWordlistHarvester">p0dalirius/pyLDAPWordlistHarvester: ★343</a>
 * <a href="https://github.com/p0dalirius/ExtractBitlockerKeys">p0dalirius/ExtractBitlockerKeys: ★337</a>
 * <a href="https://github.com/p0dalirius/DumpSMBShare">p0dalirius/DumpSMBShare: ★217</a>
@@ -16,13 +16,13 @@ Repos:
 * <a href="https://github.com/p0dalirius/ldap2json">p0dalirius/ldap2json: ★121</a>
 * <a href="https://github.com/p0dalirius/pyPDBdownload">p0dalirius/pyPDBdownload: ★117</a>
 * <a href="https://github.com/p0dalirius/CVE-2022-36446-Webmin-Software-Package-Updates-RCE">p0dalirius/CVE-2022-36446-Webmin-Software-Package-Updates-RCE: ★110</a>
-* <a href="https://github.com/p0dalirius/Tomcat-webshell-application">p0dalirius/Tomcat-webshell-application: ★98</a>
+* <a href="https://github.com/p0dalirius/Tomcat-webshell-application">p0dalirius/Tomcat-webshell-application: ★99</a>
 * <a href="https://github.com/p0dalirius/RDWAtool">p0dalirius/RDWAtool: ★95</a>
 * <a href="https://github.com/p0dalirius/pyLAPS">p0dalirius/pyLAPS: ★83</a>
 * <a href="https://github.com/p0dalirius/Wordpress-webshell-plugin">p0dalirius/Wordpress-webshell-plugin: ★83</a>
+* <a href="https://github.com/p0dalirius/objectwalker">p0dalirius/objectwalker: ★82</a>
 * <a href="https://github.com/p0dalirius/CVE-2021-43008-AdminerRead">p0dalirius/CVE-2021-43008-AdminerRead: ★79</a>
 * <a href="https://github.com/p0dalirius/CVE-2022-21907-http.sys">p0dalirius/CVE-2022-21907-http.sys: ★79</a>
-* <a href="https://github.com/p0dalirius/objectwalker">p0dalirius/objectwalker: ★79</a>
 * <a href="https://github.com/p0dalirius/LFIDump">p0dalirius/LFIDump: ★67</a>
 * <a href="https://github.com/p0dalirius/owabrute">p0dalirius/owabrute: ★66</a>
 * <a href="https://github.com/p0dalirius/ldapconsole">p0dalirius/ldapconsole: ★63</a>
@@ -66,11 +66,11 @@ Repos:
 * <a href="https://github.com/p0dalirius/CVE-2022-30780-lighttpd-denial-of-service">p0dalirius/CVE-2022-30780-lighttpd-denial-of-service: ★16</a>
 * <a href="https://github.com/p0dalirius/windows-cryptographic-and-hashing-algorithms-explained">p0dalirius/windows-cryptographic-and-hashing-algorithms-explained: ★16</a>
 * <a href="https://github.com/p0dalirius/pwndocapi">p0dalirius/pwndocapi: ★15</a>
+* <a href="https://github.com/p0dalirius/wav2mmv">p0dalirius/wav2mmv: ★15</a>
 * <a href="https://github.com/p0dalirius/hivetools">p0dalirius/hivetools: ★15</a>
 * <a href="https://github.com/p0dalirius/http-fuzzing-scripts">p0dalirius/http-fuzzing-scripts: ★15</a>
 * <a href="https://github.com/p0dalirius/GhostSPN">p0dalirius/GhostSPN: ★15</a>
 * <a href="https://github.com/p0dalirius/ParseFortinetSerialNumber">p0dalirius/ParseFortinetSerialNumber: ★14</a>
-* <a href="https://github.com/p0dalirius/wav2mmv">p0dalirius/wav2mmv: ★14</a>
 * <a href="https://github.com/p0dalirius/CVE-2018-16763-FuelCMS-1.4.1-RCE">p0dalirius/CVE-2018-16763-FuelCMS-1.4.1-RCE: ★13</a>
 * <a href="https://github.com/Ooggle/shellcoding-companion">Ooggle/shellcoding-companion: ★13</a>
 * <a href="https://github.com/p0dalirius/Joomla-1.6-1.7-2.5-Privilege-Escalation-Vulnerability">p0dalirius/Joomla-1.6-1.7-2.5-Privilege-Escalation-Vulnerability: ★13</a>

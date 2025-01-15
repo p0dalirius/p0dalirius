@@ -5,9 +5,9 @@
 Repos:
 
 * <a href="https://github.com/p0dalirius/Wordpress-webshell-plugin">p0dalirius/Wordpress-webshell-plugin: ★83</a>
+* <a href="https://github.com/p0dalirius/objectwalker">p0dalirius/objectwalker: ★82</a>
 * <a href="https://github.com/p0dalirius/CVE-2021-43008-AdminerRead">p0dalirius/CVE-2021-43008-AdminerRead: ★79</a>
 * <a href="https://github.com/p0dalirius/CVE-2022-21907-http.sys">p0dalirius/CVE-2022-21907-http.sys: ★79</a>
-* <a href="https://github.com/p0dalirius/objectwalker">p0dalirius/objectwalker: ★79</a>
 * <a href="https://github.com/p0dalirius/LFIDump">p0dalirius/LFIDump: ★67</a>
 * <a href="https://github.com/p0dalirius/owabrute">p0dalirius/owabrute: ★66</a>
 * <a href="https://github.com/p0dalirius/ldapconsole">p0dalirius/ldapconsole: ★63</a>
@@ -51,11 +51,11 @@ Repos:
 * <a href="https://github.com/p0dalirius/CVE-2022-30780-lighttpd-denial-of-service">p0dalirius/CVE-2022-30780-lighttpd-denial-of-service: ★16</a>
 * <a href="https://github.com/p0dalirius/windows-cryptographic-and-hashing-algorithms-explained">p0dalirius/windows-cryptographic-and-hashing-algorithms-explained: ★16</a>
 * <a href="https://github.com/p0dalirius/pwndocapi">p0dalirius/pwndocapi: ★15</a>
+* <a href="https://github.com/p0dalirius/wav2mmv">p0dalirius/wav2mmv: ★15</a>
 * <a href="https://github.com/p0dalirius/hivetools">p0dalirius/hivetools: ★15</a>
 * <a href="https://github.com/p0dalirius/http-fuzzing-scripts">p0dalirius/http-fuzzing-scripts: ★15</a>
 * <a href="https://github.com/p0dalirius/GhostSPN">p0dalirius/GhostSPN: ★15</a>
 * <a href="https://github.com/p0dalirius/ParseFortinetSerialNumber">p0dalirius/ParseFortinetSerialNumber: ★14</a>
-* <a href="https://github.com/p0dalirius/wav2mmv">p0dalirius/wav2mmv: ★14</a>
 * <a href="https://github.com/p0dalirius/CVE-2018-16763-FuelCMS-1.4.1-RCE">p0dalirius/CVE-2018-16763-FuelCMS-1.4.1-RCE: ★13</a>
 * <a href="https://github.com/Ooggle/shellcoding-companion">Ooggle/shellcoding-companion: ★13</a>
 * <a href="https://github.com/p0dalirius/Joomla-1.6-1.7-2.5-Privilege-Escalation-Vulnerability">p0dalirius/Joomla-1.6-1.7-2.5-Privilege-Escalation-Vulnerability: ★13</a>
