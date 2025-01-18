@@ -75,7 +75,7 @@ Repos:
 * <a href="https://github.com/p0dalirius/CpuCoresTemperatureGraph">p0dalirius/CpuCoresTemperatureGraph: ★4</a>
 * <a href="https://github.com/p0dalirius/volatility_symbols">p0dalirius/volatility_symbols: ★3</a>
 * <a href="https://github.com/p0dalirius/SortPEbyVersions">p0dalirius/SortPEbyVersions: ★3</a>
-* <a href="https://github.com/p0dalirius/securityscripts">p0dalirius/securityscripts: ★2</a>
+* <a href="https://github.com/p0dalirius/securityscripts">p0dalirius/securityscripts: ★1</a>
 * <a href="https://github.com/p0dalirius/sql-injections-with-raw-hashes">p0dalirius/sql-injections-with-raw-hashes: ★1</a>
 * <a href="https://github.com/Edr4/GLPI-RCE-Authenticated">Edr4/GLPI-RCE-Authenticated: ★1</a>
 * <a href="https://github.com/p0dalirius/sagemathdocker">p0dalirius/sagemathdocker: ★1</a>

@@ -19,7 +19,7 @@ Repos:
 * <a href="https://github.com/p0dalirius/CVE-2022-45771-Pwndoc-LFI-to-RCE">p0dalirius/CVE-2022-45771-Pwndoc-LFI-to-RCE: ★46</a>
 * <a href="https://github.com/p0dalirius/microsoft-rpc-fuzzing-tools">p0dalirius/microsoft-rpc-fuzzing-tools: ★45</a>
 * <a href="https://github.com/p0dalirius/robotstester">p0dalirius/robotstester: ★41</a>
-* <a href="https://github.com/Ruulian/CSPass">Ruulian/CSPass: ★40</a>
+* <a href="https://github.com/Ruulian/CSPass">Ruulian/CSPass: ★39</a>
 * <a href="https://github.com/p0dalirius/Argon2Cracker">p0dalirius/Argon2Cracker: ★34</a>
 * <a href="https://github.com/p0dalirius/sectools">p0dalirius/sectools: ★33</a>
 * <a href="https://github.com/p0dalirius/DomainUsersToXLSX">p0dalirius/DomainUsersToXLSX: ★32</a>
@@ -93,7 +93,7 @@ Repos:
 * <a href="https://github.com/p0dalirius/CpuCoresTemperatureGraph">p0dalirius/CpuCoresTemperatureGraph: ★4</a>
 * <a href="https://github.com/p0dalirius/volatility_symbols">p0dalirius/volatility_symbols: ★3</a>
 * <a href="https://github.com/p0dalirius/SortPEbyVersions">p0dalirius/SortPEbyVersions: ★3</a>
-* <a href="https://github.com/p0dalirius/securityscripts">p0dalirius/securityscripts: ★2</a>
+* <a href="https://github.com/p0dalirius/securityscripts">p0dalirius/securityscripts: ★1</a>
 * <a href="https://github.com/p0dalirius/sql-injections-with-raw-hashes">p0dalirius/sql-injections-with-raw-hashes: ★1</a>
 * <a href="https://github.com/Edr4/GLPI-RCE-Authenticated">Edr4/GLPI-RCE-Authenticated: ★1</a>
 * <a href="https://github.com/p0dalirius/sagemathdocker">p0dalirius/sagemathdocker: ★1</a>
