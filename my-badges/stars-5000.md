@@ -7,7 +7,7 @@ Repos:
 * <a href="https://github.com/p0dalirius/pyFindUncommonShares">p0dalirius/pyFindUncommonShares: ★404</a>
 * <a href="https://github.com/p0dalirius/ipsourcebypass">p0dalirius/ipsourcebypass: ★380</a>
 * <a href="https://github.com/ShutdownRepo/smartbrute">ShutdownRepo/smartbrute: ★357</a>
-* <a href="https://github.com/p0dalirius/pyLDAPWordlistHarvester">p0dalirius/pyLDAPWordlistHarvester: ★347</a>
+* <a href="https://github.com/p0dalirius/pyLDAPWordlistHarvester">p0dalirius/pyLDAPWordlistHarvester: ★348</a>
 * <a href="https://github.com/p0dalirius/ExtractBitlockerKeys">p0dalirius/ExtractBitlockerKeys: ★339</a>
 * <a href="https://github.com/p0dalirius/DumpSMBShare">p0dalirius/DumpSMBShare: ★218</a>
 * <a href="https://github.com/p0dalirius/GeoWordlists">p0dalirius/GeoWordlists: ★145</a>
@@ -27,7 +27,7 @@ Repos:
 * <a href="https://github.com/p0dalirius/owabrute">p0dalirius/owabrute: ★66</a>
 * <a href="https://github.com/p0dalirius/ldapconsole">p0dalirius/ldapconsole: ★63</a>
 * <a href="https://github.com/p0dalirius/pydsinternals">p0dalirius/pydsinternals: ★57</a>
-* <a href="https://github.com/ShutdownRepo/httpmethods">ShutdownRepo/httpmethods: ★54</a>
+* <a href="https://github.com/ShutdownRepo/httpmethods">ShutdownRepo/httpmethods: ★55</a>
 * <a href="https://github.com/p0dalirius/RemoteMouse-3.008-Exploit">p0dalirius/RemoteMouse-3.008-Exploit: ★48</a>
 * <a href="https://github.com/p0dalirius/volatility2-profiles">p0dalirius/volatility2-profiles: ★46</a>
 * <a href="https://github.com/p0dalirius/Joomla-webshell-plugin">p0dalirius/Joomla-webshell-plugin: ★46</a>
@@ -103,10 +103,10 @@ Repos:
 * <a href="https://github.com/p0dalirius/SIDTool">p0dalirius/SIDTool: ★6</a>
 * <a href="https://github.com/p0dalirius/what-if">p0dalirius/what-if: ★5</a>
 * <a href="https://github.com/p0dalirius/CVE-2020-8813-Cacti-RCE-in-graph_realtime">p0dalirius/CVE-2020-8813-Cacti-RCE-in-graph_realtime: ★5</a>
+* <a href="https://github.com/p0dalirius/MSDN-Magazine">p0dalirius/MSDN-Magazine: ★5</a>
 * <a href="https://github.com/p0dalirius/pdsimage-downloader">p0dalirius/pdsimage-downloader: ★4</a>
 * <a href="https://github.com/p0dalirius/stackdumper">p0dalirius/stackdumper: ★4</a>
 * <a href="https://github.com/p0dalirius/CpuCoresTemperatureGraph">p0dalirius/CpuCoresTemperatureGraph: ★4</a>
-* <a href="https://github.com/p0dalirius/MSDN-Magazine">p0dalirius/MSDN-Magazine: ★4</a>
 * <a href="https://github.com/p0dalirius/volatility_symbols">p0dalirius/volatility_symbols: ★3</a>
 * <a href="https://github.com/p0dalirius/SortPEbyVersions">p0dalirius/SortPEbyVersions: ★3</a>
 * <a href="https://github.com/p0dalirius/securityscripts">p0dalirius/securityscripts: ★1</a>
