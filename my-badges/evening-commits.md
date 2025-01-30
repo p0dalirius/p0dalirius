@@ -9,7 +9,7 @@ Commits:
 - <a href="https://github.com/p0dalirius/RemoteMouse-3.008-Exploit/commit/36b8b83471211aa481e8093c3767f1c2cf73d45b">36b8b83</a>
 - <a href="https://github.com/p0dalirius/DumpSMBShare/commit/ef89f08f6345ef537abae688071bc43c3582379b">ef89f08</a>
 - <a href="https://github.com/p0dalirius/smbclient-ng/commit/2575fea3307187472ea6fe0d5dd3275caa875bea">2575fea</a>
-- <a href="https://github.com/p0dalirius/SIDTool/commit/68aee77b7090e21865bdbe7a8f4df10f129c5985">68aee77</a>
+- <a href="https://github.com/p0dalirius/SIDTool/commit/da30411d94d85098927e630edf094868462c5204">da30411</a>
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
