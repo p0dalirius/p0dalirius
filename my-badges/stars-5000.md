@@ -11,7 +11,7 @@ Repos:
 * <a href="https://github.com/p0dalirius/ExtractBitlockerKeys">p0dalirius/ExtractBitlockerKeys: ★339</a>
 * <a href="https://github.com/p0dalirius/DumpSMBShare">p0dalirius/DumpSMBShare: ★218</a>
 * <a href="https://github.com/p0dalirius/GeoWordlists">p0dalirius/GeoWordlists: ★145</a>
-* <a href="https://github.com/p0dalirius/ctfd-parser">p0dalirius/ctfd-parser: ★136</a>
+* <a href="https://github.com/p0dalirius/ctfd-parser">p0dalirius/ctfd-parser: ★137</a>
 * <a href="https://github.com/p0dalirius/MSSQL-Analysis-Coerce">p0dalirius/MSSQL-Analysis-Coerce: ★125</a>
 * <a href="https://github.com/p0dalirius/ldap2json">p0dalirius/ldap2json: ★122</a>
 * <a href="https://github.com/p0dalirius/pyPDBdownload">p0dalirius/pyPDBdownload: ★118</a>
@@ -101,7 +101,6 @@ Repos:
 * <a href="https://github.com/p0dalirius/lib-parseargs">p0dalirius/lib-parseargs: ★6</a>
 * <a href="https://github.com/p0dalirius/SymfonyDumpSource">p0dalirius/SymfonyDumpSource: ★6</a>
 * <a href="https://github.com/p0dalirius/SIDTool">p0dalirius/SIDTool: ★6</a>
-* <a href="https://github.com/p0dalirius/what-if">p0dalirius/what-if: ★5</a>
 * <a href="https://github.com/p0dalirius/CVE-2020-8813-Cacti-RCE-in-graph_realtime">p0dalirius/CVE-2020-8813-Cacti-RCE-in-graph_realtime: ★5</a>
 * <a href="https://github.com/p0dalirius/pdsimage-downloader">p0dalirius/pdsimage-downloader: ★4</a>
 * <a href="https://github.com/p0dalirius/stackdumper">p0dalirius/stackdumper: ★4</a>
