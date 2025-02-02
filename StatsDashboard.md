@@ -4,3 +4,6 @@
 
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=syzik) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=p0dalirius&utcOffset=8)| ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=p0dalirius&hide=Html) |
 | :-: | :-: | :-: |
+
+| ![](https://github-readme-stats.vercel.app/api?username=p0dalirius&show_icons=true&theme=default) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=p0dalirius&layout=compact&theme=default) |
+| :-: | :-: |
