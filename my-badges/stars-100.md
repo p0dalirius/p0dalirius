@@ -4,7 +4,6 @@
 
 Repos:
 
-* <a href="https://github.com/p0dalirius/python_packages_paths">p0dalirius/python_packages_paths: ★8</a>
 * <a href="https://github.com/p0dalirius/streamableDownloader">p0dalirius/streamableDownloader: ★8</a>
 * <a href="https://github.com/p0dalirius/impacket">p0dalirius/impacket: ★8</a>
 * <a href="https://github.com/p0dalirius/goopts">p0dalirius/goopts: ★8</a>
@@ -21,11 +20,11 @@ Repos:
 * <a href="https://github.com/p0dalirius/CpuCoresTemperatureGraph">p0dalirius/CpuCoresTemperatureGraph: ★4</a>
 * <a href="https://github.com/p0dalirius/volatility_symbols">p0dalirius/volatility_symbols: ★3</a>
 * <a href="https://github.com/p0dalirius/SortPEbyVersions">p0dalirius/SortPEbyVersions: ★3</a>
+* <a href="https://github.com/p0dalirius/DescribeNTSecurityDescriptor">p0dalirius/DescribeNTSecurityDescriptor: ★2</a>
 * <a href="https://github.com/p0dalirius/AutoType">p0dalirius/AutoType: ★2</a>
 * <a href="https://github.com/p0dalirius/securityscripts">p0dalirius/securityscripts: ★1</a>
 * <a href="https://github.com/p0dalirius/sql-injections-with-raw-hashes">p0dalirius/sql-injections-with-raw-hashes: ★1</a>
 * <a href="https://github.com/Edr4/GLPI-RCE-Authenticated">Edr4/GLPI-RCE-Authenticated: ★1</a>
-* <a href="https://github.com/p0dalirius/DescribeNTSecurityDescriptor">p0dalirius/DescribeNTSecurityDescriptor: ★1</a>
 * <a href="https://github.com/p0dalirius/docker-sagemath">p0dalirius/docker-sagemath: ★1</a>
 
 <sup>I have push, maintainer or admin permissions, so I'm definitely an author.<sup>
