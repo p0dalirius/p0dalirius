@@ -4,12 +4,12 @@
 
 Commits:
 
+- <a href="https://github.com/p0dalirius/DescribeNTSecurityDescriptor/commit/3e522cd5140ba0d027a8d101efc2d3ec91fe97bb">3e522cd</a>
 - <a href="https://github.com/p0dalirius/ldap/commit/378df4e2bf8eebb43fbdfc97840737c21054cccb">378df4e</a>
 - <a href="https://github.com/p0dalirius/RemoteMouse-3.008-Exploit/commit/89b89707466b50cfc3829c454915e23cfd85be81">89b8970</a>
 - <a href="https://github.com/p0dalirius/RemoteMouse-3.008-Exploit/commit/36b8b83471211aa481e8093c3767f1c2cf73d45b">36b8b83</a>
 - <a href="https://github.com/p0dalirius/DumpSMBShare/commit/ef89f08f6345ef537abae688071bc43c3582379b">ef89f08</a>
 - <a href="https://github.com/p0dalirius/smbclient-ng/commit/2575fea3307187472ea6fe0d5dd3275caa875bea">2575fea</a>
-- <a href="https://github.com/p0dalirius/SIDTool/commit/da30411d94d85098927e630edf094868462c5204">da30411</a>
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>

@@ -4,8 +4,8 @@
 
 Commits:
 
-- <a href="https://github.com/p0dalirius/UsersWithPwdLastSetOlderThan/commit/26635e6bc3df1b2c1a62d01cf6be48573fe56b17">26635e6</a>: Fixed pwdLastSetTime format
-- <a href="https://github.com/p0dalirius/UsersWithPwdLastSetOlderThan/commit/ab2a0456abd0ac181c65750b91c0171c9adc2cb0">ab2a045</a>: Fixed Microsot epoch timestamp for pwdLastSet
+- <a href="https://github.com/p0dalirius/goopts/commit/de668b5a220c8d875d3196506056e65251da6f4a">de668b5</a>: Fixed unit tests
+- <a href="https://github.com/p0dalirius/goopts/commit/089809d91a5e97196a43fa6082555a2a9be3c2c0">089809d</a>: Fixed unit tests
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
