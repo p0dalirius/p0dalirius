@@ -4,12 +4,12 @@
 
 Commits:
 
-- <a href="https://github.com/p0dalirius/DescribeNTSecurityDescriptor/commit/3e522cd5140ba0d027a8d101efc2d3ec91fe97bb">3e522cd</a>
-- <a href="https://github.com/p0dalirius/ldap/commit/378df4e2bf8eebb43fbdfc97840737c21054cccb">378df4e</a>
-- <a href="https://github.com/p0dalirius/RemoteMouse-3.008-Exploit/commit/89b89707466b50cfc3829c454915e23cfd85be81">89b8970</a>
-- <a href="https://github.com/p0dalirius/RemoteMouse-3.008-Exploit/commit/36b8b83471211aa481e8093c3767f1c2cf73d45b">36b8b83</a>
-- <a href="https://github.com/p0dalirius/DumpSMBShare/commit/ef89f08f6345ef537abae688071bc43c3582379b">ef89f08</a>
-- <a href="https://github.com/p0dalirius/smbclient-ng/commit/2575fea3307187472ea6fe0d5dd3275caa875bea">2575fea</a>
+- <a href="https://github.com/p0dalirius/goopts/commit/f892d2fc82c31e519024351c20d720a01c8eedee">f892d2f</a>
+- <a href="https://github.com/p0dalirius/goopts/commit/6dcee6991aabc1a08f807a14a3f54e90a1d54dc2">6dcee69</a>
+- <a href="https://github.com/p0dalirius/winacl/commit/52a1a8d0c340ea5cf63d5628a05a9593a9dac200">52a1a8d</a>
+- <a href="https://github.com/p0dalirius/winacl/commit/4aaf521bb2f80c4885ec852a1bb2f030f9e73e2a">4aaf521</a>
+- <a href="https://github.com/p0dalirius/winacl/commit/2fa0062cd2d081750ef89296fe043d95a8d84b09">2fa0062</a>
+- <a href="https://github.com/p0dalirius/winacl/commit/f6980bb847b5aa02fa17f6730c21145a9e69f33d">f6980bb</a>
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
