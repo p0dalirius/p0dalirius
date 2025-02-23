@@ -10,7 +10,7 @@ Repos:
 * <a href="https://github.com/ShutdownRepo/smartbrute">ShutdownRepo/smartbrute: ★358</a>
 * <a href="https://github.com/p0dalirius/pyLDAPWordlistHarvester">p0dalirius/pyLDAPWordlistHarvester: ★348</a>
 * <a href="https://github.com/p0dalirius/DumpSMBShare">p0dalirius/DumpSMBShare: ★217</a>
-* <a href="https://github.com/p0dalirius/GeoWordlists">p0dalirius/GeoWordlists: ★145</a>
+* <a href="https://github.com/p0dalirius/GeoWordlists">p0dalirius/GeoWordlists: ★147</a>
 * <a href="https://github.com/p0dalirius/ctfd-parser">p0dalirius/ctfd-parser: ★140</a>
 * <a href="https://github.com/p0dalirius/ldap2json">p0dalirius/ldap2json: ★126</a>
 * <a href="https://github.com/p0dalirius/MSSQL-Analysis-Coerce">p0dalirius/MSSQL-Analysis-Coerce: ★125</a>
@@ -18,8 +18,8 @@ Repos:
 * <a href="https://github.com/p0dalirius/CVE-2022-36446-Webmin-Software-Package-Updates-RCE">p0dalirius/CVE-2022-36446-Webmin-Software-Package-Updates-RCE: ★110</a>
 * <a href="https://github.com/p0dalirius/Tomcat-webshell-application">p0dalirius/Tomcat-webshell-application: ★100</a>
 * <a href="https://github.com/p0dalirius/RDWAtool">p0dalirius/RDWAtool: ★96</a>
+* <a href="https://github.com/p0dalirius/pyLAPS">p0dalirius/pyLAPS: ★88</a>
 * <a href="https://github.com/p0dalirius/objectwalker">p0dalirius/objectwalker: ★88</a>
-* <a href="https://github.com/p0dalirius/pyLAPS">p0dalirius/pyLAPS: ★87</a>
 * <a href="https://github.com/p0dalirius/Wordpress-webshell-plugin">p0dalirius/Wordpress-webshell-plugin: ★83</a>
 * <a href="https://github.com/p0dalirius/CVE-2021-43008-AdminerRead">p0dalirius/CVE-2021-43008-AdminerRead: ★79</a>
 * <a href="https://github.com/p0dalirius/CVE-2022-21907-http.sys">p0dalirius/CVE-2022-21907-http.sys: ★79</a>

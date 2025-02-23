@@ -4,7 +4,7 @@
 
 Repos:
 
-* <a href="https://github.com/p0dalirius/pyLAPS">p0dalirius/pyLAPS: ★87</a>
+* <a href="https://github.com/p0dalirius/objectwalker">p0dalirius/objectwalker: ★88</a>
 * <a href="https://github.com/p0dalirius/Wordpress-webshell-plugin">p0dalirius/Wordpress-webshell-plugin: ★83</a>
 * <a href="https://github.com/p0dalirius/CVE-2021-43008-AdminerRead">p0dalirius/CVE-2021-43008-AdminerRead: ★79</a>
 * <a href="https://github.com/p0dalirius/CVE-2022-21907-http.sys">p0dalirius/CVE-2022-21907-http.sys: ★79</a>
