@@ -8,16 +8,16 @@ Repos:
 * <a href="https://github.com/p0dalirius/ipsourcebypass">p0dalirius/ipsourcebypass: ★381</a>
 * <a href="https://github.com/p0dalirius/ExtractBitlockerKeys">p0dalirius/ExtractBitlockerKeys: ★363</a>
 * <a href="https://github.com/ShutdownRepo/smartbrute">ShutdownRepo/smartbrute: ★359</a>
-* <a href="https://github.com/p0dalirius/pyLDAPWordlistHarvester">p0dalirius/pyLDAPWordlistHarvester: ★348</a>
-* <a href="https://github.com/p0dalirius/DumpSMBShare">p0dalirius/DumpSMBShare: ★217</a>
+* <a href="https://github.com/p0dalirius/pyLDAPWordlistHarvester">p0dalirius/pyLDAPWordlistHarvester: ★349</a>
+* <a href="https://github.com/p0dalirius/DumpSMBShare">p0dalirius/DumpSMBShare: ★216</a>
 * <a href="https://github.com/p0dalirius/GeoWordlists">p0dalirius/GeoWordlists: ★147</a>
 * <a href="https://github.com/p0dalirius/ctfd-parser">p0dalirius/ctfd-parser: ★140</a>
 * <a href="https://github.com/p0dalirius/ldap2json">p0dalirius/ldap2json: ★126</a>
 * <a href="https://github.com/p0dalirius/MSSQL-Analysis-Coerce">p0dalirius/MSSQL-Analysis-Coerce: ★125</a>
 * <a href="https://github.com/p0dalirius/pyPDBdownload">p0dalirius/pyPDBdownload: ★119</a>
 * <a href="https://github.com/p0dalirius/CVE-2022-36446-Webmin-Software-Package-Updates-RCE">p0dalirius/CVE-2022-36446-Webmin-Software-Package-Updates-RCE: ★110</a>
-* <a href="https://github.com/p0dalirius/Tomcat-webshell-application">p0dalirius/Tomcat-webshell-application: ★101</a>
-* <a href="https://github.com/p0dalirius/RDWAtool">p0dalirius/RDWAtool: ★97</a>
+* <a href="https://github.com/p0dalirius/Tomcat-webshell-application">p0dalirius/Tomcat-webshell-application: ★102</a>
+* <a href="https://github.com/p0dalirius/RDWAtool">p0dalirius/RDWAtool: ★96</a>
 * <a href="https://github.com/p0dalirius/pyLAPS">p0dalirius/pyLAPS: ★89</a>
 * <a href="https://github.com/p0dalirius/objectwalker">p0dalirius/objectwalker: ★89</a>
 * <a href="https://github.com/p0dalirius/Wordpress-webshell-plugin">p0dalirius/Wordpress-webshell-plugin: ★83</a>
@@ -25,19 +25,19 @@ Repos:
 * <a href="https://github.com/p0dalirius/CVE-2022-21907-http.sys">p0dalirius/CVE-2022-21907-http.sys: ★79</a>
 * <a href="https://github.com/p0dalirius/owabrute">p0dalirius/owabrute: ★68</a>
 * <a href="https://github.com/p0dalirius/LFIDump">p0dalirius/LFIDump: ★67</a>
+* <a href="https://github.com/p0dalirius/FindGPPPasswords">p0dalirius/FindGPPPasswords: ★65</a>
 * <a href="https://github.com/p0dalirius/ldapconsole">p0dalirius/ldapconsole: ★63</a>
 * <a href="https://github.com/p0dalirius/pydsinternals">p0dalirius/pydsinternals: ★58</a>
 * <a href="https://github.com/ShutdownRepo/httpmethods">ShutdownRepo/httpmethods: ★56</a>
-* <a href="https://github.com/p0dalirius/FindGPPPasswords">p0dalirius/FindGPPPasswords: ★52</a>
-* <a href="https://github.com/p0dalirius/RemoteMouse-3.008-Exploit">p0dalirius/RemoteMouse-3.008-Exploit: ★48</a>
 * <a href="https://github.com/p0dalirius/Joomla-webshell-plugin">p0dalirius/Joomla-webshell-plugin: ★48</a>
+* <a href="https://github.com/p0dalirius/RemoteMouse-3.008-Exploit">p0dalirius/RemoteMouse-3.008-Exploit: ★47</a>
 * <a href="https://github.com/p0dalirius/volatility2-profiles">p0dalirius/volatility2-profiles: ★46</a>
 * <a href="https://github.com/p0dalirius/CVE-2022-45771-Pwndoc-LFI-to-RCE">p0dalirius/CVE-2022-45771-Pwndoc-LFI-to-RCE: ★46</a>
 * <a href="https://github.com/p0dalirius/microsoft-rpc-fuzzing-tools">p0dalirius/microsoft-rpc-fuzzing-tools: ★45</a>
 * <a href="https://github.com/p0dalirius/robotstester">p0dalirius/robotstester: ★42</a>
 * <a href="https://github.com/Ruulian/CSPass">Ruulian/CSPass: ★41</a>
+* <a href="https://github.com/p0dalirius/DescribeNTSecurityDescriptor">p0dalirius/DescribeNTSecurityDescriptor: ★35</a>
 * <a href="https://github.com/p0dalirius/Argon2Cracker">p0dalirius/Argon2Cracker: ★34</a>
-* <a href="https://github.com/p0dalirius/DescribeNTSecurityDescriptor">p0dalirius/DescribeNTSecurityDescriptor: ★34</a>
 * <a href="https://github.com/p0dalirius/p0dalirius">p0dalirius/p0dalirius: ★32</a>
 * <a href="https://github.com/p0dalirius/sectools">p0dalirius/sectools: ★32</a>
 * <a href="https://github.com/p0dalirius/DomainUsersToXLSX">p0dalirius/DomainUsersToXLSX: ★31</a>
@@ -110,11 +110,11 @@ Repos:
 * <a href="https://github.com/p0dalirius/volatility_symbols">p0dalirius/volatility_symbols: ★3</a>
 * <a href="https://github.com/p0dalirius/SortPEbyVersions">p0dalirius/SortPEbyVersions: ★3</a>
 * <a href="https://github.com/p0dalirius/AutoType">p0dalirius/AutoType: ★2</a>
+* <a href="https://github.com/p0dalirius/keytab">p0dalirius/keytab: ★2</a>
 * <a href="https://github.com/p0dalirius/securityscripts">p0dalirius/securityscripts: ★1</a>
 * <a href="https://github.com/p0dalirius/sql-injections-with-raw-hashes">p0dalirius/sql-injections-with-raw-hashes: ★1</a>
 * <a href="https://github.com/Edr4/GLPI-RCE-Authenticated">Edr4/GLPI-RCE-Authenticated: ★1</a>
 * <a href="https://github.com/p0dalirius/docker-sagemath">p0dalirius/docker-sagemath: ★1</a>
-* <a href="https://github.com/p0dalirius/keytab">p0dalirius/keytab: ★1</a>
 
 <sup>I have push, maintainer or admin permissions, so I'm definitely an author.<sup>
 
