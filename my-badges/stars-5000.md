@@ -4,7 +4,7 @@
 
 Repos:
 
-* <a href="https://github.com/p0dalirius/pyFindUncommonShares">p0dalirius/pyFindUncommonShares: ★405</a>
+* <a href="https://github.com/p0dalirius/pyFindUncommonShares">p0dalirius/pyFindUncommonShares: ★406</a>
 * <a href="https://github.com/p0dalirius/ipsourcebypass">p0dalirius/ipsourcebypass: ★381</a>
 * <a href="https://github.com/p0dalirius/ExtractBitlockerKeys">p0dalirius/ExtractBitlockerKeys: ★364</a>
 * <a href="https://github.com/ShutdownRepo/smartbrute">ShutdownRepo/smartbrute: ★359</a>
@@ -17,13 +17,13 @@ Repos:
 * <a href="https://github.com/p0dalirius/pyPDBdownload">p0dalirius/pyPDBdownload: ★119</a>
 * <a href="https://github.com/p0dalirius/CVE-2022-36446-Webmin-Software-Package-Updates-RCE">p0dalirius/CVE-2022-36446-Webmin-Software-Package-Updates-RCE: ★110</a>
 * <a href="https://github.com/p0dalirius/Tomcat-webshell-application">p0dalirius/Tomcat-webshell-application: ★102</a>
-* <a href="https://github.com/p0dalirius/RDWAtool">p0dalirius/RDWAtool: ★96</a>
+* <a href="https://github.com/p0dalirius/RDWAtool">p0dalirius/RDWAtool: ★97</a>
 * <a href="https://github.com/p0dalirius/pyLAPS">p0dalirius/pyLAPS: ★89</a>
 * <a href="https://github.com/p0dalirius/objectwalker">p0dalirius/objectwalker: ★89</a>
 * <a href="https://github.com/p0dalirius/Wordpress-webshell-plugin">p0dalirius/Wordpress-webshell-plugin: ★83</a>
+* <a href="https://github.com/p0dalirius/FindGPPPasswords">p0dalirius/FindGPPPasswords: ★82</a>
 * <a href="https://github.com/p0dalirius/CVE-2021-43008-AdminerRead">p0dalirius/CVE-2021-43008-AdminerRead: ★80</a>
 * <a href="https://github.com/p0dalirius/CVE-2022-21907-http.sys">p0dalirius/CVE-2022-21907-http.sys: ★79</a>
-* <a href="https://github.com/p0dalirius/FindGPPPasswords">p0dalirius/FindGPPPasswords: ★79</a>
 * <a href="https://github.com/p0dalirius/owabrute">p0dalirius/owabrute: ★68</a>
 * <a href="https://github.com/p0dalirius/LFIDump">p0dalirius/LFIDump: ★67</a>
 * <a href="https://github.com/p0dalirius/ldapconsole">p0dalirius/ldapconsole: ★63</a>
