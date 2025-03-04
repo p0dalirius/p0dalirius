@@ -1,5 +1,5 @@
-<img src="https://my-badges.github.io/my-badges/self-star.png" alt="I&apos;ve starred 61 my own repositories." title="I&apos;ve starred 61 my own repositories." width="128">
-<strong>I&apos;ve starred 61 my own repositories.</strong>
+<img src="https://my-badges.github.io/my-badges/self-star.png" alt="I&apos;ve starred 115 my own repositories." title="I&apos;ve starred 115 my own repositories." width="128">
+<strong>I&apos;ve starred 115 my own repositories.</strong>
 <br><br>
 
 - <a href="https://github.com/p0dalirius/CodeIgniter-session-unsign">p0dalirius/CodeIgniter-session-unsign</a>
@@ -63,6 +63,60 @@
 - <a href="https://github.com/p0dalirius/winacl">p0dalirius/winacl</a>
 - <a href="https://github.com/p0dalirius/SIDTool">p0dalirius/SIDTool</a>
 - <a href="https://github.com/p0dalirius/webapp-wordlists">p0dalirius/webapp-wordlists</a>
+- <a href="https://github.com/p0dalirius/FindGPPPasswords">p0dalirius/FindGPPPasswords</a>
+- <a href="https://github.com/p0dalirius/p0dalirius">p0dalirius/p0dalirius</a>
+- <a href="https://github.com/p0dalirius/goopts">p0dalirius/goopts</a>
+- <a href="https://github.com/p0dalirius/keytab">p0dalirius/keytab</a>
+- <a href="https://github.com/p0dalirius/pwndocapi">p0dalirius/pwndocapi</a>
+- <a href="https://github.com/p0dalirius/DescribeNTSecurityDescriptor">p0dalirius/DescribeNTSecurityDescriptor</a>
+- <a href="https://github.com/p0dalirius/pdbdownload">p0dalirius/pdbdownload</a>
+- <a href="https://github.com/p0dalirius/RemoteMouse-3.008-Exploit">p0dalirius/RemoteMouse-3.008-Exploit</a>
+- <a href="https://github.com/p0dalirius/SymfonyDumpSource">p0dalirius/SymfonyDumpSource</a>
+- <a href="https://github.com/p0dalirius/Sprayer">p0dalirius/Sprayer</a>
+- <a href="https://github.com/p0dalirius/gitea-extract-users">p0dalirius/gitea-extract-users</a>
+- <a href="https://github.com/p0dalirius/RpcCoerceTemplateCpp">p0dalirius/RpcCoerceTemplateCpp</a>
+- <a href="https://github.com/p0dalirius/WifiListProbeRequests">p0dalirius/WifiListProbeRequests</a>
+- <a href="https://github.com/p0dalirius/pdsimage-downloader">p0dalirius/pdsimage-downloader</a>
+- <a href="https://github.com/p0dalirius/ListValidGSuiteEmails">p0dalirius/ListValidGSuiteEmails</a>
+- <a href="https://github.com/p0dalirius/Joomla-1.6-1.7-2.5-Privilege-Escalation-Vulnerability">p0dalirius/Joomla-1.6-1.7-2.5-Privilege-Escalation-Vulnerability</a>
+- <a href="https://github.com/p0dalirius/sectools">p0dalirius/sectools</a>
+- <a href="https://github.com/p0dalirius/sql-injections-with-raw-hashes">p0dalirius/sql-injections-with-raw-hashes</a>
+- <a href="https://github.com/p0dalirius/docker-build-go-project">p0dalirius/docker-build-go-project</a>
+- <a href="https://github.com/p0dalirius/AutoType">p0dalirius/AutoType</a>
+- <a href="https://github.com/p0dalirius/GhostSPN">p0dalirius/GhostSPN</a>
+- <a href="https://github.com/p0dalirius/mercurial-scm-extract">p0dalirius/mercurial-scm-extract</a>
+- <a href="https://github.com/p0dalirius/stackdumper">p0dalirius/stackdumper</a>
+- <a href="https://github.com/p0dalirius/CVE-2020-8813-Cacti-RCE-in-graph_realtime">p0dalirius/CVE-2020-8813-Cacti-RCE-in-graph_realtime</a>
+- <a href="https://github.com/p0dalirius/wav2mmv">p0dalirius/wav2mmv</a>
+- <a href="https://github.com/p0dalirius/FindAzureDomainTenant">p0dalirius/FindAzureDomainTenant</a>
+- <a href="https://github.com/p0dalirius/CVE-2022-36446-Webmin-Software-Package-Updates-RCE">p0dalirius/CVE-2022-36446-Webmin-Software-Package-Updates-RCE</a>
+- <a href="https://github.com/p0dalirius/CrackedNTDStoXLSX">p0dalirius/CrackedNTDStoXLSX</a>
+- <a href="https://github.com/p0dalirius/Argon2Cracker">p0dalirius/Argon2Cracker</a>
+- <a href="https://github.com/p0dalirius/a-simple-tcp-honeypot">p0dalirius/a-simple-tcp-honeypot</a>
+- <a href="https://github.com/p0dalirius/python-link-shortener">p0dalirius/python-link-shortener</a>
+- <a href="https://github.com/p0dalirius/windows-cryptographic-and-hashing-algorithms-explained">p0dalirius/windows-cryptographic-and-hashing-algorithms-explained</a>
+- <a href="https://github.com/p0dalirius/docker-sagemath">p0dalirius/docker-sagemath</a>
+- <a href="https://github.com/p0dalirius/SortWindowsISOs">p0dalirius/SortWindowsISOs</a>
+- <a href="https://github.com/p0dalirius/goLAPS">p0dalirius/goLAPS</a>
+- <a href="https://github.com/p0dalirius/CVE-2022-21907-http.sys">p0dalirius/CVE-2022-21907-http.sys</a>
+- <a href="https://github.com/p0dalirius/streamableDownloader">p0dalirius/streamableDownloader</a>
+- <a href="https://github.com/p0dalirius/CpuCoresTemperatureGraph">p0dalirius/CpuCoresTemperatureGraph</a>
+- <a href="https://github.com/p0dalirius/hexcat">p0dalirius/hexcat</a>
+- <a href="https://github.com/p0dalirius/GithubBackupAllRepos">p0dalirius/GithubBackupAllRepos</a>
+- <a href="https://github.com/p0dalirius/SortPEbyVersions">p0dalirius/SortPEbyVersions</a>
+- <a href="https://github.com/p0dalirius/Hashes-Harvester">p0dalirius/Hashes-Harvester</a>
+- <a href="https://github.com/p0dalirius/MSSQL-Analysis-Coerce">p0dalirius/MSSQL-Analysis-Coerce</a>
+- <a href="https://github.com/p0dalirius/ParseFortinetSerialNumber">p0dalirius/ParseFortinetSerialNumber</a>
+- <a href="https://github.com/p0dalirius/docker-volatility2">p0dalirius/docker-volatility2</a>
+- <a href="https://github.com/p0dalirius/CVE-2021-31800-Impacket-SMB-Server-Arbitrary-file-read-write">p0dalirius/CVE-2021-31800-Impacket-SMB-Server-Arbitrary-file-read-write</a>
+- <a href="https://github.com/p0dalirius/volatility2-profiles">p0dalirius/volatility2-profiles</a>
+- <a href="https://github.com/p0dalirius/Windows-Hardening">p0dalirius/Windows-Hardening</a>
+- <a href="https://github.com/p0dalirius/volatility_symbols">p0dalirius/volatility_symbols</a>
+- <a href="https://github.com/p0dalirius/crEAP">p0dalirius/crEAP</a>
+- <a href="https://github.com/p0dalirius/WindowsBuilds">p0dalirius/WindowsBuilds</a>
+- <a href="https://github.com/p0dalirius/volatility3-symbols">p0dalirius/volatility3-symbols</a>
+- <a href="https://github.com/p0dalirius/python_packages_paths">p0dalirius/python_packages_paths</a>
+- <a href="https://github.com/p0dalirius/securityscripts">p0dalirius/securityscripts</a>
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
