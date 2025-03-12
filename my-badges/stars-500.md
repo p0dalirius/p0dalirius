@@ -4,8 +4,8 @@
 
 Repos:
 
-* <a href="https://github.com/p0dalirius/LimeSurvey-webshell-plugin">p0dalirius/LimeSurvey-webshell-plugin: ★17</a>
 * <a href="https://github.com/p0dalirius/GhostSPN">p0dalirius/GhostSPN: ★17</a>
+* <a href="https://github.com/p0dalirius/pyDescribeNTSecurityDescriptor">p0dalirius/pyDescribeNTSecurityDescriptor: ★17</a>
 * <a href="https://github.com/p0dalirius/CVE-2016-10956-mail-masta">p0dalirius/CVE-2016-10956-mail-masta: ★16</a>
 * <a href="https://github.com/p0dalirius/ParseFortinetSerialNumber">p0dalirius/ParseFortinetSerialNumber: ★16</a>
 * <a href="https://github.com/p0dalirius/pwndocapi">p0dalirius/pwndocapi: ★16</a>
@@ -18,9 +18,9 @@ Repos:
 * <a href="https://github.com/p0dalirius/gitea-extract-users">p0dalirius/gitea-extract-users: ★14</a>
 * <a href="https://github.com/p0dalirius/FindAzureDomainTenant">p0dalirius/FindAzureDomainTenant: ★14</a>
 * <a href="https://github.com/p0dalirius/ListValidGSuiteEmails">p0dalirius/ListValidGSuiteEmails: ★14</a>
+* <a href="https://github.com/p0dalirius/goLAPS">p0dalirius/goLAPS: ★14</a>
 * <a href="https://github.com/p0dalirius/CVE-2018-16763-FuelCMS-1.4.1-RCE">p0dalirius/CVE-2018-16763-FuelCMS-1.4.1-RCE: ★13</a>
 * <a href="https://github.com/Ooggle/shellcoding-companion">Ooggle/shellcoding-companion: ★13</a>
-* <a href="https://github.com/p0dalirius/goLAPS">p0dalirius/goLAPS: ★13</a>
 * <a href="https://github.com/p0dalirius/CVE-2022-26159-Ametys-Autocompletion-XML">p0dalirius/CVE-2022-26159-Ametys-Autocompletion-XML: ★12</a>
 * <a href="https://github.com/p0dalirius/JoGet-webshell-plugin">p0dalirius/JoGet-webshell-plugin: ★12</a>
 * <a href="https://github.com/p0dalirius/CodeIgniter-session-unsign">p0dalirius/CodeIgniter-session-unsign: ★12</a>
@@ -30,7 +30,6 @@ Repos:
 * <a href="https://github.com/p0dalirius/hexcat">p0dalirius/hexcat: ★11</a>
 * <a href="https://github.com/p0dalirius/python_packages_paths">p0dalirius/python_packages_paths: ★10</a>
 * <a href="https://github.com/p0dalirius/mercurial-scm-extract">p0dalirius/mercurial-scm-extract: ★10</a>
-* <a href="https://github.com/p0dalirius/FindProcessesWithNamedPipes">p0dalirius/FindProcessesWithNamedPipes: ★10</a>
 * <a href="https://github.com/p0dalirius/streamableDownloader">p0dalirius/streamableDownloader: ★9</a>
 * <a href="https://github.com/p0dalirius/linux-kernels">p0dalirius/linux-kernels: ★9</a>
 * <a href="https://github.com/pwnwithlove/conf-steakoverlow-2022">pwnwithlove/conf-steakoverlow-2022: ★9</a>
