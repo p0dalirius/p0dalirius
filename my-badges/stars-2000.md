@@ -11,8 +11,8 @@ Repos:
 * <a href="https://github.com/p0dalirius/ldapconsole">p0dalirius/ldapconsole: ★64</a>
 * <a href="https://github.com/p0dalirius/pydsinternals">p0dalirius/pydsinternals: ★59</a>
 * <a href="https://github.com/ShutdownRepo/httpmethods">ShutdownRepo/httpmethods: ★56</a>
+* <a href="https://github.com/p0dalirius/Joomla-webshell-plugin">p0dalirius/Joomla-webshell-plugin: ★49</a>
 * <a href="https://github.com/p0dalirius/RemoteMouse-3.008-Exploit">p0dalirius/RemoteMouse-3.008-Exploit: ★48</a>
-* <a href="https://github.com/p0dalirius/Joomla-webshell-plugin">p0dalirius/Joomla-webshell-plugin: ★48</a>
 * <a href="https://github.com/p0dalirius/volatility2-profiles">p0dalirius/volatility2-profiles: ★47</a>
 * <a href="https://github.com/p0dalirius/CVE-2022-45771-Pwndoc-LFI-to-RCE">p0dalirius/CVE-2022-45771-Pwndoc-LFI-to-RCE: ★46</a>
 * <a href="https://github.com/p0dalirius/microsoft-rpc-fuzzing-tools">p0dalirius/microsoft-rpc-fuzzing-tools: ★45</a>
@@ -20,8 +20,8 @@ Repos:
 * <a href="https://github.com/Ruulian/CSPass">Ruulian/CSPass: ★40</a>
 * <a href="https://github.com/p0dalirius/Argon2Cracker">p0dalirius/Argon2Cracker: ★38</a>
 * <a href="https://github.com/p0dalirius/DescribeNTSecurityDescriptor">p0dalirius/DescribeNTSecurityDescriptor: ★37</a>
-* <a href="https://github.com/p0dalirius/FindProcessesWithNamedPipes">p0dalirius/FindProcessesWithNamedPipes: ★34</a>
-* <a href="https://github.com/p0dalirius/p0dalirius">p0dalirius/p0dalirius: ★33</a>
+* <a href="https://github.com/p0dalirius/FindProcessesWithNamedPipes">p0dalirius/FindProcessesWithNamedPipes: ★35</a>
+* <a href="https://github.com/p0dalirius/p0dalirius">p0dalirius/p0dalirius: ★34</a>
 * <a href="https://github.com/p0dalirius/sectools">p0dalirius/sectools: ★33</a>
 * <a href="https://github.com/p0dalirius/DomainUsersToXLSX">p0dalirius/DomainUsersToXLSX: ★32</a>
 * <a href="https://github.com/p0dalirius/WifiListProbeRequests">p0dalirius/WifiListProbeRequests: ★30</a>
