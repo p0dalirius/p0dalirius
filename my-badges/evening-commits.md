@@ -4,12 +4,12 @@
 
 Commits:
 
-- <a href="https://github.com/p0dalirius/FindProcessesWithNamedPipes/commit/3d62b4cf16fb866d1abeae451cae7f19fb4c4a3c">3d62b4c</a>
-- <a href="https://github.com/p0dalirius/keytab/commit/e60f69927db3b2a3c913cd1d51f9d8b298787394">e60f699</a>
-- <a href="https://github.com/p0dalirius/FindGPPPasswords/commit/f913b1acf7d0b3ddbbb89ea80b9ebf84c751a9e3">f913b1a</a>
-- <a href="https://github.com/p0dalirius/goopts/commit/f892d2fc82c31e519024351c20d720a01c8eedee">f892d2f</a>
-- <a href="https://github.com/p0dalirius/goopts/commit/6dcee6991aabc1a08f807a14a3f54e90a1d54dc2">6dcee69</a>
-- <a href="https://github.com/p0dalirius/winacl/commit/52a1a8d0c340ea5cf63d5628a05a9593a9dac200">52a1a8d</a>
+- <a href="https://github.com/p0dalirius/smbclient-ng/commit/ca8760e80e72572b52766dba8402fd6b85431191">ca8760e</a>
+- <a href="https://github.com/p0dalirius/smbclient-ng/commit/0c22468dce55ea73fa7b2ca5bac994aa07afe358">0c22468</a>
+- <a href="https://github.com/p0dalirius/smbclient-ng/commit/48929d069df6067115d0f8e10d58f85c598eddc9">48929d0</a>
+- <a href="https://github.com/p0dalirius/smbclient-ng/commit/1497d3c9aedda4c67d6b34e97ff593dedce3a2d4">1497d3c</a>
+- <a href="https://github.com/p0dalirius/smbclient-ng/commit/654697f600fb24e49fd3f3dd4430aec511f54aa9">654697f</a>
+- <a href="https://github.com/p0dalirius/smbclient-ng/commit/091a9198b082c988bfcd38e72637b1bd5eb88a0a">091a919</a>
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
