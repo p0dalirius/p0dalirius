@@ -10,14 +10,14 @@ Repos:
 * <a href="https://github.com/p0dalirius/pyLDAPWordlistHarvester">p0dalirius/pyLDAPWordlistHarvester: ★350</a>
 * <a href="https://github.com/p0dalirius/DumpSMBShare">p0dalirius/DumpSMBShare: ★221</a>
 * <a href="https://github.com/p0dalirius/GeoWordlists">p0dalirius/GeoWordlists: ★147</a>
-* <a href="https://github.com/p0dalirius/ctfd-parser">p0dalirius/ctfd-parser: ★142</a>
-* <a href="https://github.com/p0dalirius/FindGPPPasswords">p0dalirius/FindGPPPasswords: ★129</a>
+* <a href="https://github.com/p0dalirius/ctfd-parser">p0dalirius/ctfd-parser: ★143</a>
+* <a href="https://github.com/p0dalirius/FindGPPPasswords">p0dalirius/FindGPPPasswords: ★130</a>
 * <a href="https://github.com/p0dalirius/ldap2json">p0dalirius/ldap2json: ★128</a>
 * <a href="https://github.com/p0dalirius/MSSQL-Analysis-Coerce">p0dalirius/MSSQL-Analysis-Coerce: ★127</a>
 * <a href="https://github.com/p0dalirius/pyPDBdownload">p0dalirius/pyPDBdownload: ★119</a>
 * <a href="https://github.com/p0dalirius/CVE-2022-36446-Webmin-Software-Package-Updates-RCE">p0dalirius/CVE-2022-36446-Webmin-Software-Package-Updates-RCE: ★112</a>
 * <a href="https://github.com/p0dalirius/Tomcat-webshell-application">p0dalirius/Tomcat-webshell-application: ★102</a>
-* <a href="https://github.com/p0dalirius/pyLAPS">p0dalirius/pyLAPS: ★97</a>
+* <a href="https://github.com/p0dalirius/pyLAPS">p0dalirius/pyLAPS: ★98</a>
 * <a href="https://github.com/p0dalirius/RDWAtool">p0dalirius/RDWAtool: ★97</a>
 * <a href="https://github.com/p0dalirius/objectwalker">p0dalirius/objectwalker: ★90</a>
 * <a href="https://github.com/p0dalirius/Wordpress-webshell-plugin">p0dalirius/Wordpress-webshell-plugin: ★84</a>
