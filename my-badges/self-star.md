@@ -96,7 +96,7 @@
 - <a href="https://github.com/p0dalirius/python-link-shortener">p0dalirius/python-link-shortener</a>
 - <a href="https://github.com/p0dalirius/windows-cryptographic-and-hashing-algorithms-explained">p0dalirius/windows-cryptographic-and-hashing-algorithms-explained</a>
 - <a href="https://github.com/p0dalirius/docker-sagemath">p0dalirius/docker-sagemath</a>
-- <a href="https://github.com/p0dalirius/SortWindowsISOs">p0dalirius/SortWindowsISOs</a>
+- <a href="https://github.com/p0dalirius/pySortWindowsISOs">p0dalirius/pySortWindowsISOs</a>
 - <a href="https://github.com/p0dalirius/goLAPS">p0dalirius/goLAPS</a>
 - <a href="https://github.com/p0dalirius/CVE-2022-21907-http.sys">p0dalirius/CVE-2022-21907-http.sys</a>
 - <a href="https://github.com/p0dalirius/streamableDownloader">p0dalirius/streamableDownloader</a>
