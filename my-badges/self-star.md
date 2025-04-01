@@ -72,7 +72,7 @@
 - <a href="https://github.com/p0dalirius/pdbdownload">p0dalirius/pdbdownload</a>
 - <a href="https://github.com/p0dalirius/RemoteMouse-3.008-Exploit">p0dalirius/RemoteMouse-3.008-Exploit</a>
 - <a href="https://github.com/p0dalirius/SymfonyDumpSource">p0dalirius/SymfonyDumpSource</a>
-- <a href="https://github.com/p0dalirius/Sprayer">p0dalirius/Sprayer</a>
+- <a href="https://github.com/p0dalirius/pySprayer">p0dalirius/pySprayer</a>
 - <a href="https://github.com/p0dalirius/gitea-extract-users">p0dalirius/gitea-extract-users</a>
 - <a href="https://github.com/p0dalirius/RpcCoerceTemplateCpp">p0dalirius/RpcCoerceTemplateCpp</a>
 - <a href="https://github.com/p0dalirius/WifiListProbeRequests">p0dalirius/WifiListProbeRequests</a>

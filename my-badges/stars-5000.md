@@ -12,9 +12,9 @@ Repos:
 * <a href="https://github.com/p0dalirius/GeoWordlists">p0dalirius/GeoWordlists: ★147</a>
 * <a href="https://github.com/p0dalirius/ctfd-parser">p0dalirius/ctfd-parser: ★143</a>
 * <a href="https://github.com/p0dalirius/FindGPPPasswords">p0dalirius/FindGPPPasswords: ★131</a>
-* <a href="https://github.com/p0dalirius/ldap2json">p0dalirius/ldap2json: ★128</a>
+* <a href="https://github.com/p0dalirius/ldap2json">p0dalirius/ldap2json: ★129</a>
 * <a href="https://github.com/p0dalirius/MSSQL-Analysis-Coerce">p0dalirius/MSSQL-Analysis-Coerce: ★127</a>
-* <a href="https://github.com/p0dalirius/pyPDBdownload">p0dalirius/pyPDBdownload: ★120</a>
+* <a href="https://github.com/p0dalirius/pyPDBdownload">p0dalirius/pyPDBdownload: ★121</a>
 * <a href="https://github.com/p0dalirius/CVE-2022-36446-Webmin-Software-Package-Updates-RCE">p0dalirius/CVE-2022-36446-Webmin-Software-Package-Updates-RCE: ★112</a>
 * <a href="https://github.com/p0dalirius/Tomcat-webshell-application">p0dalirius/Tomcat-webshell-application: ★102</a>
 * <a href="https://github.com/p0dalirius/pyLAPS">p0dalirius/pyLAPS: ★101</a>
@@ -57,8 +57,8 @@ Repos:
 * <a href="https://github.com/p0dalirius/crawlersuseragents">p0dalirius/crawlersuseragents: ★21</a>
 * <a href="https://github.com/p0dalirius/RobotsValidator">p0dalirius/RobotsValidator: ★21</a>
 * <a href="https://github.com/p0dalirius/MSRPRN-Coerce">p0dalirius/MSRPRN-Coerce: ★21</a>
+* <a href="https://github.com/p0dalirius/pySprayer">p0dalirius/pySprayer: ★20</a>
 * <a href="https://github.com/p0dalirius/docker-volatility2">p0dalirius/docker-volatility2: ★20</a>
-* <a href="https://github.com/p0dalirius/Sprayer">p0dalirius/Sprayer: ★19</a>
 * <a href="https://github.com/p0dalirius/GithubBackupAllRepos">p0dalirius/GithubBackupAllRepos: ★18</a>
 * <a href="https://github.com/p0dalirius/TimeBasedLoginUserEnum">p0dalirius/TimeBasedLoginUserEnum: ★18</a>
 * <a href="https://github.com/p0dalirius/windows-cryptographic-and-hashing-algorithms-explained">p0dalirius/windows-cryptographic-and-hashing-algorithms-explained: ★18</a>

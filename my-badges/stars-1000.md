@@ -19,8 +19,8 @@ Repos:
 * <a href="https://github.com/p0dalirius/crawlersuseragents">p0dalirius/crawlersuseragents: ★21</a>
 * <a href="https://github.com/p0dalirius/RobotsValidator">p0dalirius/RobotsValidator: ★21</a>
 * <a href="https://github.com/p0dalirius/MSRPRN-Coerce">p0dalirius/MSRPRN-Coerce: ★21</a>
+* <a href="https://github.com/p0dalirius/pySprayer">p0dalirius/pySprayer: ★20</a>
 * <a href="https://github.com/p0dalirius/docker-volatility2">p0dalirius/docker-volatility2: ★20</a>
-* <a href="https://github.com/p0dalirius/Sprayer">p0dalirius/Sprayer: ★19</a>
 * <a href="https://github.com/p0dalirius/GithubBackupAllRepos">p0dalirius/GithubBackupAllRepos: ★18</a>
 * <a href="https://github.com/p0dalirius/TimeBasedLoginUserEnum">p0dalirius/TimeBasedLoginUserEnum: ★18</a>
 * <a href="https://github.com/p0dalirius/windows-cryptographic-and-hashing-algorithms-explained">p0dalirius/windows-cryptographic-and-hashing-algorithms-explained: ★18</a>
