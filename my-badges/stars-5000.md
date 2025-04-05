@@ -6,12 +6,12 @@ Repos:
 
 * <a href="https://github.com/p0dalirius/ipsourcebypass">p0dalirius/ipsourcebypass: ★383</a>
 * <a href="https://github.com/p0dalirius/ExtractBitlockerKeys">p0dalirius/ExtractBitlockerKeys: ★368</a>
-* <a href="https://github.com/ShutdownRepo/smartbrute">ShutdownRepo/smartbrute: ★362</a>
+* <a href="https://github.com/ShutdownRepo/smartbrute">ShutdownRepo/smartbrute: ★363</a>
 * <a href="https://github.com/p0dalirius/pyLDAPWordlistHarvester">p0dalirius/pyLDAPWordlistHarvester: ★351</a>
 * <a href="https://github.com/p0dalirius/DumpSMBShare">p0dalirius/DumpSMBShare: ★222</a>
 * <a href="https://github.com/p0dalirius/GeoWordlists">p0dalirius/GeoWordlists: ★147</a>
 * <a href="https://github.com/p0dalirius/ctfd-parser">p0dalirius/ctfd-parser: ★143</a>
-* <a href="https://github.com/p0dalirius/FindGPPPasswords">p0dalirius/FindGPPPasswords: ★135</a>
+* <a href="https://github.com/p0dalirius/FindGPPPasswords">p0dalirius/FindGPPPasswords: ★137</a>
 * <a href="https://github.com/p0dalirius/ldap2json">p0dalirius/ldap2json: ★129</a>
 * <a href="https://github.com/p0dalirius/MSSQL-Analysis-Coerce">p0dalirius/MSSQL-Analysis-Coerce: ★127</a>
 * <a href="https://github.com/p0dalirius/pyPDBdownload">p0dalirius/pyPDBdownload: ★121</a>
@@ -23,7 +23,7 @@ Repos:
 * <a href="https://github.com/p0dalirius/Wordpress-webshell-plugin">p0dalirius/Wordpress-webshell-plugin: ★84</a>
 * <a href="https://github.com/p0dalirius/CVE-2021-43008-AdminerRead">p0dalirius/CVE-2021-43008-AdminerRead: ★80</a>
 * <a href="https://github.com/p0dalirius/CVE-2022-21907-http.sys">p0dalirius/CVE-2022-21907-http.sys: ★80</a>
-* <a href="https://github.com/p0dalirius/LFIDump">p0dalirius/LFIDump: ★71</a>
+* <a href="https://github.com/p0dalirius/LFIDump">p0dalirius/LFIDump: ★72</a>
 * <a href="https://github.com/p0dalirius/owabrute">p0dalirius/owabrute: ★68</a>
 * <a href="https://github.com/p0dalirius/ldapconsole">p0dalirius/ldapconsole: ★64</a>
 * <a href="https://github.com/p0dalirius/pydsinternals">p0dalirius/pydsinternals: ★60</a>
