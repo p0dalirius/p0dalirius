@@ -1,5 +1,5 @@
-<img src="https://my-badges.github.io/my-badges/self-star.png" alt="I&apos;ve starred 116 my own repositories." title="I&apos;ve starred 116 my own repositories." width="128">
-<strong>I&apos;ve starred 116 my own repositories.</strong>
+<img src="https://my-badges.github.io/my-badges/self-star.png" alt="I&apos;ve starred 114 my own repositories." title="I&apos;ve starred 114 my own repositories." width="128">
+<strong>I&apos;ve starred 114 my own repositories.</strong>
 <br><br>
 
 - <a href="https://github.com/p0dalirius/CodeIgniter-session-unsign">p0dalirius/CodeIgniter-session-unsign</a>
@@ -60,7 +60,6 @@
 - <a href="https://github.com/p0dalirius/UsersWithPwdLastSetOlderThan">p0dalirius/UsersWithPwdLastSetOlderThan</a>
 - <a href="https://github.com/p0dalirius/pyDescribeSDDL">p0dalirius/pyDescribeSDDL</a>
 - <a href="https://github.com/p0dalirius/smbclient-ng">p0dalirius/smbclient-ng</a>
-- <a href="https://github.com/p0dalirius/winacl">p0dalirius/winacl</a>
 - <a href="https://github.com/p0dalirius/SIDTool">p0dalirius/SIDTool</a>
 - <a href="https://github.com/p0dalirius/webapp-wordlists">p0dalirius/webapp-wordlists</a>
 - <a href="https://github.com/p0dalirius/FindGPPPasswords">p0dalirius/FindGPPPasswords</a>
@@ -68,7 +67,6 @@
 - <a href="https://github.com/p0dalirius/goopts">p0dalirius/goopts</a>
 - <a href="https://github.com/p0dalirius/keytab">p0dalirius/keytab</a>
 - <a href="https://github.com/p0dalirius/pwndocapi">p0dalirius/pwndocapi</a>
-- <a href="https://github.com/p0dalirius/DescribeNTSecurityDescriptor">p0dalirius/DescribeNTSecurityDescriptor</a>
 - <a href="https://github.com/p0dalirius/pdbdownload">p0dalirius/pdbdownload</a>
 - <a href="https://github.com/p0dalirius/RemoteMouse-3.008-Exploit">p0dalirius/RemoteMouse-3.008-Exploit</a>
 - <a href="https://github.com/p0dalirius/SymfonyDumpSource">p0dalirius/SymfonyDumpSource</a>

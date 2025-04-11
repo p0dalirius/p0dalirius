@@ -4,11 +4,11 @@
 
 Repos:
 
+* <a href="https://github.com/p0dalirius/pwndocapi">p0dalirius/pwndocapi: ★17</a>
 * <a href="https://github.com/p0dalirius/GhostSPN">p0dalirius/GhostSPN: ★17</a>
 * <a href="https://github.com/p0dalirius/pyDescribeNTSecurityDescriptor">p0dalirius/pyDescribeNTSecurityDescriptor: ★17</a>
 * <a href="https://github.com/p0dalirius/CVE-2016-10956-mail-masta">p0dalirius/CVE-2016-10956-mail-masta: ★16</a>
 * <a href="https://github.com/p0dalirius/ParseFortinetSerialNumber">p0dalirius/ParseFortinetSerialNumber: ★16</a>
-* <a href="https://github.com/p0dalirius/pwndocapi">p0dalirius/pwndocapi: ★16</a>
 * <a href="https://github.com/p0dalirius/wav2mmv">p0dalirius/wav2mmv: ★16</a>
 * <a href="https://github.com/p0dalirius/hivetools">p0dalirius/hivetools: ★16</a>
 * <a href="https://github.com/p0dalirius/CVE-2022-30780-lighttpd-denial-of-service">p0dalirius/CVE-2022-30780-lighttpd-denial-of-service: ★16</a>

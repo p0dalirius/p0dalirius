@@ -4,21 +4,21 @@
 
 Repos:
 
-* <a href="https://github.com/p0dalirius/CVE-2021-43008-AdminerRead">p0dalirius/CVE-2021-43008-AdminerRead: ★81</a>
+* <a href="https://github.com/p0dalirius/CVE-2021-43008-AdminerRead">p0dalirius/CVE-2021-43008-AdminerRead: ★80</a>
 * <a href="https://github.com/p0dalirius/CVE-2022-21907-http.sys">p0dalirius/CVE-2022-21907-http.sys: ★80</a>
 * <a href="https://github.com/p0dalirius/LFIDump">p0dalirius/LFIDump: ★73</a>
 * <a href="https://github.com/p0dalirius/owabrute">p0dalirius/owabrute: ★68</a>
 * <a href="https://github.com/p0dalirius/ldapconsole">p0dalirius/ldapconsole: ★64</a>
 * <a href="https://github.com/p0dalirius/pydsinternals">p0dalirius/pydsinternals: ★61</a>
-* <a href="https://github.com/ShutdownRepo/httpmethods">ShutdownRepo/httpmethods: ★57</a>
+* <a href="https://github.com/ShutdownRepo/httpmethods">ShutdownRepo/httpmethods: ★58</a>
 * <a href="https://github.com/p0dalirius/Joomla-webshell-plugin">p0dalirius/Joomla-webshell-plugin: ★50</a>
 * <a href="https://github.com/p0dalirius/RemoteMouse-3.008-Exploit">p0dalirius/RemoteMouse-3.008-Exploit: ★49</a>
 * <a href="https://github.com/p0dalirius/volatility2-profiles">p0dalirius/volatility2-profiles: ★47</a>
 * <a href="https://github.com/p0dalirius/CVE-2022-45771-Pwndoc-LFI-to-RCE">p0dalirius/CVE-2022-45771-Pwndoc-LFI-to-RCE: ★46</a>
 * <a href="https://github.com/p0dalirius/microsoft-rpc-fuzzing-tools">p0dalirius/microsoft-rpc-fuzzing-tools: ★45</a>
 * <a href="https://github.com/p0dalirius/robotstester">p0dalirius/robotstester: ★42</a>
-* <a href="https://github.com/Ruulian/CSPass">Ruulian/CSPass: ★40</a>
-* <a href="https://github.com/p0dalirius/DescribeNTSecurityDescriptor">p0dalirius/DescribeNTSecurityDescriptor: ★39</a>
+* <a href="https://github.com/Ruulian/CSPass">Ruulian/CSPass: ★41</a>
+* <a href="https://github.com/TheManticoreProject/DescribeNTSecurityDescriptor">TheManticoreProject/DescribeNTSecurityDescriptor: ★39</a>
 * <a href="https://github.com/p0dalirius/Argon2Cracker">p0dalirius/Argon2Cracker: ★38</a>
 * <a href="https://github.com/p0dalirius/FindProcessesWithNamedPipes">p0dalirius/FindProcessesWithNamedPipes: ★37</a>
 * <a href="https://github.com/p0dalirius/sectools">p0dalirius/sectools: ★35</a>
@@ -26,7 +26,7 @@ Repos:
 * <a href="https://github.com/p0dalirius/DomainUsersToXLSX">p0dalirius/DomainUsersToXLSX: ★32</a>
 * <a href="https://github.com/p0dalirius/WifiListProbeRequests">p0dalirius/WifiListProbeRequests: ★31</a>
 * <a href="https://github.com/p0dalirius/Moodle-webshell-plugin">p0dalirius/Moodle-webshell-plugin: ★31</a>
-* <a href="https://github.com/p0dalirius/winacl">p0dalirius/winacl: ★30</a>
+* <a href="https://github.com/TheManticoreProject/winacl">TheManticoreProject/winacl: ★30</a>
 * <a href="https://github.com/p0dalirius/crEAP">p0dalirius/crEAP: ★29</a>
 * <a href="https://github.com/p0dalirius/GetFortinetSerialNumber">p0dalirius/GetFortinetSerialNumber: ★29</a>
 * <a href="https://github.com/p0dalirius/TargetAllDomainObjects">p0dalirius/TargetAllDomainObjects: ★28</a>
@@ -47,11 +47,11 @@ Repos:
 * <a href="https://github.com/p0dalirius/LimeSurvey-webshell-plugin">p0dalirius/LimeSurvey-webshell-plugin: ★18</a>
 * <a href="https://github.com/p0dalirius/windows-cryptographic-and-hashing-algorithms-explained">p0dalirius/windows-cryptographic-and-hashing-algorithms-explained: ★18</a>
 * <a href="https://github.com/p0dalirius/win32errorcodes">p0dalirius/win32errorcodes: ★18</a>
+* <a href="https://github.com/p0dalirius/pwndocapi">p0dalirius/pwndocapi: ★17</a>
 * <a href="https://github.com/p0dalirius/GhostSPN">p0dalirius/GhostSPN: ★17</a>
 * <a href="https://github.com/p0dalirius/pyDescribeNTSecurityDescriptor">p0dalirius/pyDescribeNTSecurityDescriptor: ★17</a>
 * <a href="https://github.com/p0dalirius/CVE-2016-10956-mail-masta">p0dalirius/CVE-2016-10956-mail-masta: ★16</a>
 * <a href="https://github.com/p0dalirius/ParseFortinetSerialNumber">p0dalirius/ParseFortinetSerialNumber: ★16</a>
-* <a href="https://github.com/p0dalirius/pwndocapi">p0dalirius/pwndocapi: ★16</a>
 * <a href="https://github.com/p0dalirius/wav2mmv">p0dalirius/wav2mmv: ★16</a>
 * <a href="https://github.com/p0dalirius/hivetools">p0dalirius/hivetools: ★16</a>
 * <a href="https://github.com/p0dalirius/CVE-2022-30780-lighttpd-denial-of-service">p0dalirius/CVE-2022-30780-lighttpd-denial-of-service: ★16</a>
