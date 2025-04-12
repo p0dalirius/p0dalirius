@@ -64,7 +64,6 @@
 - <a href="https://github.com/p0dalirius/webapp-wordlists">p0dalirius/webapp-wordlists</a>
 - <a href="https://github.com/p0dalirius/FindGPPPasswords">p0dalirius/FindGPPPasswords</a>
 - <a href="https://github.com/p0dalirius/p0dalirius">p0dalirius/p0dalirius</a>
-- <a href="https://github.com/p0dalirius/goopts">p0dalirius/goopts</a>
 - <a href="https://github.com/p0dalirius/keytab">p0dalirius/keytab</a>
 - <a href="https://github.com/p0dalirius/pwndocapi">p0dalirius/pwndocapi</a>
 - <a href="https://github.com/p0dalirius/pdbdownload">p0dalirius/pdbdownload</a>
@@ -84,6 +83,7 @@
 - <a href="https://github.com/p0dalirius/GhostSPN">p0dalirius/GhostSPN</a>
 - <a href="https://github.com/p0dalirius/mercurial-scm-extract">p0dalirius/mercurial-scm-extract</a>
 - <a href="https://github.com/p0dalirius/stackdumper">p0dalirius/stackdumper</a>
+- <a href="https://github.com/p0dalirius/FindUnusualSessions">p0dalirius/FindUnusualSessions</a>
 - <a href="https://github.com/p0dalirius/CVE-2020-8813-Cacti-RCE-in-graph_realtime">p0dalirius/CVE-2020-8813-Cacti-RCE-in-graph_realtime</a>
 - <a href="https://github.com/p0dalirius/wav2mmv">p0dalirius/wav2mmv</a>
 - <a href="https://github.com/p0dalirius/FindAzureDomainTenant">p0dalirius/FindAzureDomainTenant</a>
