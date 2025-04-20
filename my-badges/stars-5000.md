@@ -24,8 +24,8 @@ Repos:
 * <a href="https://github.com/p0dalirius/CVE-2021-43008-AdminerRead">p0dalirius/CVE-2021-43008-AdminerRead: ★80</a>
 * <a href="https://github.com/p0dalirius/CVE-2022-21907-http.sys">p0dalirius/CVE-2022-21907-http.sys: ★80</a>
 * <a href="https://github.com/p0dalirius/LFIDump">p0dalirius/LFIDump: ★73</a>
+* <a href="https://github.com/p0dalirius/FindUnusualSessions">p0dalirius/FindUnusualSessions: ★70</a>
 * <a href="https://github.com/p0dalirius/owabrute">p0dalirius/owabrute: ★68</a>
-* <a href="https://github.com/p0dalirius/FindUnusualSessions">p0dalirius/FindUnusualSessions: ★67</a>
 * <a href="https://github.com/p0dalirius/ldapconsole">p0dalirius/ldapconsole: ★63</a>
 * <a href="https://github.com/p0dalirius/pydsinternals">p0dalirius/pydsinternals: ★60</a>
 * <a href="https://github.com/ShutdownRepo/httpmethods">ShutdownRepo/httpmethods: ★58</a>
