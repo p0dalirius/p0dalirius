@@ -16,14 +16,14 @@ Repos:
 * <a href="https://github.com/p0dalirius/MSSQL-Analysis-Coerce">p0dalirius/MSSQL-Analysis-Coerce: ★129</a>
 * <a href="https://github.com/p0dalirius/pyPDBdownload">p0dalirius/pyPDBdownload: ★121</a>
 * <a href="https://github.com/p0dalirius/CVE-2022-36446-Webmin-Software-Package-Updates-RCE">p0dalirius/CVE-2022-36446-Webmin-Software-Package-Updates-RCE: ★112</a>
-* <a href="https://github.com/p0dalirius/pyLAPS">p0dalirius/pyLAPS: ★105</a>
+* <a href="https://github.com/p0dalirius/pyLAPS">p0dalirius/pyLAPS: ★106</a>
 * <a href="https://github.com/p0dalirius/Tomcat-webshell-application">p0dalirius/Tomcat-webshell-application: ★103</a>
 * <a href="https://github.com/p0dalirius/RDWAtool">p0dalirius/RDWAtool: ★98</a>
 * <a href="https://github.com/p0dalirius/objectwalker">p0dalirius/objectwalker: ★91</a>
 * <a href="https://github.com/p0dalirius/Wordpress-webshell-plugin">p0dalirius/Wordpress-webshell-plugin: ★85</a>
 * <a href="https://github.com/p0dalirius/CVE-2021-43008-AdminerRead">p0dalirius/CVE-2021-43008-AdminerRead: ★80</a>
 * <a href="https://github.com/p0dalirius/CVE-2022-21907-http.sys">p0dalirius/CVE-2022-21907-http.sys: ★80</a>
-* <a href="https://github.com/p0dalirius/FindUnusualSessions">p0dalirius/FindUnusualSessions: ★79</a>
+* <a href="https://github.com/p0dalirius/FindUnusualSessions">p0dalirius/FindUnusualSessions: ★80</a>
 * <a href="https://github.com/p0dalirius/LFIDump">p0dalirius/LFIDump: ★73</a>
 * <a href="https://github.com/p0dalirius/owabrute">p0dalirius/owabrute: ★68</a>
 * <a href="https://github.com/p0dalirius/ldapconsole">p0dalirius/ldapconsole: ★63</a>
