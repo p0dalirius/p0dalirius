@@ -1,5 +1,5 @@
-<img src="https://my-badges.github.io/my-badges/self-star.png" alt="I&apos;ve starred 112 my own repositories." title="I&apos;ve starred 112 my own repositories." width="128">
-<strong>I&apos;ve starred 112 my own repositories.</strong>
+<img src="https://my-badges.github.io/my-badges/self-star.png" alt="I&apos;ve starred 109 my own repositories." title="I&apos;ve starred 109 my own repositories." width="128">
+<strong>I&apos;ve starred 109 my own repositories.</strong>
 <br><br>
 
 - <a href="https://github.com/p0dalirius/CodeIgniter-session-unsign">p0dalirius/CodeIgniter-session-unsign</a>
@@ -62,7 +62,6 @@
 - <a href="https://github.com/p0dalirius/smbclient-ng">p0dalirius/smbclient-ng</a>
 - <a href="https://github.com/p0dalirius/webapp-wordlists">p0dalirius/webapp-wordlists</a>
 - <a href="https://github.com/p0dalirius/p0dalirius">p0dalirius/p0dalirius</a>
-- <a href="https://github.com/p0dalirius/keytab">p0dalirius/keytab</a>
 - <a href="https://github.com/p0dalirius/pwndocapi">p0dalirius/pwndocapi</a>
 - <a href="https://github.com/p0dalirius/pdbdownload">p0dalirius/pdbdownload</a>
 - <a href="https://github.com/p0dalirius/RemoteMouse-3.008-Exploit">p0dalirius/RemoteMouse-3.008-Exploit</a>
@@ -93,7 +92,6 @@
 - <a href="https://github.com/p0dalirius/windows-cryptographic-and-hashing-algorithms-explained">p0dalirius/windows-cryptographic-and-hashing-algorithms-explained</a>
 - <a href="https://github.com/p0dalirius/docker-sagemath">p0dalirius/docker-sagemath</a>
 - <a href="https://github.com/p0dalirius/pySortWindowsISOs">p0dalirius/pySortWindowsISOs</a>
-- <a href="https://github.com/p0dalirius/goLAPS">p0dalirius/goLAPS</a>
 - <a href="https://github.com/p0dalirius/CVE-2022-21907-http.sys">p0dalirius/CVE-2022-21907-http.sys</a>
 - <a href="https://github.com/p0dalirius/streamableDownloader">p0dalirius/streamableDownloader</a>
 - <a href="https://github.com/p0dalirius/CpuCoresTemperatureGraph">p0dalirius/CpuCoresTemperatureGraph</a>
@@ -107,7 +105,6 @@
 - <a href="https://github.com/p0dalirius/CVE-2021-31800-Impacket-SMB-Server-Arbitrary-file-read-write">p0dalirius/CVE-2021-31800-Impacket-SMB-Server-Arbitrary-file-read-write</a>
 - <a href="https://github.com/p0dalirius/volatility2-profiles">p0dalirius/volatility2-profiles</a>
 - <a href="https://github.com/p0dalirius/Windows-Hardening">p0dalirius/Windows-Hardening</a>
-- <a href="https://github.com/p0dalirius/volatility_symbols">p0dalirius/volatility_symbols</a>
 - <a href="https://github.com/p0dalirius/crEAP">p0dalirius/crEAP</a>
 - <a href="https://github.com/p0dalirius/WindowsBuilds">p0dalirius/WindowsBuilds</a>
 - <a href="https://github.com/p0dalirius/volatility3-symbols">p0dalirius/volatility3-symbols</a>
