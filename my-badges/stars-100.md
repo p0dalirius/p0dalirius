@@ -10,9 +10,9 @@ Repos:
 * <a href="https://github.com/p0dalirius/CVE-2021-31800-Impacket-SMB-Server-Arbitrary-file-read-write">p0dalirius/CVE-2021-31800-Impacket-SMB-Server-Arbitrary-file-read-write: ★8</a>
 * <a href="https://github.com/p0dalirius/Windows-Hardening">p0dalirius/Windows-Hardening: ★7</a>
 * <a href="https://github.com/p0dalirius/SweetRice-webshell-plugin">p0dalirius/SweetRice-webshell-plugin: ★7</a>
+* <a href="https://github.com/TheManticoreProject/SIDTool">TheManticoreProject/SIDTool: ★7</a>
 * <a href="https://github.com/p0dalirius/CVE-2020-8813-Cacti-RCE-in-graph_realtime">p0dalirius/CVE-2020-8813-Cacti-RCE-in-graph_realtime: ★6</a>
 * <a href="https://github.com/p0dalirius/lib-parseargs">p0dalirius/lib-parseargs: ★6</a>
-* <a href="https://github.com/TheManticoreProject/SIDTool">TheManticoreProject/SIDTool: ★6</a>
 * <a href="https://github.com/p0dalirius/pdsimage-downloader">p0dalirius/pdsimage-downloader: ★5</a>
 * <a href="https://github.com/p0dalirius/stackdumper">p0dalirius/stackdumper: ★5</a>
 * <a href="https://github.com/p0dalirius/CpuCoresTemperatureGraph">p0dalirius/CpuCoresTemperatureGraph: ★5</a>
