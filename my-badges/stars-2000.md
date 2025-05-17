@@ -9,7 +9,7 @@ Repos:
 * <a href="https://github.com/p0dalirius/owabrute">p0dalirius/owabrute: ★69</a>
 * <a href="https://github.com/p0dalirius/ldapconsole">p0dalirius/ldapconsole: ★64</a>
 * <a href="https://github.com/p0dalirius/pydsinternals">p0dalirius/pydsinternals: ★61</a>
-* <a href="https://github.com/ShutdownRepo/httpmethods">ShutdownRepo/httpmethods: ★58</a>
+* <a href="https://github.com/ShutdownRepo/httpmethods">ShutdownRepo/httpmethods: ★59</a>
 * <a href="https://github.com/p0dalirius/Joomla-webshell-plugin">p0dalirius/Joomla-webshell-plugin: ★52</a>
 * <a href="https://github.com/p0dalirius/RemoteMouse-3.008-Exploit">p0dalirius/RemoteMouse-3.008-Exploit: ★49</a>
 * <a href="https://github.com/p0dalirius/volatility2-profiles">p0dalirius/volatility2-profiles: ★47</a>
