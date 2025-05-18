@@ -24,7 +24,7 @@ Repos:
 * <a href="https://github.com/p0dalirius/Wordpress-webshell-plugin">p0dalirius/Wordpress-webshell-plugin: ★87</a>
 * <a href="https://github.com/p0dalirius/CVE-2021-43008-AdminerRead">p0dalirius/CVE-2021-43008-AdminerRead: ★84</a>
 * <a href="https://github.com/p0dalirius/CVE-2022-21907-http.sys">p0dalirius/CVE-2022-21907-http.sys: ★80</a>
-* <a href="https://github.com/p0dalirius/LFIDump">p0dalirius/LFIDump: ★73</a>
+* <a href="https://github.com/p0dalirius/LFIDump">p0dalirius/LFIDump: ★74</a>
 * <a href="https://github.com/p0dalirius/owabrute">p0dalirius/owabrute: ★69</a>
 * <a href="https://github.com/p0dalirius/ldapconsole">p0dalirius/ldapconsole: ★64</a>
 * <a href="https://github.com/p0dalirius/pydsinternals">p0dalirius/pydsinternals: ★61</a>
