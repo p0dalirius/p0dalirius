@@ -4,7 +4,7 @@
 
 Pull requests:
 
-- <a href="https://github.com/p0dalirius/Coercer/pull/58">#58</a>: Added check for WSL, fixes #47
+- <a href="https://github.com/TheManticoreProject/winacl/pull/20">#20</a>: [enhancement] Created functions for access control mask
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
