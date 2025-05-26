@@ -5,6 +5,7 @@
 Pull requests:
 
 - <a href="https://github.com/TheManticoreProject/winacl/pull/20">#20</a>: [enhancement] Created functions for access control mask
+- <a href="https://github.com/TheManticoreProject/winacl/pull/27">#27</a>: [enhancement] Renamed serialized data to marshalled data
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
