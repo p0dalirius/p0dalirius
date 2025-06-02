@@ -4,12 +4,12 @@
 
 Commits:
 
+- <a href="https://github.com/TheManticoreProject/winacl/commit/0457a24643082e902b837b742428dc9bd68cc541">0457a24</a>
+- <a href="https://github.com/TheManticoreProject/winacl/commit/3fb1ea4323f9a35c3dd0a7bff5bb63aad4095508">3fb1ea4</a>
+- <a href="https://github.com/TheManticoreProject/winacl/commit/97a9fc6dc3762066a2253ce8767406b7c0e55943">97a9fc6</a>
+- <a href="https://github.com/TheManticoreProject/winacl/commit/862437752782560c17d464904885f01c263d6015">8624377</a>
 - <a href="https://github.com/TheManticoreProject/winacl/commit/8a01e2cc1838a3e802da6dc9cf90f2329725bd28">8a01e2c</a>
 - <a href="https://github.com/TheManticoreProject/winacl/commit/0bd4216da5e2e39b365b2b6fde6b20e45839d85a">0bd4216</a>
-- <a href="https://github.com/TheManticoreProject/winacl/commit/31f7e2f87d85532e55431ee4be34a46a0c9e41af">31f7e2f</a>
-- <a href="https://github.com/TheManticoreProject/winacl/commit/baffa277b7c53945a7866ba29574d808ca50ae96">baffa27</a>
-- <a href="https://github.com/TheManticoreProject/winacl/commit/5d6918b8184d0e06bd0e88aa1f924db80ff8b770">5d6918b</a>
-- <a href="https://github.com/TheManticoreProject/winacl/commit/7db8cd317388d069fdb6917729651ee3786c89c9">7db8cd3</a>
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
