@@ -4,7 +4,7 @@
 
 Repos:
 
-* <a href="https://github.com/p0dalirius/Moodle-webshell-plugin">p0dalirius/Moodle-webshell-plugin: ★31</a>
+* <a href="https://github.com/p0dalirius/DomainUsersToXLSX">p0dalirius/DomainUsersToXLSX: ★31</a>
 * <a href="https://github.com/p0dalirius/GetFortinetSerialNumber">p0dalirius/GetFortinetSerialNumber: ★30</a>
 * <a href="https://github.com/p0dalirius/crEAP">p0dalirius/crEAP: ★29</a>
 * <a href="https://github.com/p0dalirius/TargetAllDomainObjects">p0dalirius/TargetAllDomainObjects: ★27</a>
@@ -68,8 +68,8 @@ Repos:
 * <a href="https://github.com/p0dalirius/pdsimage-downloader">p0dalirius/pdsimage-downloader: ★5</a>
 * <a href="https://github.com/p0dalirius/stackdumper">p0dalirius/stackdumper: ★5</a>
 * <a href="https://github.com/p0dalirius/CpuCoresTemperatureGraph">p0dalirius/CpuCoresTemperatureGraph: ★5</a>
+* <a href="https://github.com/TheManticoreProject/keytab">TheManticoreProject/keytab: ★5</a>
 * <a href="https://github.com/p0dalirius/SortPEbyVersions">p0dalirius/SortPEbyVersions: ★4</a>
-* <a href="https://github.com/TheManticoreProject/keytab">TheManticoreProject/keytab: ★4</a>
 * <a href="https://github.com/p0dalirius/docker-sagemath">p0dalirius/docker-sagemath: ★3</a>
 * <a href="https://github.com/p0dalirius/AutoType">p0dalirius/AutoType: ★3</a>
 * <a href="https://github.com/p0dalirius/securityscripts">p0dalirius/securityscripts: ★2</a>
