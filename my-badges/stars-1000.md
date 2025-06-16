@@ -47,9 +47,9 @@ Repos:
 * <a href="https://github.com/p0dalirius/CVE-2022-26159-Ametys-Autocompletion-XML">p0dalirius/CVE-2022-26159-Ametys-Autocompletion-XML: ★12</a>
 * <a href="https://github.com/p0dalirius/JoGet-webshell-plugin">p0dalirius/JoGet-webshell-plugin: ★12</a>
 * <a href="https://github.com/p0dalirius/pyDescribeSDDL">p0dalirius/pyDescribeSDDL: ★12</a>
+* <a href="https://github.com/p0dalirius/pdbdownload">p0dalirius/pdbdownload: ★12</a>
 * <a href="https://github.com/p0dalirius/factorizator">p0dalirius/factorizator: ★11</a>
 * <a href="https://github.com/p0dalirius/SymfonyDumpSource">p0dalirius/SymfonyDumpSource: ★11</a>
-* <a href="https://github.com/p0dalirius/pdbdownload">p0dalirius/pdbdownload: ★11</a>
 * <a href="https://github.com/p0dalirius/python_packages_paths">p0dalirius/python_packages_paths: ★10</a>
 * <a href="https://github.com/p0dalirius/linux-kernels">p0dalirius/linux-kernels: ★10</a>
 * <a href="https://github.com/p0dalirius/hexcat">p0dalirius/hexcat: ★10</a>
