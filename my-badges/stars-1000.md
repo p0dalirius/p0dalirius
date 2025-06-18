@@ -4,8 +4,8 @@
 
 Repos:
 
-* <a href="https://github.com/p0dalirius/DomainUsersToXLSX">p0dalirius/DomainUsersToXLSX: ★31</a>
 * <a href="https://github.com/p0dalirius/GetFortinetSerialNumber">p0dalirius/GetFortinetSerialNumber: ★30</a>
+* <a href="https://github.com/p0dalirius/DomainUsersToXLSX">p0dalirius/DomainUsersToXLSX: ★30</a>
 * <a href="https://github.com/p0dalirius/crEAP">p0dalirius/crEAP: ★29</a>
 * <a href="https://github.com/p0dalirius/TargetAllDomainObjects">p0dalirius/TargetAllDomainObjects: ★27</a>
 * <a href="https://github.com/p0dalirius/volatility3-symbols">p0dalirius/volatility3-symbols: ★26</a>
