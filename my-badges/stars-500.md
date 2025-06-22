@@ -37,8 +37,8 @@ Repos:
 * <a href="https://github.com/p0dalirius/CrackedNTDStoXLSX">p0dalirius/CrackedNTDStoXLSX: ★9</a>
 * <a href="https://github.com/p0dalirius/UsersWithPwdLastSetOlderThan">p0dalirius/UsersWithPwdLastSetOlderThan: ★9</a>
 * <a href="https://github.com/TheManticoreProject/goopts">TheManticoreProject/goopts: ★9</a>
+* <a href="https://github.com/TheManticoreProject/SIDTool">TheManticoreProject/SIDTool: ★9</a>
 * <a href="https://github.com/p0dalirius/CVE-2021-31800-Impacket-SMB-Server-Arbitrary-file-read-write">p0dalirius/CVE-2021-31800-Impacket-SMB-Server-Arbitrary-file-read-write: ★8</a>
-* <a href="https://github.com/TheManticoreProject/SIDTool">TheManticoreProject/SIDTool: ★8</a>
 * <a href="https://github.com/p0dalirius/Windows-Hardening">p0dalirius/Windows-Hardening: ★7</a>
 * <a href="https://github.com/p0dalirius/SweetRice-webshell-plugin">p0dalirius/SweetRice-webshell-plugin: ★7</a>
 * <a href="https://github.com/TheManticoreProject/keytab">TheManticoreProject/keytab: ★7</a>
