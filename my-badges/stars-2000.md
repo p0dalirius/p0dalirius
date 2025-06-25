@@ -4,13 +4,13 @@
 
 Repos:
 
-* <a href="https://github.com/p0dalirius/LFIDump">p0dalirius/LFIDump: ★74</a>
+* <a href="https://github.com/p0dalirius/LFIDump">p0dalirius/LFIDump: ★75</a>
 * <a href="https://github.com/p0dalirius/owabrute">p0dalirius/owabrute: ★70</a>
 * <a href="https://github.com/p0dalirius/pydsinternals">p0dalirius/pydsinternals: ★64</a>
 * <a href="https://github.com/p0dalirius/ldapconsole">p0dalirius/ldapconsole: ★64</a>
 * <a href="https://github.com/ShutdownRepo/httpmethods">ShutdownRepo/httpmethods: ★59</a>
+* <a href="https://github.com/p0dalirius/Joomla-webshell-plugin">p0dalirius/Joomla-webshell-plugin: ★53</a>
 * <a href="https://github.com/p0dalirius/RemoteMouse-3.008-Exploit">p0dalirius/RemoteMouse-3.008-Exploit: ★52</a>
-* <a href="https://github.com/p0dalirius/Joomla-webshell-plugin">p0dalirius/Joomla-webshell-plugin: ★52</a>
 * <a href="https://github.com/p0dalirius/microsoft-rpc-fuzzing-tools">p0dalirius/microsoft-rpc-fuzzing-tools: ★50</a>
 * <a href="https://github.com/p0dalirius/volatility2-profiles">p0dalirius/volatility2-profiles: ★48</a>
 * <a href="https://github.com/p0dalirius/CVE-2022-45771-Pwndoc-LFI-to-RCE">p0dalirius/CVE-2022-45771-Pwndoc-LFI-to-RCE: ★47</a>
@@ -21,8 +21,8 @@ Repos:
 * <a href="https://github.com/p0dalirius/FindProcessesWithNamedPipes">p0dalirius/FindProcessesWithNamedPipes: ★38</a>
 * <a href="https://github.com/p0dalirius/sectools">p0dalirius/sectools: ★36</a>
 * <a href="https://github.com/TheManticoreProject/winacl">TheManticoreProject/winacl: ★36</a>
+* <a href="https://github.com/p0dalirius/Moodle-webshell-plugin">p0dalirius/Moodle-webshell-plugin: ★35</a>
 * <a href="https://github.com/p0dalirius/p0dalirius">p0dalirius/p0dalirius: ★34</a>
-* <a href="https://github.com/p0dalirius/Moodle-webshell-plugin">p0dalirius/Moodle-webshell-plugin: ★34</a>
 * <a href="https://github.com/p0dalirius/WifiListProbeRequests">p0dalirius/WifiListProbeRequests: ★33</a>
 * <a href="https://github.com/p0dalirius/DomainUsersToXLSX">p0dalirius/DomainUsersToXLSX: ★32</a>
 * <a href="https://github.com/p0dalirius/GetFortinetSerialNumber">p0dalirius/GetFortinetSerialNumber: ★31</a>
@@ -41,14 +41,14 @@ Repos:
 * <a href="https://github.com/p0dalirius/RobotsValidator">p0dalirius/RobotsValidator: ★22</a>
 * <a href="https://github.com/p0dalirius/pyDescribeNTSecurityDescriptor">p0dalirius/pyDescribeNTSecurityDescriptor: ★22</a>
 * <a href="https://github.com/p0dalirius/hivetools">p0dalirius/hivetools: ★21</a>
+* <a href="https://github.com/p0dalirius/LimeSurvey-webshell-plugin">p0dalirius/LimeSurvey-webshell-plugin: ★21</a>
 * <a href="https://github.com/p0dalirius/pySprayer">p0dalirius/pySprayer: ★21</a>
 * <a href="https://github.com/p0dalirius/win32errorcodes">p0dalirius/win32errorcodes: ★21</a>
+* <a href="https://github.com/p0dalirius/GhostSPN">p0dalirius/GhostSPN: ★21</a>
 * <a href="https://github.com/p0dalirius/TimeBasedLoginUserEnum">p0dalirius/TimeBasedLoginUserEnum: ★20</a>
-* <a href="https://github.com/p0dalirius/LimeSurvey-webshell-plugin">p0dalirius/LimeSurvey-webshell-plugin: ★20</a>
-* <a href="https://github.com/p0dalirius/GhostSPN">p0dalirius/GhostSPN: ★20</a>
+* <a href="https://github.com/p0dalirius/windows-cryptographic-and-hashing-algorithms-explained">p0dalirius/windows-cryptographic-and-hashing-algorithms-explained: ★20</a>
 * <a href="https://github.com/p0dalirius/GithubBackupAllRepos">p0dalirius/GithubBackupAllRepos: ★19</a>
 * <a href="https://github.com/p0dalirius/pwndocapi">p0dalirius/pwndocapi: ★19</a>
-* <a href="https://github.com/p0dalirius/windows-cryptographic-and-hashing-algorithms-explained">p0dalirius/windows-cryptographic-and-hashing-algorithms-explained: ★19</a>
 * <a href="https://github.com/p0dalirius/ParseFortinetSerialNumber">p0dalirius/ParseFortinetSerialNumber: ★18</a>
 * <a href="https://github.com/p0dalirius/wav2mmv">p0dalirius/wav2mmv: ★18</a>
 * <a href="https://github.com/p0dalirius/CVE-2022-30780-lighttpd-denial-of-service">p0dalirius/CVE-2022-30780-lighttpd-denial-of-service: ★18</a>
