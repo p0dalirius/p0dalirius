@@ -8,7 +8,7 @@ Repos:
 * <a href="https://github.com/p0dalirius/owabrute">p0dalirius/owabrute: ★70</a>
 * <a href="https://github.com/p0dalirius/pydsinternals">p0dalirius/pydsinternals: ★64</a>
 * <a href="https://github.com/p0dalirius/ldapconsole">p0dalirius/ldapconsole: ★64</a>
-* <a href="https://github.com/ShutdownRepo/httpmethods">ShutdownRepo/httpmethods: ★59</a>
+* <a href="https://github.com/ShutdownRepo/httpmethods">ShutdownRepo/httpmethods: ★60</a>
 * <a href="https://github.com/p0dalirius/Joomla-webshell-plugin">p0dalirius/Joomla-webshell-plugin: ★53</a>
 * <a href="https://github.com/p0dalirius/RemoteMouse-3.008-Exploit">p0dalirius/RemoteMouse-3.008-Exploit: ★52</a>
 * <a href="https://github.com/p0dalirius/microsoft-rpc-fuzzing-tools">p0dalirius/microsoft-rpc-fuzzing-tools: ★50</a>
