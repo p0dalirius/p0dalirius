@@ -4,8 +4,8 @@
 
 Commits:
 
-- <a href="https://github.com/TheManticoreProject/goopts/commit/ef3ecaf9dc689ebb674fa30c73c42042214f96ae">ef3ecaf</a>: Fixed double newline in usage when no arguments exists in default group and arguments are in other groups, fixes #14
-- <a href="https://github.com/TheManticoreProject/goopts/commit/093bcfce98ab6fb7abdb0d63972438327c003c80">093bcfc</a>: Fixed no alphabetical order in help message printing subparser names, fixes #13
+- <a href="https://github.com/TheManticoreProject/goopts/commit/de668b5a220c8d875d3196506056e65251da6f4a">de668b5</a>: Fixed unit tests
+- <a href="https://github.com/TheManticoreProject/goopts/commit/089809d91a5e97196a43fa6082555a2a9be3c2c0">089809d</a>: Fixed unit tests
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>

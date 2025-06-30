@@ -4,9 +4,9 @@
 
 Commits:
 
-- <a href="https://github.com/p0dalirius/smbclient-ng/commit/952734d163010fae9a29829c9786db3069c3f38c">952734d</a>: Fixed #43, Fixed #42, Fixed #41, Fixed #40, Fixed #39
-- <a href="https://github.com/p0dalirius/smbclient-ng/commit/059254551f33d172a7c2c420f8be856002fb903a">0592545</a>: Fixed #18
-- <a href="https://github.com/p0dalirius/smbclient-ng/commit/421be0967c10fa41c1da3da7fec646f8b83853a6">421be09</a>: Fixed check of file existence in remote
+- <a href="https://github.com/TheManticoreProject/goopts/commit/9ca71d97469f3ec18cc795c0ce5e4005db20dbe0">9ca71d9</a>: fix missing newlines between groups in usage using multiple groups, fixes #15
+- <a href="https://github.com/TheManticoreProject/goopts/commit/ef3ecaf9dc689ebb674fa30c73c42042214f96ae">ef3ecaf</a>: Fixed double newline in usage when no arguments exists in default group and arguments are in other groups, fixes #14
+- <a href="https://github.com/TheManticoreProject/goopts/commit/093bcfce98ab6fb7abdb0d63972438327c003c80">093bcfc</a>: Fixed no alphabetical order in help message printing subparser names, fixes #13
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
