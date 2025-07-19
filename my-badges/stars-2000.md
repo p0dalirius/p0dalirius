@@ -60,9 +60,9 @@ Repos:
 * <a href="https://github.com/p0dalirius/gitea-extract-users">p0dalirius/gitea-extract-users: ★15</a>
 * <a href="https://github.com/p0dalirius/FindAzureDomainTenant">p0dalirius/FindAzureDomainTenant: ★15</a>
 * <a href="https://github.com/p0dalirius/ListValidGSuiteEmails">p0dalirius/ListValidGSuiteEmails: ★15</a>
+* <a href="https://github.com/p0dalirius/WindowsBuilds">p0dalirius/WindowsBuilds: ★14</a>
 * <a href="https://github.com/p0dalirius/CodeIgniter-session-unsign">p0dalirius/CodeIgniter-session-unsign: ★14</a>
 * <a href="https://github.com/p0dalirius/pyDescribeSDDL">p0dalirius/pyDescribeSDDL: ★14</a>
-* <a href="https://github.com/p0dalirius/WindowsBuilds">p0dalirius/WindowsBuilds: ★13</a>
 * <a href="https://github.com/p0dalirius/CVE-2022-26159-Ametys-Autocompletion-XML">p0dalirius/CVE-2022-26159-Ametys-Autocompletion-XML: ★13</a>
 * <a href="https://github.com/p0dalirius/JoGet-webshell-plugin">p0dalirius/JoGet-webshell-plugin: ★13</a>
 * <a href="https://github.com/Ooggle/shellcoding-companion">Ooggle/shellcoding-companion: ★13</a>
