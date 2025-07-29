@@ -9,7 +9,7 @@
      <a href="https://infosec.exchange/@podalirius"><img src="https://raw.githubusercontent.com/p0dalirius/p0dalirius/main/.github/assets/mastodon.png" width="24%" height="24%"></a>
 </p>
 
-I'm a French Security Researcher and [Microsoft MVP in Security](https://mvp.microsoft.com/fr-FR/MVP/profile/74f43269-95fb-ed11-8f6d-000d3a560942). I specialize in finding vulnerabilities in various environments, including Windows, Active Directory, and web applications. With a passion for tinkering with undefined behaviors in computers, I have published 116 open-source security tools so far, and there are many more to come! 🥳
+I'm a Senior Security Researcher at [Specter Ops](https://specterops.io/) and [Microsoft MVP in Security](https://mvp.microsoft.com/fr-FR/MVP/profile/74f43269-95fb-ed11-8f6d-000d3a560942). I specialize in finding vulnerabilities in various environments, including Windows, Active Directory, and web applications. With a passion for tinkering with undefined behaviors in computers, I have published 116 open-source security tools so far, and there are many more to come! 🥳
 
 If any of my tools have been helpful to you, please consider sponsoring my work. Sponsorship will support the costs of my projects, including server expenses, mainframe restoration, and research materials. You can support me through GitHub Sponsors [https://www.github.com/sponsors/p0dalirius](https://www.github.com/sponsors/p0dalirius) or through Patreon: [https://www.patreon.com/podalirius](https://www.patreon.com/podalirius)
 
