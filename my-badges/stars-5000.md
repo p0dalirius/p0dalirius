@@ -4,7 +4,7 @@
 
 Repos:
 
-* <a href="https://github.com/ShutdownRepo/smartbrute">ShutdownRepo/smartbrute: ★381</a>
+* <a href="https://github.com/ShutdownRepo/smartbrute">ShutdownRepo/smartbrute: ★382</a>
 * <a href="https://github.com/p0dalirius/ExtractBitlockerKeys">p0dalirius/ExtractBitlockerKeys: ★375</a>
 * <a href="https://github.com/p0dalirius/pyLDAPWordlistHarvester">p0dalirius/pyLDAPWordlistHarvester: ★365</a>
 * <a href="https://github.com/p0dalirius/DumpSMBShare">p0dalirius/DumpSMBShare: ★227</a>
@@ -14,13 +14,13 @@ Repos:
 * <a href="https://github.com/p0dalirius/ldap2json">p0dalirius/ldap2json: ★136</a>
 * <a href="https://github.com/p0dalirius/MSSQL-Analysis-Coerce">p0dalirius/MSSQL-Analysis-Coerce: ★132</a>
 * <a href="https://github.com/p0dalirius/pyPDBdownload">p0dalirius/pyPDBdownload: ★124</a>
-* <a href="https://github.com/p0dalirius/Tomcat-webshell-application">p0dalirius/Tomcat-webshell-application: ★117</a>
+* <a href="https://github.com/p0dalirius/Tomcat-webshell-application">p0dalirius/Tomcat-webshell-application: ★118</a>
 * <a href="https://github.com/p0dalirius/FindUnusualSessions">p0dalirius/FindUnusualSessions: ★117</a>
 * <a href="https://github.com/p0dalirius/CVE-2022-36446-Webmin-Software-Package-Updates-RCE">p0dalirius/CVE-2022-36446-Webmin-Software-Package-Updates-RCE: ★114</a>
 * <a href="https://github.com/p0dalirius/pyLAPS">p0dalirius/pyLAPS: ★113</a>
 * <a href="https://github.com/p0dalirius/RDWAtool">p0dalirius/RDWAtool: ★106</a>
 * <a href="https://github.com/p0dalirius/objectwalker">p0dalirius/objectwalker: ★101</a>
-* <a href="https://github.com/p0dalirius/Wordpress-webshell-plugin">p0dalirius/Wordpress-webshell-plugin: ★91</a>
+* <a href="https://github.com/p0dalirius/Wordpress-webshell-plugin">p0dalirius/Wordpress-webshell-plugin: ★92</a>
 * <a href="https://github.com/p0dalirius/CVE-2021-43008-AdminerRead">p0dalirius/CVE-2021-43008-AdminerRead: ★85</a>
 * <a href="https://github.com/p0dalirius/CVE-2022-21907-http.sys">p0dalirius/CVE-2022-21907-http.sys: ★82</a>
 * <a href="https://github.com/p0dalirius/LFIDump">p0dalirius/LFIDump: ★74</a>
@@ -68,9 +68,9 @@ Repos:
 * <a href="https://github.com/p0dalirius/windows-cryptographic-and-hashing-algorithms-explained">p0dalirius/windows-cryptographic-and-hashing-algorithms-explained: ★20</a>
 * <a href="https://github.com/p0dalirius/CVE-2016-10956-mail-masta">p0dalirius/CVE-2016-10956-mail-masta: ★19</a>
 * <a href="https://github.com/p0dalirius/GithubBackupAllRepos">p0dalirius/GithubBackupAllRepos: ★19</a>
+* <a href="https://github.com/p0dalirius/wav2mmv">p0dalirius/wav2mmv: ★19</a>
 * <a href="https://github.com/p0dalirius/ParseFortinetSerialNumber">p0dalirius/ParseFortinetSerialNumber: ★18</a>
 * <a href="https://github.com/p0dalirius/pwndocapi">p0dalirius/pwndocapi: ★18</a>
-* <a href="https://github.com/p0dalirius/wav2mmv">p0dalirius/wav2mmv: ★18</a>
 * <a href="https://github.com/p0dalirius/CVE-2022-30780-lighttpd-denial-of-service">p0dalirius/CVE-2022-30780-lighttpd-denial-of-service: ★18</a>
 * <a href="https://github.com/TheManticoreProject/goLAPS">TheManticoreProject/goLAPS: ★17</a>
 * <a href="https://github.com/p0dalirius/pySortWindowsISOs">p0dalirius/pySortWindowsISOs: ★16</a>
