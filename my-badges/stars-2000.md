@@ -5,7 +5,7 @@
 Repos:
 
 * <a href="https://github.com/p0dalirius/owabrute">p0dalirius/owabrute: ★69</a>
-* <a href="https://github.com/p0dalirius/pydsinternals">p0dalirius/pydsinternals: ★65</a>
+* <a href="https://github.com/p0dalirius/pydsinternals">p0dalirius/pydsinternals: ★66</a>
 * <a href="https://github.com/p0dalirius/ldapconsole">p0dalirius/ldapconsole: ★64</a>
 * <a href="https://github.com/ShutdownRepo/httpmethods">ShutdownRepo/httpmethods: ★63</a>
 * <a href="https://github.com/p0dalirius/RemoteMouse-3.008-Exploit">p0dalirius/RemoteMouse-3.008-Exploit: ★55</a>
@@ -19,7 +19,7 @@ Repos:
 * <a href="https://github.com/p0dalirius/Argon2Cracker">p0dalirius/Argon2Cracker: ★40</a>
 * <a href="https://github.com/TheManticoreProject/winacl">TheManticoreProject/winacl: ★39</a>
 * <a href="https://github.com/p0dalirius/FindProcessesWithNamedPipes">p0dalirius/FindProcessesWithNamedPipes: ★38</a>
-* <a href="https://github.com/p0dalirius/sectools">p0dalirius/sectools: ★36</a>
+* <a href="https://github.com/p0dalirius/sectools">p0dalirius/sectools: ★37</a>
 * <a href="https://github.com/p0dalirius/Moodle-webshell-plugin">p0dalirius/Moodle-webshell-plugin: ★35</a>
 * <a href="https://github.com/p0dalirius/p0dalirius">p0dalirius/p0dalirius: ★34</a>
 * <a href="https://github.com/p0dalirius/WifiListProbeRequests">p0dalirius/WifiListProbeRequests: ★33</a>

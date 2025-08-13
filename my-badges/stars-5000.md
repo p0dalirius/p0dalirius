@@ -12,10 +12,10 @@ Repos:
 * <a href="https://github.com/p0dalirius/GeoWordlists">p0dalirius/GeoWordlists: ★153</a>
 * <a href="https://github.com/p0dalirius/ctfd-parser">p0dalirius/ctfd-parser: ★149</a>
 * <a href="https://github.com/p0dalirius/ldap2json">p0dalirius/ldap2json: ★136</a>
-* <a href="https://github.com/p0dalirius/MSSQL-Analysis-Coerce">p0dalirius/MSSQL-Analysis-Coerce: ★132</a>
-* <a href="https://github.com/p0dalirius/pyPDBdownload">p0dalirius/pyPDBdownload: ★124</a>
+* <a href="https://github.com/p0dalirius/MSSQL-Analysis-Coerce">p0dalirius/MSSQL-Analysis-Coerce: ★131</a>
+* <a href="https://github.com/p0dalirius/pyPDBdownload">p0dalirius/pyPDBdownload: ★125</a>
 * <a href="https://github.com/p0dalirius/Tomcat-webshell-application">p0dalirius/Tomcat-webshell-application: ★118</a>
-* <a href="https://github.com/p0dalirius/FindUnusualSessions">p0dalirius/FindUnusualSessions: ★117</a>
+* <a href="https://github.com/p0dalirius/FindUnusualSessions">p0dalirius/FindUnusualSessions: ★116</a>
 * <a href="https://github.com/p0dalirius/CVE-2022-36446-Webmin-Software-Package-Updates-RCE">p0dalirius/CVE-2022-36446-Webmin-Software-Package-Updates-RCE: ★115</a>
 * <a href="https://github.com/p0dalirius/pyLAPS">p0dalirius/pyLAPS: ★113</a>
 * <a href="https://github.com/p0dalirius/RDWAtool">p0dalirius/RDWAtool: ★106</a>
@@ -25,7 +25,7 @@ Repos:
 * <a href="https://github.com/p0dalirius/CVE-2022-21907-http.sys">p0dalirius/CVE-2022-21907-http.sys: ★82</a>
 * <a href="https://github.com/p0dalirius/LFIDump">p0dalirius/LFIDump: ★74</a>
 * <a href="https://github.com/p0dalirius/owabrute">p0dalirius/owabrute: ★69</a>
-* <a href="https://github.com/p0dalirius/pydsinternals">p0dalirius/pydsinternals: ★65</a>
+* <a href="https://github.com/p0dalirius/pydsinternals">p0dalirius/pydsinternals: ★66</a>
 * <a href="https://github.com/p0dalirius/ldapconsole">p0dalirius/ldapconsole: ★64</a>
 * <a href="https://github.com/ShutdownRepo/httpmethods">ShutdownRepo/httpmethods: ★63</a>
 * <a href="https://github.com/p0dalirius/RemoteMouse-3.008-Exploit">p0dalirius/RemoteMouse-3.008-Exploit: ★55</a>
@@ -39,7 +39,7 @@ Repos:
 * <a href="https://github.com/p0dalirius/Argon2Cracker">p0dalirius/Argon2Cracker: ★40</a>
 * <a href="https://github.com/TheManticoreProject/winacl">TheManticoreProject/winacl: ★39</a>
 * <a href="https://github.com/p0dalirius/FindProcessesWithNamedPipes">p0dalirius/FindProcessesWithNamedPipes: ★38</a>
-* <a href="https://github.com/p0dalirius/sectools">p0dalirius/sectools: ★36</a>
+* <a href="https://github.com/p0dalirius/sectools">p0dalirius/sectools: ★37</a>
 * <a href="https://github.com/p0dalirius/Moodle-webshell-plugin">p0dalirius/Moodle-webshell-plugin: ★35</a>
 * <a href="https://github.com/p0dalirius/p0dalirius">p0dalirius/p0dalirius: ★34</a>
 * <a href="https://github.com/p0dalirius/WifiListProbeRequests">p0dalirius/WifiListProbeRequests: ★33</a>
