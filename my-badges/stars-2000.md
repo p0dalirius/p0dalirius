@@ -20,8 +20,8 @@ Repos:
 * <a href="https://github.com/TheManticoreProject/winacl">TheManticoreProject/winacl: ★39</a>
 * <a href="https://github.com/p0dalirius/FindProcessesWithNamedPipes">p0dalirius/FindProcessesWithNamedPipes: ★38</a>
 * <a href="https://github.com/p0dalirius/sectools">p0dalirius/sectools: ★37</a>
-* <a href="https://github.com/p0dalirius/p0dalirius">p0dalirius/p0dalirius: ★35</a>
 * <a href="https://github.com/p0dalirius/Moodle-webshell-plugin">p0dalirius/Moodle-webshell-plugin: ★35</a>
+* <a href="https://github.com/p0dalirius/p0dalirius">p0dalirius/p0dalirius: ★34</a>
 * <a href="https://github.com/p0dalirius/WifiListProbeRequests">p0dalirius/WifiListProbeRequests: ★33</a>
 * <a href="https://github.com/p0dalirius/DomainUsersToXLSX">p0dalirius/DomainUsersToXLSX: ★32</a>
 * <a href="https://github.com/p0dalirius/GetFortinetSerialNumber">p0dalirius/GetFortinetSerialNumber: ★31</a>
