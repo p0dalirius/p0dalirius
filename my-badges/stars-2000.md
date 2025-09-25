@@ -32,9 +32,9 @@ Repos:
 * <a href="https://github.com/p0dalirius/MSRPRN-Coerce">p0dalirius/MSRPRN-Coerce: ★26</a>
 * <a href="https://github.com/p0dalirius/CVE-2020-14144-GiTea-git-hooks-rce">p0dalirius/CVE-2020-14144-GiTea-git-hooks-rce: ★26</a>
 * <a href="https://github.com/ShutdownRepo/Get-GPPPassword">ShutdownRepo/Get-GPPPassword: ★25</a>
+* <a href="https://github.com/p0dalirius/bhopengraph">p0dalirius/bhopengraph: ★25</a>
 * <a href="https://github.com/p0dalirius/pyLootApacheServerStatus">p0dalirius/pyLootApacheServerStatus: ★24</a>
 * <a href="https://github.com/p0dalirius/docker-volatility2">p0dalirius/docker-volatility2: ★24</a>
-* <a href="https://github.com/p0dalirius/bhopengraph">p0dalirius/bhopengraph: ★24</a>
 * <a href="https://github.com/p0dalirius/msFlagsDecoder">p0dalirius/msFlagsDecoder: ★23</a>
 * <a href="https://github.com/p0dalirius/pySprayer">p0dalirius/pySprayer: ★23</a>
 * <a href="https://github.com/p0dalirius/win32errorcodes">p0dalirius/win32errorcodes: ★23</a>
