@@ -17,6 +17,7 @@ Repos:
 * <a href="https://github.com/p0dalirius/AutoType">p0dalirius/AutoType: ★5</a>
 * <a href="https://github.com/p0dalirius/sql-injections-with-raw-hashes">p0dalirius/sql-injections-with-raw-hashes: ★4</a>
 * <a href="https://github.com/p0dalirius/docker-sagemath">p0dalirius/docker-sagemath: ★4</a>
+* <a href="https://github.com/p0dalirius/shareql">p0dalirius/shareql: ★4</a>
 * <a href="https://github.com/p0dalirius/securityscripts">p0dalirius/securityscripts: ★3</a>
 * <a href="https://github.com/p0dalirius/FindStringInRegistry">p0dalirius/FindStringInRegistry: ★3</a>
 * <a href="https://github.com/p0dalirius/RpcCoerceTemplateCpp">p0dalirius/RpcCoerceTemplateCpp: ★2</a>
@@ -24,7 +25,6 @@ Repos:
 * <a href="https://github.com/p0dalirius/python-link-shortener">p0dalirius/python-link-shortener: ★2</a>
 * <a href="https://github.com/p0dalirius/docker-build-go-project">p0dalirius/docker-build-go-project: ★2</a>
 * <a href="https://github.com/p0dalirius/ReflectArguments">p0dalirius/ReflectArguments: ★2</a>
-* <a href="https://github.com/p0dalirius/shareql">p0dalirius/shareql: ★2</a>
 * <a href="https://github.com/Edr4/GLPI-RCE-Authenticated">Edr4/GLPI-RCE-Authenticated: ★1</a>
 * <a href="https://github.com/p0dalirius/ldap">p0dalirius/ldap: ★1</a>
 
