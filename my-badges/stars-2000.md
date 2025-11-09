@@ -26,7 +26,7 @@ Repos:
 * <a href="https://github.com/p0dalirius/crEAP">p0dalirius/crEAP: ★31</a>
 * <a href="https://github.com/p0dalirius/GetFortinetSerialNumber">p0dalirius/GetFortinetSerialNumber: ★31</a>
 * <a href="https://github.com/p0dalirius/bhopengraph">p0dalirius/bhopengraph: ★31</a>
-* <a href="https://github.com/p0dalirius/volatility3-symbols">p0dalirius/volatility3-symbols: ★29</a>
+* <a href="https://github.com/p0dalirius/volatility3-symbols">p0dalirius/volatility3-symbols: ★30</a>
 * <a href="https://github.com/p0dalirius/TargetAllDomainObjects">p0dalirius/TargetAllDomainObjects: ★28</a>
 * <a href="https://github.com/p0dalirius/GhostSPN">p0dalirius/GhostSPN: ★28</a>
 * <a href="https://github.com/p0dalirius/MSRPRN-Coerce">p0dalirius/MSRPRN-Coerce: ★27</a>
