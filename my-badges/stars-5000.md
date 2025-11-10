@@ -7,7 +7,7 @@ Repos:
 * <a href="https://github.com/p0dalirius/ExtractBitlockerKeys">p0dalirius/ExtractBitlockerKeys: ★382</a>
 * <a href="https://github.com/p0dalirius/pyLDAPWordlistHarvester">p0dalirius/pyLDAPWordlistHarvester: ★371</a>
 * <a href="https://github.com/p0dalirius/DumpSMBShare">p0dalirius/DumpSMBShare: ★227</a>
-* <a href="https://github.com/p0dalirius/ShareHound">p0dalirius/ShareHound: ★197</a>
+* <a href="https://github.com/p0dalirius/ShareHound">p0dalirius/ShareHound: ★195</a>
 * <a href="https://github.com/TheManticoreProject/FindGPPPasswords">TheManticoreProject/FindGPPPasswords: ★164</a>
 * <a href="https://github.com/p0dalirius/ctfd-parser">p0dalirius/ctfd-parser: ★157</a>
 * <a href="https://github.com/p0dalirius/GeoWordlists">p0dalirius/GeoWordlists: ★155</a>
