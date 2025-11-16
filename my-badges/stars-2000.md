@@ -8,7 +8,7 @@ Repos:
 * <a href="https://github.com/p0dalirius/ldapconsole">p0dalirius/ldapconsole: ★64</a>
 * <a href="https://github.com/ShutdownRepo/httpmethods">ShutdownRepo/httpmethods: ★62</a>
 * <a href="https://github.com/p0dalirius/RemoteMouse-3.008-Exploit">p0dalirius/RemoteMouse-3.008-Exploit: ★60</a>
-* <a href="https://github.com/p0dalirius/Joomla-webshell-plugin">p0dalirius/Joomla-webshell-plugin: ★56</a>
+* <a href="https://github.com/p0dalirius/Joomla-webshell-plugin">p0dalirius/Joomla-webshell-plugin: ★57</a>
 * <a href="https://github.com/p0dalirius/volatility2-profiles">p0dalirius/volatility2-profiles: ★50</a>
 * <a href="https://github.com/p0dalirius/microsoft-rpc-fuzzing-tools">p0dalirius/microsoft-rpc-fuzzing-tools: ★50</a>
 * <a href="https://github.com/TheManticoreProject/DescribeNTSecurityDescriptor">TheManticoreProject/DescribeNTSecurityDescriptor: ★47</a>
@@ -89,8 +89,8 @@ Repos:
 * <a href="https://github.com/p0dalirius/CpuCoresTemperatureGraph">p0dalirius/CpuCoresTemperatureGraph: ★7</a>
 * <a href="https://github.com/p0dalirius/pdsimage-downloader">p0dalirius/pdsimage-downloader: ★6</a>
 * <a href="https://github.com/p0dalirius/stackdumper">p0dalirius/stackdumper: ★6</a>
+* <a href="https://github.com/p0dalirius/AutoType">p0dalirius/AutoType: ★6</a>
 * <a href="https://github.com/p0dalirius/SortPEbyVersions">p0dalirius/SortPEbyVersions: ★5</a>
-* <a href="https://github.com/p0dalirius/AutoType">p0dalirius/AutoType: ★5</a>
 * <a href="https://github.com/p0dalirius/securityscripts">p0dalirius/securityscripts: ★4</a>
 * <a href="https://github.com/p0dalirius/sql-injections-with-raw-hashes">p0dalirius/sql-injections-with-raw-hashes: ★4</a>
 * <a href="https://github.com/p0dalirius/docker-sagemath">p0dalirius/docker-sagemath: ★4</a>
