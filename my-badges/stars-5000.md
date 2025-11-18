@@ -7,7 +7,7 @@ Repos:
 * <a href="https://github.com/p0dalirius/ExtractBitlockerKeys">p0dalirius/ExtractBitlockerKeys: ★383</a>
 * <a href="https://github.com/p0dalirius/pyLDAPWordlistHarvester">p0dalirius/pyLDAPWordlistHarvester: ★371</a>
 * <a href="https://github.com/p0dalirius/DumpSMBShare">p0dalirius/DumpSMBShare: ★227</a>
-* <a href="https://github.com/p0dalirius/ShareHound">p0dalirius/ShareHound: ★208</a>
+* <a href="https://github.com/p0dalirius/ShareHound">p0dalirius/ShareHound: ★210</a>
 * <a href="https://github.com/TheManticoreProject/FindGPPPasswords">TheManticoreProject/FindGPPPasswords: ★165</a>
 * <a href="https://github.com/p0dalirius/ctfd-parser">p0dalirius/ctfd-parser: ★157</a>
 * <a href="https://github.com/p0dalirius/GeoWordlists">p0dalirius/GeoWordlists: ★155</a>
@@ -99,10 +99,10 @@ Repos:
 * <a href="https://github.com/p0dalirius/CrackedNTDStoXLSX">p0dalirius/CrackedNTDStoXLSX: ★10</a>
 * <a href="https://github.com/p0dalirius/UsersWithPwdLastSetOlderThan">p0dalirius/UsersWithPwdLastSetOlderThan: ★10</a>
 * <a href="https://github.com/TheManticoreProject/goopts">TheManticoreProject/goopts: ★10</a>
+* <a href="https://github.com/p0dalirius/shareql">p0dalirius/shareql: ★10</a>
 * <a href="https://github.com/p0dalirius/CVE-2021-31800-Impacket-SMB-Server-Arbitrary-file-read-write">p0dalirius/CVE-2021-31800-Impacket-SMB-Server-Arbitrary-file-read-write: ★9</a>
 * <a href="https://github.com/pwnwithlove/conf-steakoverlow-2022">pwnwithlove/conf-steakoverlow-2022: ★9</a>
 * <a href="https://github.com/TheManticoreProject/keytab">TheManticoreProject/keytab: ★9</a>
-* <a href="https://github.com/p0dalirius/shareql">p0dalirius/shareql: ★9</a>
 * <a href="https://github.com/p0dalirius/Windows-Hardening">p0dalirius/Windows-Hardening: ★8</a>
 * <a href="https://github.com/p0dalirius/SweetRice-webshell-plugin">p0dalirius/SweetRice-webshell-plugin: ★8</a>
 * <a href="https://github.com/p0dalirius/CVE-2020-8813-Cacti-RCE-in-graph_realtime">p0dalirius/CVE-2020-8813-Cacti-RCE-in-graph_realtime: ★7</a>
