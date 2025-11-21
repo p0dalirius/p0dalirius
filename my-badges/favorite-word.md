@@ -6,8 +6,8 @@ My favorite commit message words are:
 
 1. added (used 2153 times)
 2. kernel (used 1205 times)
-3. update (used 775 times)
-4. readme.md (used 655 times)
+3. update (used 776 times)
+4. readme.md (used 656 times)
 5. symbols (used 637 times)
 
 
