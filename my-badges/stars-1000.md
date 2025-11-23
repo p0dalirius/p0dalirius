@@ -13,10 +13,10 @@ Repos:
 * <a href="https://github.com/p0dalirius/docker-volatility2">p0dalirius/docker-volatility2: ★24</a>
 * <a href="https://github.com/p0dalirius/pyDescribeNTSecurityDescriptor">p0dalirius/pyDescribeNTSecurityDescriptor: ★24</a>
 * <a href="https://github.com/p0dalirius/msFlagsDecoder">p0dalirius/msFlagsDecoder: ★23</a>
+* <a href="https://github.com/p0dalirius/wav2mmv">p0dalirius/wav2mmv: ★23</a>
 * <a href="https://github.com/p0dalirius/CVE-2018-16763-FuelCMS-1.4.1-RCE">p0dalirius/CVE-2018-16763-FuelCMS-1.4.1-RCE: ★23</a>
 * <a href="https://github.com/p0dalirius/pySprayer">p0dalirius/pySprayer: ★23</a>
 * <a href="https://github.com/p0dalirius/crawlersuseragents">p0dalirius/crawlersuseragents: ★22</a>
-* <a href="https://github.com/p0dalirius/wav2mmv">p0dalirius/wav2mmv: ★22</a>
 * <a href="https://github.com/p0dalirius/hivetools">p0dalirius/hivetools: ★22</a>
 * <a href="https://github.com/p0dalirius/RobotsValidator">p0dalirius/RobotsValidator: ★21</a>
 * <a href="https://github.com/p0dalirius/pwndocapi">p0dalirius/pwndocapi: ★21</a>
@@ -33,11 +33,11 @@ Repos:
 * <a href="https://github.com/p0dalirius/pyDescribeSDDL">p0dalirius/pyDescribeSDDL: ★17</a>
 * <a href="https://github.com/p0dalirius/pySortWindowsISOs">p0dalirius/pySortWindowsISOs: ★16</a>
 * <a href="https://github.com/p0dalirius/http-fuzzing-scripts">p0dalirius/http-fuzzing-scripts: ★15</a>
+* <a href="https://github.com/p0dalirius/CodeIgniter-session-unsign">p0dalirius/CodeIgniter-session-unsign: ★15</a>
 * <a href="https://github.com/p0dalirius/gitea-extract-users">p0dalirius/gitea-extract-users: ★15</a>
 * <a href="https://github.com/p0dalirius/FindAzureDomainTenant">p0dalirius/FindAzureDomainTenant: ★15</a>
 * <a href="https://github.com/p0dalirius/ListValidGSuiteEmails">p0dalirius/ListValidGSuiteEmails: ★15</a>
 * <a href="https://github.com/p0dalirius/WindowsBuilds">p0dalirius/WindowsBuilds: ★14</a>
-* <a href="https://github.com/p0dalirius/CodeIgniter-session-unsign">p0dalirius/CodeIgniter-session-unsign: ★14</a>
 * <a href="https://github.com/p0dalirius/CVE-2022-26159-Ametys-Autocompletion-XML">p0dalirius/CVE-2022-26159-Ametys-Autocompletion-XML: ★13</a>
 * <a href="https://github.com/p0dalirius/JoGet-webshell-plugin">p0dalirius/JoGet-webshell-plugin: ★13</a>
 * <a href="https://github.com/Ooggle/shellcoding-companion">Ooggle/shellcoding-companion: ★13</a>
@@ -64,10 +64,10 @@ Repos:
 * <a href="https://github.com/p0dalirius/CpuCoresTemperatureGraph">p0dalirius/CpuCoresTemperatureGraph: ★7</a>
 * <a href="https://github.com/p0dalirius/pdsimage-downloader">p0dalirius/pdsimage-downloader: ★6</a>
 * <a href="https://github.com/p0dalirius/stackdumper">p0dalirius/stackdumper: ★6</a>
+* <a href="https://github.com/TheManticoreProject/FindReusedKeyCredentials">TheManticoreProject/FindReusedKeyCredentials: ★6</a>
 * <a href="https://github.com/p0dalirius/AutoType">p0dalirius/AutoType: ★6</a>
 * <a href="https://github.com/p0dalirius/SortPEbyVersions">p0dalirius/SortPEbyVersions: ★5</a>
 * <a href="https://github.com/p0dalirius/docker-sagemath">p0dalirius/docker-sagemath: ★5</a>
-* <a href="https://github.com/TheManticoreProject/FindReusedKeyCredentials">TheManticoreProject/FindReusedKeyCredentials: ★5</a>
 * <a href="https://github.com/p0dalirius/securityscripts">p0dalirius/securityscripts: ★4</a>
 * <a href="https://github.com/p0dalirius/sql-injections-with-raw-hashes">p0dalirius/sql-injections-with-raw-hashes: ★4</a>
 * <a href="https://github.com/p0dalirius/RpcCoerceTemplateCpp">p0dalirius/RpcCoerceTemplateCpp: ★3</a>
