@@ -8,10 +8,10 @@ Repos:
 * <a href="https://github.com/p0dalirius/CVE-2020-14144-GiTea-git-hooks-rce">p0dalirius/CVE-2020-14144-GiTea-git-hooks-rce: ★27</a>
 * <a href="https://github.com/ShutdownRepo/Get-GPPPassword">ShutdownRepo/Get-GPPPassword: ★26</a>
 * <a href="https://github.com/p0dalirius/Hashes-Harvester">p0dalirius/Hashes-Harvester: ★26</a>
+* <a href="https://github.com/p0dalirius/pyDescribeNTSecurityDescriptor">p0dalirius/pyDescribeNTSecurityDescriptor: ★25</a>
 * <a href="https://github.com/p0dalirius/AccountShadowTakeover">p0dalirius/AccountShadowTakeover: ★24</a>
 * <a href="https://github.com/p0dalirius/pyLootApacheServerStatus">p0dalirius/pyLootApacheServerStatus: ★24</a>
 * <a href="https://github.com/p0dalirius/docker-volatility2">p0dalirius/docker-volatility2: ★24</a>
-* <a href="https://github.com/p0dalirius/pyDescribeNTSecurityDescriptor">p0dalirius/pyDescribeNTSecurityDescriptor: ★24</a>
 * <a href="https://github.com/p0dalirius/msFlagsDecoder">p0dalirius/msFlagsDecoder: ★23</a>
 * <a href="https://github.com/p0dalirius/CVE-2018-16763-FuelCMS-1.4.1-RCE">p0dalirius/CVE-2018-16763-FuelCMS-1.4.1-RCE: ★23</a>
 * <a href="https://github.com/p0dalirius/pySprayer">p0dalirius/pySprayer: ★23</a>
