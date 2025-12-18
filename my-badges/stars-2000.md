@@ -14,7 +14,7 @@ Repos:
 * <a href="https://github.com/p0dalirius/CVE-2022-45771-Pwndoc-LFI-to-RCE">p0dalirius/CVE-2022-45771-Pwndoc-LFI-to-RCE: ★46</a>
 * <a href="https://github.com/p0dalirius/robotstester">p0dalirius/robotstester: ★45</a>
 * <a href="https://github.com/Ruulian/CSPass">Ruulian/CSPass: ★44</a>
-* <a href="https://github.com/p0dalirius/Argon2Cracker">p0dalirius/Argon2Cracker: ★41</a>
+* <a href="https://github.com/p0dalirius/Argon2Cracker">p0dalirius/Argon2Cracker: ★42</a>
 * <a href="https://github.com/p0dalirius/sectools">p0dalirius/sectools: ★40</a>
 * <a href="https://github.com/TheManticoreProject/winacl">TheManticoreProject/winacl: ★39</a>
 * <a href="https://github.com/p0dalirius/FindProcessesWithNamedPipes">p0dalirius/FindProcessesWithNamedPipes: ★39</a>
@@ -96,9 +96,9 @@ Repos:
 * <a href="https://github.com/p0dalirius/sql-injections-with-raw-hashes">p0dalirius/sql-injections-with-raw-hashes: ★4</a>
 * <a href="https://github.com/p0dalirius/RpcCoerceTemplateCpp">p0dalirius/RpcCoerceTemplateCpp: ★3</a>
 * <a href="https://github.com/p0dalirius/a-simple-tcp-honeypot">p0dalirius/a-simple-tcp-honeypot: ★3</a>
+* <a href="https://github.com/TheManticoreProject/DescribeKeyCredentialLink">TheManticoreProject/DescribeKeyCredentialLink: ★3</a>
 * <a href="https://github.com/p0dalirius/FindStringInRegistry">p0dalirius/FindStringInRegistry: ★3</a>
 * <a href="https://github.com/p0dalirius/python-link-shortener">p0dalirius/python-link-shortener: ★2</a>
-* <a href="https://github.com/TheManticoreProject/DescribeKeyCredentialLink">TheManticoreProject/DescribeKeyCredentialLink: ★2</a>
 * <a href="https://github.com/p0dalirius/docker-build-go-project">p0dalirius/docker-build-go-project: ★2</a>
 * <a href="https://github.com/p0dalirius/ReflectArguments">p0dalirius/ReflectArguments: ★2</a>
 * <a href="https://github.com/Edr4/GLPI-RCE-Authenticated">Edr4/GLPI-RCE-Authenticated: ★1</a>
