@@ -23,7 +23,7 @@ Repos:
 * <a href="https://github.com/p0dalirius/objectwalker">p0dalirius/objectwalker: ★102</a>
 * <a href="https://github.com/p0dalirius/CVE-2021-43008-AdminerRead">p0dalirius/CVE-2021-43008-AdminerRead: ★87</a>
 * <a href="https://github.com/p0dalirius/CVE-2022-21907-http.sys">p0dalirius/CVE-2022-21907-http.sys: ★83</a>
-* <a href="https://github.com/p0dalirius/LFIDump">p0dalirius/LFIDump: ★77</a>
+* <a href="https://github.com/p0dalirius/LFIDump">p0dalirius/LFIDump: ★78</a>
 * <a href="https://github.com/p0dalirius/owabrute">p0dalirius/owabrute: ★69</a>
 * <a href="https://github.com/p0dalirius/pydsinternals">p0dalirius/pydsinternals: ★69</a>
 * <a href="https://github.com/p0dalirius/ldapconsole">p0dalirius/ldapconsole: ★64</a>
@@ -35,7 +35,7 @@ Repos:
 * <a href="https://github.com/TheManticoreProject/DescribeNTSecurityDescriptor">TheManticoreProject/DescribeNTSecurityDescriptor: ★47</a>
 * <a href="https://github.com/p0dalirius/robotstester">p0dalirius/robotstester: ★46</a>
 * <a href="https://github.com/p0dalirius/CVE-2022-45771-Pwndoc-LFI-to-RCE">p0dalirius/CVE-2022-45771-Pwndoc-LFI-to-RCE: ★46</a>
-* <a href="https://github.com/Ruulian/CSPass">Ruulian/CSPass: ★44</a>
+* <a href="https://github.com/Ruulian/CSPass">Ruulian/CSPass: ★45</a>
 * <a href="https://github.com/p0dalirius/Argon2Cracker">p0dalirius/Argon2Cracker: ★42</a>
 * <a href="https://github.com/p0dalirius/sectools">p0dalirius/sectools: ★40</a>
 * <a href="https://github.com/p0dalirius/bhopengraph">p0dalirius/bhopengraph: ★40</a>
