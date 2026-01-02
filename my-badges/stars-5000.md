@@ -5,7 +5,7 @@
 Repos:
 
 * <a href="https://github.com/ShutdownRepo/smartbrute">ShutdownRepo/smartbrute: ★384</a>
-* <a href="https://github.com/p0dalirius/pyLDAPWordlistHarvester">p0dalirius/pyLDAPWordlistHarvester: ★372</a>
+* <a href="https://github.com/p0dalirius/pyLDAPWordlistHarvester">p0dalirius/pyLDAPWordlistHarvester: ★371</a>
 * <a href="https://github.com/p0dalirius/ShareHound">p0dalirius/ShareHound: ★245</a>
 * <a href="https://github.com/p0dalirius/DumpSMBShare">p0dalirius/DumpSMBShare: ★227</a>
 * <a href="https://github.com/TheManticoreProject/FindGPPPasswords">TheManticoreProject/FindGPPPasswords: ★165</a>
