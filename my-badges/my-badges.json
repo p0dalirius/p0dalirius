@@ -278,5 +278,19 @@
     "desc": "I committed on St. Patrick's Day!",
     "body": "Commits:\n\n- <a href=\"https://github.com/p0dalirius/Joomla-1.6-1.7-2.5-Privilege-Escalation-Vulnerability/commit/b140b36cbd7445ed053e882300575fc84d998374\">b140b36</a>\n- <a href=\"https://github.com/p0dalirius/Joomla-1.6-1.7-2.5-Privilege-Escalation-Vulnerability/commit/c37d7ea45759fc700ee8f145f72161e1d335ff76\">c37d7ea</a>\n- <a href=\"https://github.com/p0dalirius/Joomla-1.6-1.7-2.5-Privilege-Escalation-Vulnerability/commit/9e07b27c9dc2428b606789d6a03f8af94caa1252\">9e07b27</a>\n- <a href=\"https://github.com/p0dalirius/Joomla-1.6-1.7-2.5-Privilege-Escalation-Vulnerability/commit/fa9102c728f4cd6b2ded11a351f6745d11c32241\">fa9102c</a>\n- <a href=\"https://github.com/p0dalirius/AccountShadowTakeover/commit/af30f61f51d4213c967afc0a3ad67f6efd7cff38\">af30f61</a>",
     "image": "https://my-badges.github.io/my-badges/st-patricks-day.png"
+  },
+  {
+    "id": "alien-day",
+    "tier": 0,
+    "desc": "I committed on the day when the crew of the USCSS Nostromo made their fateful landing and discovered the Xenomorph on LV-426!",
+    "body": "Commits:\n\n- <a href=\"https://github.com/p0dalirius/objectwalker/commit/f03d82e4fef4a82561fd81c38af8165b04617bad\">f03d82e</a>\n- <a href=\"https://github.com/p0dalirius/objectwalker/commit/daf41e6ec9dd5276894d0b3919be668f530f6cd7\">daf41e6</a>\n- <a href=\"https://github.com/p0dalirius/objectwalker/commit/2090db3aafae026bbf3a9654945cd6ee70138a11\">2090db3</a>\n- <a href=\"https://github.com/p0dalirius/objectwalker/commit/9671a3f75664a22ee198970a600f334988125e36\">9671a3f</a>\n- <a href=\"https://github.com/p0dalirius/objectwalker/commit/ec5293fe311e531633214ac7a87588baabef3fba\">ec5293f</a>\n- <a href=\"https://github.com/p0dalirius/objectwalker/commit/24214e7c224cf70b170c9a67047221789520296b\">24214e7</a>",
+    "image": "https://my-badges.github.io/my-badges/alien-day.png"
+  },
+  {
+    "id": "science-fiction-day",
+    "tier": 0,
+    "desc": "I committed on Isaac Asimov's birthday / National Science Fiction Day!",
+    "body": "Commits:\n\n- <a href=\"https://github.com/p0dalirius/pyPDBdownload/commit/585c44882e48b6518551b03218e740398e5ceb83\">585c448</a>",
+    "image": "https://my-badges.github.io/my-badges/science-fiction-day.png"
   }
 ]
