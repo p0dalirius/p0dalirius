@@ -8,7 +8,7 @@ Repos:
 * <a href="https://github.com/p0dalirius/pyLDAPWordlistHarvester">p0dalirius/pyLDAPWordlistHarvester: ★371</a>
 * <a href="https://github.com/p0dalirius/ShareHound">p0dalirius/ShareHound: ★249</a>
 * <a href="https://github.com/p0dalirius/DumpSMBShare">p0dalirius/DumpSMBShare: ★227</a>
-* <a href="https://github.com/TheManticoreProject/FindGPPPasswords">TheManticoreProject/FindGPPPasswords: ★164</a>
+* <a href="https://github.com/TheManticoreProject/FindGPPPasswords">TheManticoreProject/FindGPPPasswords: ★166</a>
 * <a href="https://github.com/p0dalirius/ctfd-parser">p0dalirius/ctfd-parser: ★162</a>
 * <a href="https://github.com/p0dalirius/GeoWordlists">p0dalirius/GeoWordlists: ★156</a>
 * <a href="https://github.com/p0dalirius/ldap2json">p0dalirius/ldap2json: ★139</a>
@@ -20,7 +20,7 @@ Repos:
 * <a href="https://github.com/p0dalirius/CVE-2022-36446-Webmin-Software-Package-Updates-RCE">p0dalirius/CVE-2022-36446-Webmin-Software-Package-Updates-RCE: ★115</a>
 * <a href="https://github.com/p0dalirius/RDWAtool">p0dalirius/RDWAtool: ★111</a>
 * <a href="https://github.com/p0dalirius/Wordpress-webshell-plugin">p0dalirius/Wordpress-webshell-plugin: ★104</a>
-* <a href="https://github.com/p0dalirius/objectwalker">p0dalirius/objectwalker: ★100</a>
+* <a href="https://github.com/p0dalirius/objectwalker">p0dalirius/objectwalker: ★101</a>
 * <a href="https://github.com/p0dalirius/CVE-2021-43008-AdminerRead">p0dalirius/CVE-2021-43008-AdminerRead: ★87</a>
 * <a href="https://github.com/p0dalirius/CVE-2022-21907-http.sys">p0dalirius/CVE-2022-21907-http.sys: ★83</a>
 * <a href="https://github.com/p0dalirius/LFIDump">p0dalirius/LFIDump: ★78</a>
