@@ -7,7 +7,7 @@ Repos:
 * <a href="https://github.com/ShutdownRepo/httpmethods">ShutdownRepo/httpmethods: ★64</a>
 * <a href="https://github.com/p0dalirius/RemoteMouse-3.008-Exploit">p0dalirius/RemoteMouse-3.008-Exploit: ★61</a>
 * <a href="https://github.com/p0dalirius/Joomla-webshell-plugin">p0dalirius/Joomla-webshell-plugin: ★58</a>
-* <a href="https://github.com/p0dalirius/volatility2-profiles">p0dalirius/volatility2-profiles: ★52</a>
+* <a href="https://github.com/p0dalirius/volatility2-profiles">p0dalirius/volatility2-profiles: ★53</a>
 * <a href="https://github.com/p0dalirius/microsoft-rpc-fuzzing-tools">p0dalirius/microsoft-rpc-fuzzing-tools: ★51</a>
 * <a href="https://github.com/p0dalirius/robotstester">p0dalirius/robotstester: ★47</a>
 * <a href="https://github.com/p0dalirius/CVE-2022-45771-Pwndoc-LFI-to-RCE">p0dalirius/CVE-2022-45771-Pwndoc-LFI-to-RCE: ★47</a>
@@ -25,9 +25,9 @@ Repos:
 * <a href="https://github.com/p0dalirius/p0dalirius">p0dalirius/p0dalirius: ★34</a>
 * <a href="https://github.com/p0dalirius/crEAP">p0dalirius/crEAP: ★32</a>
 * <a href="https://github.com/p0dalirius/GetFortinetSerialNumber">p0dalirius/GetFortinetSerialNumber: ★32</a>
+* <a href="https://github.com/p0dalirius/volatility3-symbols">p0dalirius/volatility3-symbols: ★31</a>
 * <a href="https://github.com/p0dalirius/MSRPRN-Coerce">p0dalirius/MSRPRN-Coerce: ★30</a>
 * <a href="https://github.com/p0dalirius/CVE-2020-14144-GiTea-git-hooks-rce">p0dalirius/CVE-2020-14144-GiTea-git-hooks-rce: ★30</a>
-* <a href="https://github.com/p0dalirius/volatility3-symbols">p0dalirius/volatility3-symbols: ★30</a>
 * <a href="https://github.com/p0dalirius/TargetAllDomainObjects">p0dalirius/TargetAllDomainObjects: ★29</a>
 * <a href="https://github.com/p0dalirius/pyDescribeNTSecurityDescriptor">p0dalirius/pyDescribeNTSecurityDescriptor: ★28</a>
 * <a href="https://github.com/ShutdownRepo/Get-GPPPassword">ShutdownRepo/Get-GPPPassword: ★26</a>
