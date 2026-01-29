@@ -4,7 +4,6 @@
 
 Repos:
 
-* <a href="https://github.com/TheManticoreProject/keytab">TheManticoreProject/keytab: ★9</a>
 * <a href="https://github.com/p0dalirius/SweetRice-webshell-plugin">p0dalirius/SweetRice-webshell-plugin: ★8</a>
 * <a href="https://github.com/TheManticoreProject/FindReusedKeyCredentials">TheManticoreProject/FindReusedKeyCredentials: ★8</a>
 * <a href="https://github.com/p0dalirius/CVE-2020-8813-Cacti-RCE-in-graph_realtime">p0dalirius/CVE-2020-8813-Cacti-RCE-in-graph_realtime: ★7</a>
@@ -29,6 +28,7 @@ Repos:
 * <a href="https://github.com/p0dalirius/shareql-vscode-ext">p0dalirius/shareql-vscode-ext: ★1</a>
 * <a href="https://github.com/p0dalirius/SharpHound">p0dalirius/SharpHound: ★1</a>
 * <a href="https://github.com/p0dalirius/sharpopengraph">p0dalirius/sharpopengraph: ★1</a>
+* <a href="https://github.com/p0dalirius/TLSCertHound">p0dalirius/TLSCertHound: ★1</a>
 
 <sup>I have push, maintainer or admin permissions, so I'm definitely an author.<sup>
 

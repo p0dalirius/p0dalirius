@@ -4,7 +4,6 @@
 
 Repos:
 
-* <a href="https://github.com/p0dalirius/TargetAllDomainObjects">p0dalirius/TargetAllDomainObjects: ★29</a>
 * <a href="https://github.com/p0dalirius/pyDescribeNTSecurityDescriptor">p0dalirius/pyDescribeNTSecurityDescriptor: ★28</a>
 * <a href="https://github.com/ShutdownRepo/Get-GPPPassword">ShutdownRepo/Get-GPPPassword: ★26</a>
 * <a href="https://github.com/p0dalirius/Hashes-Harvester">p0dalirius/Hashes-Harvester: ★26</a>
@@ -81,6 +80,7 @@ Repos:
 * <a href="https://github.com/p0dalirius/shareql-vscode-ext">p0dalirius/shareql-vscode-ext: ★1</a>
 * <a href="https://github.com/p0dalirius/SharpHound">p0dalirius/SharpHound: ★1</a>
 * <a href="https://github.com/p0dalirius/sharpopengraph">p0dalirius/sharpopengraph: ★1</a>
+* <a href="https://github.com/p0dalirius/TLSCertHound">p0dalirius/TLSCertHound: ★1</a>
 
 <sup>I have push, maintainer or admin permissions, so I'm definitely an author.<sup>
 
