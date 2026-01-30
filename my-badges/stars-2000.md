@@ -15,7 +15,7 @@ Repos:
 * <a href="https://github.com/p0dalirius/bhopengraph">p0dalirius/bhopengraph: ★47</a>
 * <a href="https://github.com/Ruulian/CSPass">Ruulian/CSPass: ★44</a>
 * <a href="https://github.com/p0dalirius/Argon2Cracker">p0dalirius/Argon2Cracker: ★43</a>
-* <a href="https://github.com/p0dalirius/sectools">p0dalirius/sectools: ★41</a>
+* <a href="https://github.com/p0dalirius/sectools">p0dalirius/sectools: ★42</a>
 * <a href="https://github.com/TheManticoreProject/winacl">TheManticoreProject/winacl: ★40</a>
 * <a href="https://github.com/p0dalirius/FindProcessesWithNamedPipes">p0dalirius/FindProcessesWithNamedPipes: ★40</a>
 * <a href="https://github.com/p0dalirius/Moodle-webshell-plugin">p0dalirius/Moodle-webshell-plugin: ★38</a>
@@ -97,6 +97,7 @@ Repos:
 * <a href="https://github.com/p0dalirius/a-simple-tcp-honeypot">p0dalirius/a-simple-tcp-honeypot: ★4</a>
 * <a href="https://github.com/TheManticoreProject/DescribeKeyCredentialLink">TheManticoreProject/DescribeKeyCredentialLink: ★3</a>
 * <a href="https://github.com/p0dalirius/FindStringInRegistry">p0dalirius/FindStringInRegistry: ★3</a>
+* <a href="https://github.com/p0dalirius/TLSCertHound">p0dalirius/TLSCertHound: ★3</a>
 * <a href="https://github.com/p0dalirius/python-link-shortener">p0dalirius/python-link-shortener: ★2</a>
 * <a href="https://github.com/p0dalirius/docker-build-go-project">p0dalirius/docker-build-go-project: ★2</a>
 * <a href="https://github.com/p0dalirius/ReflectArguments">p0dalirius/ReflectArguments: ★2</a>
@@ -105,7 +106,6 @@ Repos:
 * <a href="https://github.com/p0dalirius/shareql-vscode-ext">p0dalirius/shareql-vscode-ext: ★1</a>
 * <a href="https://github.com/p0dalirius/SharpHound">p0dalirius/SharpHound: ★1</a>
 * <a href="https://github.com/p0dalirius/sharpopengraph">p0dalirius/sharpopengraph: ★1</a>
-* <a href="https://github.com/p0dalirius/TLSCertHound">p0dalirius/TLSCertHound: ★1</a>
 
 <sup>I have push, maintainer or admin permissions, so I'm definitely an author.<sup>
 
