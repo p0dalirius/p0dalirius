@@ -8,6 +8,7 @@ Issues:
 - <a href="https://github.com/p0dalirius/ldapconsole/issues/1">#1</a>: [bug] Invalid base when starting the script
 - <a href="https://github.com/p0dalirius/ldapconsole/issues/2">#2</a>: [enhancement] Add an outputfile command to save the output of the next command
 - <a href="https://github.com/p0dalirius/ApacheTomcatScanner/issues/33">#33</a>: [bug] No such file or directory: '/usr/local/lib/python3.11/dist-packages/apachetomcatscanner/data/credentials.json'
+- <a href="https://github.com/p0dalirius/smbclient-ng/issues/108">#108</a>: [enhancement] Add a -k option to be able to pass a CCache file  
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
