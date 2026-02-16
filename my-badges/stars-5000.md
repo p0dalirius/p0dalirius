@@ -19,7 +19,7 @@ Repos:
 * <a href="https://github.com/p0dalirius/CVE-2022-36446-Webmin-Software-Package-Updates-RCE">p0dalirius/CVE-2022-36446-Webmin-Software-Package-Updates-RCE: ★116</a>
 * <a href="https://github.com/p0dalirius/RDWAtool">p0dalirius/RDWAtool: ★113</a>
 * <a href="https://github.com/p0dalirius/Wordpress-webshell-plugin">p0dalirius/Wordpress-webshell-plugin: ★108</a>
-* <a href="https://github.com/p0dalirius/objectwalker">p0dalirius/objectwalker: ★101</a>
+* <a href="https://github.com/p0dalirius/objectwalker">p0dalirius/objectwalker: ★102</a>
 * <a href="https://github.com/p0dalirius/CVE-2021-43008-AdminerRead">p0dalirius/CVE-2021-43008-AdminerRead: ★88</a>
 * <a href="https://github.com/p0dalirius/CVE-2022-21907-http.sys">p0dalirius/CVE-2022-21907-http.sys: ★83</a>
 * <a href="https://github.com/p0dalirius/LFIDump">p0dalirius/LFIDump: ★77</a>
