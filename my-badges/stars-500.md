@@ -4,7 +4,6 @@
 
 Repos:
 
-* <a href="https://github.com/p0dalirius/ParseFortinetSerialNumber">p0dalirius/ParseFortinetSerialNumber: ★19</a>
 * <a href="https://github.com/p0dalirius/WindowsBuilds">p0dalirius/WindowsBuilds: ★17</a>
 * <a href="https://github.com/p0dalirius/CVE-2022-30780-lighttpd-denial-of-service">p0dalirius/CVE-2022-30780-lighttpd-denial-of-service: ★17</a>
 * <a href="https://github.com/TheManticoreProject/goLAPS">TheManticoreProject/goLAPS: ★17</a>
@@ -26,10 +25,10 @@ Repos:
 * <a href="https://github.com/p0dalirius/factorizator">p0dalirius/factorizator: ★12</a>
 * <a href="https://github.com/p0dalirius/CrackedNTDStoXLSX">p0dalirius/CrackedNTDStoXLSX: ★12</a>
 * <a href="https://github.com/p0dalirius/python_packages_paths">p0dalirius/python_packages_paths: ★11</a>
+* <a href="https://github.com/p0dalirius/streamableDownloader">p0dalirius/streamableDownloader: ★11</a>
 * <a href="https://github.com/p0dalirius/hexcat">p0dalirius/hexcat: ★11</a>
 * <a href="https://github.com/p0dalirius/UsersWithPwdLastSetOlderThan">p0dalirius/UsersWithPwdLastSetOlderThan: ★11</a>
 * <a href="https://github.com/TheManticoreProject/goopts">TheManticoreProject/goopts: ★11</a>
-* <a href="https://github.com/p0dalirius/streamableDownloader">p0dalirius/streamableDownloader: ★10</a>
 * <a href="https://github.com/p0dalirius/linux-kernels">p0dalirius/linux-kernels: ★10</a>
 * <a href="https://github.com/p0dalirius/CVE-2021-31800-Impacket-SMB-Server-Arbitrary-file-read-write">p0dalirius/CVE-2021-31800-Impacket-SMB-Server-Arbitrary-file-read-write: ★10</a>
 * <a href="https://github.com/TheManticoreProject/keytab">TheManticoreProject/keytab: ★10</a>
