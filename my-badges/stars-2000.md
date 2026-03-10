@@ -96,7 +96,6 @@ Repos:
 * <a href="https://github.com/p0dalirius/a-simple-tcp-honeypot">p0dalirius/a-simple-tcp-honeypot: ★4</a>
 * <a href="https://github.com/TheManticoreProject/DescribeKeyCredentialLink">TheManticoreProject/DescribeKeyCredentialLink: ★3</a>
 * <a href="https://github.com/p0dalirius/FindStringInRegistry">p0dalirius/FindStringInRegistry: ★3</a>
-* <a href="https://github.com/p0dalirius/TLSCertHound">p0dalirius/TLSCertHound: ★3</a>
 * <a href="https://github.com/p0dalirius/python-link-shortener">p0dalirius/python-link-shortener: ★2</a>
 * <a href="https://github.com/p0dalirius/docker-build-go-project">p0dalirius/docker-build-go-project: ★2</a>
 * <a href="https://github.com/p0dalirius/ReflectArguments">p0dalirius/ReflectArguments: ★2</a>
