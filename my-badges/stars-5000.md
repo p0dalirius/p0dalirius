@@ -5,7 +5,7 @@
 Repos:
 
 * <a href="https://github.com/p0dalirius/pyLDAPWordlistHarvester">p0dalirius/pyLDAPWordlistHarvester: ★372</a>
-* <a href="https://github.com/p0dalirius/ShareHound">p0dalirius/ShareHound: ★274</a>
+* <a href="https://github.com/p0dalirius/ShareHound">p0dalirius/ShareHound: ★275</a>
 * <a href="https://github.com/p0dalirius/DumpSMBShare">p0dalirius/DumpSMBShare: ★228</a>
 * <a href="https://github.com/TheManticoreProject/FindGPPPasswords">TheManticoreProject/FindGPPPasswords: ★170</a>
 * <a href="https://github.com/p0dalirius/ctfd-parser">p0dalirius/ctfd-parser: ★167</a>
@@ -28,7 +28,7 @@ Repos:
 * <a href="https://github.com/p0dalirius/ldapconsole">p0dalirius/ldapconsole: ★67</a>
 * <a href="https://github.com/ShutdownRepo/httpmethods">ShutdownRepo/httpmethods: ★66</a>
 * <a href="https://github.com/p0dalirius/RemoteMouse-3.008-Exploit">p0dalirius/RemoteMouse-3.008-Exploit: ★65</a>
-* <a href="https://github.com/p0dalirius/Joomla-webshell-plugin">p0dalirius/Joomla-webshell-plugin: ★57</a>
+* <a href="https://github.com/p0dalirius/Joomla-webshell-plugin">p0dalirius/Joomla-webshell-plugin: ★58</a>
 * <a href="https://github.com/p0dalirius/bhopengraph">p0dalirius/bhopengraph: ★54</a>
 * <a href="https://github.com/p0dalirius/volatility2-profiles">p0dalirius/volatility2-profiles: ★53</a>
 * <a href="https://github.com/p0dalirius/microsoft-rpc-fuzzing-tools">p0dalirius/microsoft-rpc-fuzzing-tools: ★51</a>

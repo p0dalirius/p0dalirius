@@ -5,7 +5,7 @@
 Repos:
 
 * <a href="https://github.com/p0dalirius/RemoteMouse-3.008-Exploit">p0dalirius/RemoteMouse-3.008-Exploit: ★65</a>
-* <a href="https://github.com/p0dalirius/Joomla-webshell-plugin">p0dalirius/Joomla-webshell-plugin: ★57</a>
+* <a href="https://github.com/p0dalirius/Joomla-webshell-plugin">p0dalirius/Joomla-webshell-plugin: ★58</a>
 * <a href="https://github.com/p0dalirius/bhopengraph">p0dalirius/bhopengraph: ★54</a>
 * <a href="https://github.com/p0dalirius/volatility2-profiles">p0dalirius/volatility2-profiles: ★53</a>
 * <a href="https://github.com/p0dalirius/microsoft-rpc-fuzzing-tools">p0dalirius/microsoft-rpc-fuzzing-tools: ★51</a>
