@@ -9,7 +9,7 @@ Repos:
 * <a href="https://github.com/p0dalirius/DumpSMBShare">p0dalirius/DumpSMBShare: ★229</a>
 * <a href="https://github.com/TheManticoreProject/FindGPPPasswords">TheManticoreProject/FindGPPPasswords: ★171</a>
 * <a href="https://github.com/p0dalirius/ctfd-parser">p0dalirius/ctfd-parser: ★168</a>
-* <a href="https://github.com/p0dalirius/GeoWordlists">p0dalirius/GeoWordlists: ★160</a>
+* <a href="https://github.com/p0dalirius/GeoWordlists">p0dalirius/GeoWordlists: ★161</a>
 * <a href="https://github.com/p0dalirius/ldap2json">p0dalirius/ldap2json: ★145</a>
 * <a href="https://github.com/p0dalirius/MSSQL-Analysis-Coerce">p0dalirius/MSSQL-Analysis-Coerce: ★133</a>
 * <a href="https://github.com/p0dalirius/pyLAPS">p0dalirius/pyLAPS: ★130</a>

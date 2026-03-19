@@ -4,7 +4,7 @@
 
 Pull requests:
 
-- <a href="https://github.com/fortra/impacket/pull/1177">#1177</a>: Added Kerberos support for SMBPasswd.py, fixes #1156
+- <a href="https://github.com/fortra/impacket/pull/1174">#1174</a>: Added parsing of LSA's Security Questions Security Answers structure version 1.0
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
