@@ -73,7 +73,7 @@
     "id": "evening-commits",
     "tier": 0,
     "desc": "I commit in the evening.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/5250ng/5250ng/commit/dd4548ade84c5d5697a3fcc4c878db160d6b3946\">dd4548a</a>\n- <a href=\"https://github.com/5250ng/5250ng/commit/7bf6166732be4a9d8248f830e5d52ce3cd3194a1\">7bf6166</a>\n- <a href=\"https://github.com/5250ng/5250ng/commit/9dce2f7f484e5eb8fc98bb191b535071465b8cb6\">9dce2f7</a>\n- <a href=\"https://github.com/5250ng/5250ng/commit/66ec65838c3d35b7ea26aee2760fbd71b604b68d\">66ec658</a>\n- <a href=\"https://github.com/5250ng/5250ng/commit/0f43accd8bf16fceb39785dfb6e8d2b07771c9cd\">0f43acc</a>\n- <a href=\"https://github.com/5250ng/5250ng/commit/6a7daff8bbe31031df842fee0380d60b92e9e9e2\">6a7daff</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/5250ng/5250ng/commit/552a2eeaf7daf9695b86bcb586a5bfefc0e1606a\">552a2ee</a>\n- <a href=\"https://github.com/5250ng/5250ng/commit/084bbe338a2013c1c4e267326363b8f465cb930d\">084bbe3</a>\n- <a href=\"https://github.com/5250ng/5250ng/commit/732be7cf6fd3f69060c8c6cd4135d71aa4beae97\">732be7c</a>\n- <a href=\"https://github.com/5250ng/5250ng/commit/4d911c0dd817127fbb9b3e831699ff5dba4bb672\">4d911c0</a>\n- <a href=\"https://github.com/5250ng/5250ng/commit/0e282009155ca80326e62aac73187ecbde09ef2c\">0e28200</a>\n- <a href=\"https://github.com/5250ng/5250ng/commit/aacfa80fb1ba1eb385241584ed8585e11976116e\">aacfa80</a>",
     "image": "https://my-badges.github.io/my-badges/evening-commits.png"
   },
   {
@@ -87,7 +87,7 @@
     "id": "mass-delete-commit",
     "tier": 1,
     "desc": "When I delete code, I delete a lot.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/TheManticoreProject/FindGPPPasswords/commit/f35f041869f00938cbfc8433a4dd36ba22de31bf\">f35f041</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/5250ng/5250ng/commit/7a4fe73980254a73485918f735adb3873d1e9eb7\">7a4fe73</a>",
     "image": "https://my-badges.github.io/my-badges/mass-delete-commit.png"
   },
   {
@@ -101,7 +101,7 @@
     "id": "fix-2",
     "tier": 1,
     "desc": "I did 2 sequential fixes.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/TheManticoreProject/goopts/commit/de668b5a220c8d875d3196506056e65251da6f4a\">de668b5</a>: Fixed unit tests\n- <a href=\"https://github.com/TheManticoreProject/goopts/commit/089809d91a5e97196a43fa6082555a2a9be3c2c0\">089809d</a>: Fixed unit tests",
+    "body": "Commits:\n\n- <a href=\"https://github.com/5250ng/5250ng/commit/98ad19adef8cb2506fc4f7b72772e7344aafa175\">98ad19a</a>: Fixes\n- <a href=\"https://github.com/5250ng/5250ng/commit/cafcc99f9a97eb2b53055314b63557654fed69bc\">cafcc99</a>: Fixed submodules",
     "image": "https://my-badges.github.io/my-badges/fix-2.png"
   },
   {
@@ -164,7 +164,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"added\".",
-    "body": "My favorite commit message words are:\n\n1. added (used 2415 times)\n2. kernel (used 1205 times)\n3. update (used 785 times)\n4. readme.md (used 661 times)\n5. symbols (used 637 times)",
+    "body": "My favorite commit message words are:\n\n1. added (used 2420 times)\n2. kernel (used 1205 times)\n3. update (used 788 times)\n4. readme.md (used 661 times)\n5. symbols (used 637 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {

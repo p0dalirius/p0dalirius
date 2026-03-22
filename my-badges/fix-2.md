@@ -4,8 +4,8 @@
 
 Commits:
 
-- <a href="https://github.com/TheManticoreProject/goopts/commit/de668b5a220c8d875d3196506056e65251da6f4a">de668b5</a>: Fixed unit tests
-- <a href="https://github.com/TheManticoreProject/goopts/commit/089809d91a5e97196a43fa6082555a2a9be3c2c0">089809d</a>: Fixed unit tests
+- <a href="https://github.com/5250ng/5250ng/commit/98ad19adef8cb2506fc4f7b72772e7344aafa175">98ad19a</a>: Fixes
+- <a href="https://github.com/5250ng/5250ng/commit/cafcc99f9a97eb2b53055314b63557654fed69bc">cafcc99</a>: Fixed submodules
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
