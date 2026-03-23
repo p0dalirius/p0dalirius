@@ -11,6 +11,7 @@ Pull requests:
 - <a href="https://github.com/5250ng/5250ng/pull/6">#6</a>: [bugfix] missing row bounds check in readScreenText()
 - <a href="https://github.com/5250ng/5250ng/pull/8">#8</a>: [bugfix] lexer silently accepting unterminated string literals
 - <a href="https://github.com/5250ng/5250ng/pull/9">#9</a>: [bugfix] lone trailing $ in variable interpolation
+- <a href="https://github.com/5250ng/5250ng/pull/32">#32</a>: Migrated 5250script to dedicated library
 - <a href="https://github.com/5250ng/5250ng/pull/2">#2</a>: [enhancement] Improve macros and scripts
 
 
