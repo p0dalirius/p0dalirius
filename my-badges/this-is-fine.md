@@ -12,6 +12,9 @@ Pull requests:
 - <a href="https://github.com/5250ng/5250ng/pull/8">#8</a>: [bugfix] lexer silently accepting unterminated string literals
 - <a href="https://github.com/5250ng/5250ng/pull/9">#9</a>: [bugfix] lone trailing $ in variable interpolation
 - <a href="https://github.com/5250ng/5250ng/pull/32">#32</a>: Migrated 5250script to dedicated library
+- <a href="https://github.com/5250ng/5250ng/pull/33">#33</a>: Improved session save info JSON files
+- <a href="https://github.com/5250ng/5250ng/pull/35">#35</a>: [enhancement] Add CLI option to start a session by its name or a path to a JSON sav…
+- <a href="https://github.com/5250ng/5250ng/pull/36">#36</a>: Changed cli option names
 - <a href="https://github.com/5250ng/5250ng/pull/2">#2</a>: [enhancement] Improve macros and scripts
 
 
