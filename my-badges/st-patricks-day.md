@@ -4,12 +4,12 @@
 
 Commits:
 
-- <a href="https://github.com/5250ng/5250ng/commit/8421610fb0a456edbb79b014f2d83fa5e28a9d53">8421610</a>
-- <a href="https://github.com/5250ng/5250ng/commit/9f06c1da0da2486aa3ae41cb9db8c3dbbaff627d">9f06c1d</a>
-- <a href="https://github.com/5250ng/5250ng/commit/21f1d7223d3252e9a7f3d179412e295e7328c501">21f1d72</a>
-- <a href="https://github.com/5250ng/5250ng/commit/c9340c5fb5f98f4f32e8fcf5404524ea5db7a4e9">c9340c5</a>
-- <a href="https://github.com/5250ng/5250ng/commit/9e318cdc4a9cad055424e1914d6ec501865a7b42">9e318cd</a>
-- <a href="https://github.com/5250ng/5250ng/commit/38795ab62daacbbae21ef257066f1264245b07b0">38795ab</a>
+- <a href="https://github.com/p0dalirius/CVE-2020-14144-GiTea-git-hooks-rce/commit/3bacafee202a63f5984ab0dd3c543370f12e76a9">3bacafe</a>
+- <a href="https://github.com/p0dalirius/Joomla-1.6-1.7-2.5-Privilege-Escalation-Vulnerability/commit/b140b36cbd7445ed053e882300575fc84d998374">b140b36</a>
+- <a href="https://github.com/p0dalirius/Joomla-1.6-1.7-2.5-Privilege-Escalation-Vulnerability/commit/c37d7ea45759fc700ee8f145f72161e1d335ff76">c37d7ea</a>
+- <a href="https://github.com/p0dalirius/Joomla-1.6-1.7-2.5-Privilege-Escalation-Vulnerability/commit/9e07b27c9dc2428b606789d6a03f8af94caa1252">9e07b27</a>
+- <a href="https://github.com/p0dalirius/Joomla-1.6-1.7-2.5-Privilege-Escalation-Vulnerability/commit/fa9102c728f4cd6b2ded11a351f6745d11c32241">fa9102c</a>
+- <a href="https://github.com/p0dalirius/AccountShadowTakeover/commit/af30f61f51d4213c967afc0a3ad67f6efd7cff38">af30f61</a>
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>

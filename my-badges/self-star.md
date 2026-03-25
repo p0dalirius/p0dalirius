@@ -1,5 +1,5 @@
-<img src="https://my-badges.github.io/my-badges/self-star.png" alt="I&apos;ve starred 110 my own repositories." title="I&apos;ve starred 110 my own repositories." width="128">
-<strong>I&apos;ve starred 110 my own repositories.</strong>
+<img src="https://my-badges.github.io/my-badges/self-star.png" alt="I&apos;ve starred 111 my own repositories." title="I&apos;ve starred 111 my own repositories." width="128">
+<strong>I&apos;ve starred 111 my own repositories.</strong>
 <br><br>
 
 - <a href="https://github.com/p0dalirius/CodeIgniter-session-unsign">p0dalirius/CodeIgniter-session-unsign</a>
@@ -71,6 +71,7 @@
 - <a href="https://github.com/p0dalirius/RpcCoerceTemplateCpp">p0dalirius/RpcCoerceTemplateCpp</a>
 - <a href="https://github.com/p0dalirius/WifiListProbeRequests">p0dalirius/WifiListProbeRequests</a>
 - <a href="https://github.com/p0dalirius/pdsimage-downloader">p0dalirius/pdsimage-downloader</a>
+- <a href="https://github.com/p0dalirius/sqli-dichotomic-search">p0dalirius/sqli-dichotomic-search</a>
 - <a href="https://github.com/p0dalirius/ListValidGSuiteEmails">p0dalirius/ListValidGSuiteEmails</a>
 - <a href="https://github.com/p0dalirius/Joomla-1.6-1.7-2.5-Privilege-Escalation-Vulnerability">p0dalirius/Joomla-1.6-1.7-2.5-Privilege-Escalation-Vulnerability</a>
 - <a href="https://github.com/p0dalirius/sectools">p0dalirius/sectools</a>

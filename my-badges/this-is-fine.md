@@ -6,16 +6,6 @@ Pull requests:
 
 - <a href="https://github.com/TheManticoreProject/winacl/pull/20">#20</a>: [enhancement] Created functions for access control mask
 - <a href="https://github.com/TheManticoreProject/winacl/pull/27">#27</a>: [enhancement] Renamed serialized data to marshalled data
-- <a href="https://github.com/5250ng/5250ng/pull/1">#1</a>: Improvements
-- <a href="https://github.com/5250ng/5250ng/pull/5">#5</a>: [bugfix] missing scriptExecutor cleanup when closing a tab
-- <a href="https://github.com/5250ng/5250ng/pull/6">#6</a>: [bugfix] missing row bounds check in readScreenText()
-- <a href="https://github.com/5250ng/5250ng/pull/8">#8</a>: [bugfix] lexer silently accepting unterminated string literals
-- <a href="https://github.com/5250ng/5250ng/pull/9">#9</a>: [bugfix] lone trailing $ in variable interpolation
-- <a href="https://github.com/5250ng/5250ng/pull/32">#32</a>: Migrated 5250script to dedicated library
-- <a href="https://github.com/5250ng/5250ng/pull/33">#33</a>: Improved session save info JSON files
-- <a href="https://github.com/5250ng/5250ng/pull/35">#35</a>: [enhancement] Add CLI option to start a session by its name or a path to a JSON sav…
-- <a href="https://github.com/5250ng/5250ng/pull/36">#36</a>: Changed cli option names
-- <a href="https://github.com/5250ng/5250ng/pull/2">#2</a>: [enhancement] Improve macros and scripts
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
