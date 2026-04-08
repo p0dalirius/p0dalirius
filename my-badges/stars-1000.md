@@ -61,9 +61,9 @@ Repos:
 * <a href="https://github.com/p0dalirius/CVE-2020-8813-Cacti-RCE-in-graph_realtime">p0dalirius/CVE-2020-8813-Cacti-RCE-in-graph_realtime: ★7</a>
 * <a href="https://github.com/p0dalirius/lib-parseargs">p0dalirius/lib-parseargs: ★7</a>
 * <a href="https://github.com/p0dalirius/CpuCoresTemperatureGraph">p0dalirius/CpuCoresTemperatureGraph: ★7</a>
+* <a href="https://github.com/p0dalirius/AutoType">p0dalirius/AutoType: ★7</a>
 * <a href="https://github.com/p0dalirius/securityscripts">p0dalirius/securityscripts: ★6</a>
 * <a href="https://github.com/p0dalirius/stackdumper">p0dalirius/stackdumper: ★6</a>
-* <a href="https://github.com/p0dalirius/AutoType">p0dalirius/AutoType: ★6</a>
 * <a href="https://github.com/p0dalirius/sql-injections-with-raw-hashes">p0dalirius/sql-injections-with-raw-hashes: ★5</a>
 * <a href="https://github.com/p0dalirius/SortPEbyVersions">p0dalirius/SortPEbyVersions: ★5</a>
 * <a href="https://github.com/p0dalirius/a-simple-tcp-honeypot">p0dalirius/a-simple-tcp-honeypot: ★5</a>
