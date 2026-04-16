@@ -6,6 +6,7 @@
 - <a href="https://github.com/p0dalirius/smbclient-ng/issues/42">#42</a>
 - <a href="https://github.com/TheManticoreProject/Manticore/issues/42">#42</a>
 - <a href="https://github.com/TheManticoreProject/winacl/issues/42">#42</a>
+- <a href="https://github.com/5250ng/5250ng/issues/42">#42</a>
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>

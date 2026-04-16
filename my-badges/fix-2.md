@@ -4,8 +4,8 @@
 
 Commits:
 
-- <a href="https://github.com/TheManticoreProject/goopts/commit/de668b5a220c8d875d3196506056e65251da6f4a">de668b5</a>: Fixed unit tests
-- <a href="https://github.com/TheManticoreProject/goopts/commit/089809d91a5e97196a43fa6082555a2a9be3c2c0">089809d</a>: Fixed unit tests
+- <a href="https://github.com/5250ng/5250ng/commit/7bbf150092a2dabed231c6d3ef80ca81879112d9">7bbf150</a>: Fixed compilation warnings
+- <a href="https://github.com/5250ng/5250ng/commit/f4abeafa97e503f9739d69b006a4b031bfbbfeaf">f4abeaf</a>: Fixed fond aspect ratio
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
