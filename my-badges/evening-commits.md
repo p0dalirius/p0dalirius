@@ -4,12 +4,12 @@
 
 Commits:
 
-- <a href="https://github.com/5250ng/5250ng/commit/4d7fba8fd37def57e7cdfa27d740ab7cac79b8c7">4d7fba8</a>
-- <a href="https://github.com/5250ng/5250ng/commit/a352f02e7b8907e0eaaa9d27d8e1619f26054b66">a352f02</a>
-- <a href="https://github.com/5250ng/5250ng/commit/ad491cbcb4a54d8020d03f90d20da5679911f2ed">ad491cb</a>
-- <a href="https://github.com/5250ng/5250ng/commit/9ee23710a1b5b06ba287bb63913b7680a9567de4">9ee2371</a>
-- <a href="https://github.com/5250ng/5250ng/commit/7bbf150092a2dabed231c6d3ef80ca81879112d9">7bbf150</a>
-- <a href="https://github.com/5250ng/5250ng/commit/f4abeafa97e503f9739d69b006a4b031bfbbfeaf">f4abeaf</a>
+- <a href="https://github.com/5250ng/5250ng/commit/9a9cba865177881695efe7460dc4d490bfd5e926">9a9cba8</a>
+- <a href="https://github.com/5250ng/5250ng/commit/ecdf11dcc2732ebba0c5341131b826e1123ab93f">ecdf11d</a>
+- <a href="https://github.com/5250ng/5250ng/commit/6bed93e155da75941d2c315ada3aba6f5d418ae4">6bed93e</a>
+- <a href="https://github.com/5250ng/5250ng/commit/6e0a1bc5375a8e692f61654f7efd9751bd36420f">6e0a1bc</a>
+- <a href="https://github.com/5250ng/5250ng/commit/63eafb21edd4bea34d37f103f8fb12db14cb2917">63eafb2</a>
+- <a href="https://github.com/5250ng/5250ng/commit/56088052126e777eeed3497fbdf29970663aadc8">5608805</a>
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>

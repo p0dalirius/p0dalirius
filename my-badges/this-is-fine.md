@@ -25,6 +25,11 @@ Pull requests:
 - <a href="https://github.com/5250ng/5250ng/pull/55">#55</a>: [enhancement] Improved settings UI
 - <a href="https://github.com/5250ng/5250ng/pull/56">#56</a>: Created an installer for windows
 - <a href="https://github.com/5250ng/5250ng/pull/57">#57</a>: [enhancement] Added PF13-PF24 function keys with Shift
+- <a href="https://github.com/5250ng/5250ng/pull/78">#78</a>: Fix SessionConfig::fromJson accepting out-of-range numeric values (#77)
+- <a href="https://github.com/5250ng/5250ng/pull/80">#80</a>: [bugfix] Fix submodule URLs use SSH breaking anonymous https clone (#79)
+- <a href="https://github.com/5250ng/5250ng/pull/68">#68</a>: [bugfix] Drop QIODevice::Text from MCP read_file and write_file (#65)
+- <a href="https://github.com/5250ng/5250ng/pull/71">#71</a>: [bugfix] Release session container on tab close (#69)
+- <a href="https://github.com/5250ng/5250ng/pull/72">#72</a>: [enhancement] Release agent panel collapsible block map on Clear (#70)
 - <a href="https://github.com/5250ng/5250ng/pull/2">#2</a>: [enhancement] Improve macros and scripts
 
 
