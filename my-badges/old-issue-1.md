@@ -10,6 +10,7 @@ Issues:
 - <a href="https://github.com/p0dalirius/ApacheTomcatScanner/issues/33">#33</a>: [bug] No such file or directory: '/usr/local/lib/python3.11/dist-packages/apachetomcatscanner/data/credentials.json'
 - <a href="https://github.com/p0dalirius/smbclient-ng/issues/108">#108</a>: [enhancement] Add a -k option to be able to pass a CCache file  
 - <a href="https://github.com/p0dalirius/smbclient-ng/issues/19">#19</a>: [bug] Autocompletion bug for folders when full name is not written
+- <a href="https://github.com/p0dalirius/ldapconsole/issues/15">#15</a>: [enhancement] Create a new command to export the results of the last query to JSON, XLSX, CSV
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>

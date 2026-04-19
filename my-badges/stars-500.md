@@ -57,6 +57,7 @@ Repos:
 * <a href="https://github.com/p0dalirius/sharpopengraph">p0dalirius/sharpopengraph: ★2</a>
 * <a href="https://github.com/Edr4/GLPI-RCE-Authenticated">Edr4/GLPI-RCE-Authenticated: ★1</a>
 * <a href="https://github.com/p0dalirius/shareql-vscode-ext">p0dalirius/shareql-vscode-ext: ★1</a>
+* <a href="https://github.com/5250ng/5250ng">5250ng/5250ng: ★1</a>
 
 <sup>I have push, maintainer or admin permissions, so I'm definitely an author.<sup>
 

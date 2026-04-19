@@ -15,6 +15,7 @@ Commits:
 - <a href="https://github.com/TheManticoreProject/winacl/commit/85268f676350d64352d51f461a9bf6a260a5e66b">85268f6</a>
 - <a href="https://github.com/TheManticoreProject/winacl/commit/028340e393170a56d5263f10c2d3ab68e6aebf42">028340e</a>
 - <a href="https://github.com/TheManticoreProject/winacl/commit/8a8dba8f73fe25536549d4865a898d76ea85e864">8a8dba8</a>
+- <a href="https://github.com/p0dalirius/ldapconsole/commit/ac5a06b31f75805cb8e1e9c1f5a749ef82baab22">ac5a06b</a>
 - <a href="https://github.com/p0dalirius/python_packages_paths/commit/010da56f04dd95d7bc536d3bab417b9a2918e035">010da56</a>
 - <a href="https://github.com/p0dalirius/python_packages_paths/commit/5e6f2d2cd010e13988d6cc8dd6479e7a4f2d5370">5e6f2d2</a>
 - <a href="https://github.com/p0dalirius/python_packages_paths/commit/99fec029bf9ea29fb53b2e56dbaff3154abe2f67">99fec02</a>

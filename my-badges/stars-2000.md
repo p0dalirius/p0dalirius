@@ -14,9 +14,9 @@ Repos:
 * <a href="https://github.com/Ruulian/CSPass">Ruulian/CSPass: ★44</a>
 * <a href="https://github.com/p0dalirius/Argon2Cracker">p0dalirius/Argon2Cracker: ★44</a>
 * <a href="https://github.com/p0dalirius/sectools">p0dalirius/sectools: ★42</a>
+* <a href="https://github.com/TheManticoreProject/winacl">TheManticoreProject/winacl: ★42</a>
 * <a href="https://github.com/p0dalirius/Moodle-webshell-plugin">p0dalirius/Moodle-webshell-plugin: ★41</a>
 * <a href="https://github.com/p0dalirius/GhostSPN">p0dalirius/GhostSPN: ★41</a>
-* <a href="https://github.com/TheManticoreProject/winacl">TheManticoreProject/winacl: ★41</a>
 * <a href="https://github.com/p0dalirius/FindProcessesWithNamedPipes">p0dalirius/FindProcessesWithNamedPipes: ★40</a>
 * <a href="https://github.com/p0dalirius/DomainUsersToXLSX">p0dalirius/DomainUsersToXLSX: ★38</a>
 * <a href="https://github.com/p0dalirius/WifiListProbeRequests">p0dalirius/WifiListProbeRequests: ★37</a>
@@ -102,6 +102,7 @@ Repos:
 * <a href="https://github.com/p0dalirius/sharpopengraph">p0dalirius/sharpopengraph: ★2</a>
 * <a href="https://github.com/Edr4/GLPI-RCE-Authenticated">Edr4/GLPI-RCE-Authenticated: ★1</a>
 * <a href="https://github.com/p0dalirius/shareql-vscode-ext">p0dalirius/shareql-vscode-ext: ★1</a>
+* <a href="https://github.com/5250ng/5250ng">5250ng/5250ng: ★1</a>
 
 <sup>I have push, maintainer or admin permissions, so I'm definitely an author.<sup>
 
