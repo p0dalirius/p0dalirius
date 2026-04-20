@@ -28,6 +28,7 @@ Pull requests:
 - <a href="https://github.com/5250ng/5250ng/pull/78">#78</a>: Fix SessionConfig::fromJson accepting out-of-range numeric values (#77)
 - <a href="https://github.com/5250ng/5250ng/pull/80">#80</a>: [bugfix] Fix submodule URLs use SSH breaking anonymous https clone (#79)
 - <a href="https://github.com/TheManticoreProject/Manticore/pull/100">#100</a>: Fix placeholder passwords being sent in plaintext SMB1 auth path (#93)
+- <a href="https://github.com/5250ng/5250ng/pull/84">#84</a>: [enhancement] Document git clone command in Linux build instructions (#83)
 - <a href="https://github.com/5250ng/5250ng/pull/68">#68</a>: [bugfix] Drop QIODevice::Text from MCP read_file and write_file (#65)
 - <a href="https://github.com/5250ng/5250ng/pull/71">#71</a>: [bugfix] Release session container on tab close (#69)
 - <a href="https://github.com/5250ng/5250ng/pull/72">#72</a>: [enhancement] Release agent panel collapsible block map on Clear (#70)

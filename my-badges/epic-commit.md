@@ -4,6 +4,7 @@
 
 Commits:
 
+- <a href="https://github.com/5250ng/5250ng/commit/6337c549a97dc02071864270d079b6c23bc7822a">6337c54</a>
 - <a href="https://github.com/5250ng/5250ng/commit/765fbc2c6e941096779999544b7d955b64fc82d3">765fbc2</a>
 - <a href="https://github.com/5250ng/5250ng/commit/73398b3add5fc5a46a70cdcdbae5a4b75e327cc2">73398b3</a>
 - <a href="https://github.com/5250ng/5250ng/commit/851b5719e5214385f5b51d8816f8210203d198ad">851b571</a>
