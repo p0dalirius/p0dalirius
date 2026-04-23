@@ -49,6 +49,7 @@ Pull requests:
 - <a href="https://github.com/TheManticoreProject/FindAsreproastables/pull/14">#14</a>: [bug] Fix GetAsreproastables rebinding and closing the caller's session (#13)
 - <a href="https://github.com/TheManticoreProject/FindAsreproastables/pull/16">#16</a>: Fix unused printSPNs variable and stale --print-spns in README (#15)
 - <a href="https://github.com/5250ng/5250ng/pull/96">#96</a>: [bugfix] Fix stale connect-timeout lambda aborting later TN5250 reconnects (#95)
+- <a href="https://github.com/5250ng/5250ng/pull/98">#98</a>: [bugfix] Fix stray std::cout from tn5250 WTD unmarshal by bumping submodule (#97)
 - <a href="https://github.com/5250ng/5250ng/pull/68">#68</a>: [bugfix] Drop QIODevice::Text from MCP read_file and write_file (#65)
 - <a href="https://github.com/5250ng/5250ng/pull/71">#71</a>: [bugfix] Release session container on tab close (#69)
 - <a href="https://github.com/5250ng/5250ng/pull/72">#72</a>: [enhancement] Release agent panel collapsible block map on Clear (#70)
