@@ -52,8 +52,8 @@ Repos:
 * <a href="https://github.com/p0dalirius/hexcat">p0dalirius/hexcat: ★11</a>
 * <a href="https://github.com/TheManticoreProject/goopts">TheManticoreProject/goopts: ★11</a>
 * <a href="https://github.com/p0dalirius/linux-kernels">p0dalirius/linux-kernels: ★10</a>
+* <a href="https://github.com/p0dalirius/Windows-Hardening">p0dalirius/Windows-Hardening: ★10</a>
 * <a href="https://github.com/TheManticoreProject/keytab">TheManticoreProject/keytab: ★10</a>
-* <a href="https://github.com/p0dalirius/Windows-Hardening">p0dalirius/Windows-Hardening: ★9</a>
 * <a href="https://github.com/pwnwithlove/conf-steakoverlow-2022">pwnwithlove/conf-steakoverlow-2022: ★9</a>
 * <a href="https://github.com/TheManticoreProject/FindReusedKeyCredentials">TheManticoreProject/FindReusedKeyCredentials: ★9</a>
 * <a href="https://github.com/p0dalirius/AutoType">p0dalirius/AutoType: ★9</a>

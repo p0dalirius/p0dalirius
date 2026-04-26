@@ -35,13 +35,13 @@ Repos:
 * <a href="https://github.com/TheManticoreProject/DescribeNTSecurityDescriptor">TheManticoreProject/DescribeNTSecurityDescriptor: ★48</a>
 * <a href="https://github.com/p0dalirius/robotstester">p0dalirius/robotstester: ★47</a>
 * <a href="https://github.com/p0dalirius/CVE-2022-45771-Pwndoc-LFI-to-RCE">p0dalirius/CVE-2022-45771-Pwndoc-LFI-to-RCE: ★47</a>
+* <a href="https://github.com/p0dalirius/Argon2Cracker">p0dalirius/Argon2Cracker: ★45</a>
 * <a href="https://github.com/Ruulian/CSPass">Ruulian/CSPass: ★44</a>
-* <a href="https://github.com/p0dalirius/Argon2Cracker">p0dalirius/Argon2Cracker: ★44</a>
 * <a href="https://github.com/p0dalirius/sectools">p0dalirius/sectools: ★42</a>
 * <a href="https://github.com/TheManticoreProject/winacl">TheManticoreProject/winacl: ★42</a>
 * <a href="https://github.com/p0dalirius/Moodle-webshell-plugin">p0dalirius/Moodle-webshell-plugin: ★41</a>
 * <a href="https://github.com/p0dalirius/GhostSPN">p0dalirius/GhostSPN: ★41</a>
-* <a href="https://github.com/p0dalirius/FindProcessesWithNamedPipes">p0dalirius/FindProcessesWithNamedPipes: ★40</a>
+* <a href="https://github.com/p0dalirius/FindProcessesWithNamedPipes">p0dalirius/FindProcessesWithNamedPipes: ★41</a>
 * <a href="https://github.com/p0dalirius/DomainUsersToXLSX">p0dalirius/DomainUsersToXLSX: ★38</a>
 * <a href="https://github.com/p0dalirius/WifiListProbeRequests">p0dalirius/WifiListProbeRequests: ★37</a>
 * <a href="https://github.com/p0dalirius/p0dalirius">p0dalirius/p0dalirius: ★34</a>
@@ -100,8 +100,8 @@ Repos:
 * <a href="https://github.com/p0dalirius/hexcat">p0dalirius/hexcat: ★11</a>
 * <a href="https://github.com/TheManticoreProject/goopts">TheManticoreProject/goopts: ★11</a>
 * <a href="https://github.com/p0dalirius/linux-kernels">p0dalirius/linux-kernels: ★10</a>
+* <a href="https://github.com/p0dalirius/Windows-Hardening">p0dalirius/Windows-Hardening: ★10</a>
 * <a href="https://github.com/TheManticoreProject/keytab">TheManticoreProject/keytab: ★10</a>
-* <a href="https://github.com/p0dalirius/Windows-Hardening">p0dalirius/Windows-Hardening: ★9</a>
 * <a href="https://github.com/pwnwithlove/conf-steakoverlow-2022">pwnwithlove/conf-steakoverlow-2022: ★9</a>
 * <a href="https://github.com/TheManticoreProject/FindReusedKeyCredentials">TheManticoreProject/FindReusedKeyCredentials: ★9</a>
 * <a href="https://github.com/p0dalirius/AutoType">p0dalirius/AutoType: ★9</a>
