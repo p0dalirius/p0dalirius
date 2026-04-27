@@ -8,7 +8,7 @@ Repos:
 * <a href="https://github.com/p0dalirius/bhopengraph">p0dalirius/bhopengraph: ★60</a>
 * <a href="https://github.com/p0dalirius/volatility2-profiles">p0dalirius/volatility2-profiles: ★53</a>
 * <a href="https://github.com/p0dalirius/microsoft-rpc-fuzzing-tools">p0dalirius/microsoft-rpc-fuzzing-tools: ★51</a>
-* <a href="https://github.com/TheManticoreProject/DescribeNTSecurityDescriptor">TheManticoreProject/DescribeNTSecurityDescriptor: ★48</a>
+* <a href="https://github.com/TheManticoreProject/DescribeNTSecurityDescriptor">TheManticoreProject/DescribeNTSecurityDescriptor: ★49</a>
 * <a href="https://github.com/p0dalirius/robotstester">p0dalirius/robotstester: ★47</a>
 * <a href="https://github.com/p0dalirius/CVE-2022-45771-Pwndoc-LFI-to-RCE">p0dalirius/CVE-2022-45771-Pwndoc-LFI-to-RCE: ★47</a>
 * <a href="https://github.com/p0dalirius/Argon2Cracker">p0dalirius/Argon2Cracker: ★45</a>
@@ -27,7 +27,7 @@ Repos:
 * <a href="https://github.com/p0dalirius/TargetAllDomainObjects">p0dalirius/TargetAllDomainObjects: ★31</a>
 * <a href="https://github.com/p0dalirius/MSRPRN-Coerce">p0dalirius/MSRPRN-Coerce: ★31</a>
 * <a href="https://github.com/p0dalirius/CVE-2020-14144-GiTea-git-hooks-rce">p0dalirius/CVE-2020-14144-GiTea-git-hooks-rce: ★31</a>
-* <a href="https://github.com/p0dalirius/pyDescribeNTSecurityDescriptor">p0dalirius/pyDescribeNTSecurityDescriptor: ★29</a>
+* <a href="https://github.com/p0dalirius/pyDescribeNTSecurityDescriptor">p0dalirius/pyDescribeNTSecurityDescriptor: ★30</a>
 * <a href="https://github.com/p0dalirius/AccountShadowTakeover">p0dalirius/AccountShadowTakeover: ★28</a>
 * <a href="https://github.com/p0dalirius/Hashes-Harvester">p0dalirius/Hashes-Harvester: ★27</a>
 * <a href="https://github.com/p0dalirius/pySprayer">p0dalirius/pySprayer: ★27</a>
