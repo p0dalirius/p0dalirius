@@ -4,6 +4,8 @@
 
 Commits:
 
+- <a href="https://github.com/p0dalirius/ZuluSCSI-firmware/commit/52a23422071b83e40a88a72f6147fc5ad733f0ed">52a2342</a>
+- <a href="https://github.com/p0dalirius/ZuluSCSI-firmware/commit/d3cfe7067556ceafa1eb9b2334543bfebd250a8e">d3cfe70</a>
 - <a href="https://github.com/p0dalirius/ZuluSCSI-firmware/commit/77b203f118ce74453a5e1364dcd2f545aa765634">77b203f</a>
 - <a href="https://github.com/p0dalirius/ZuluSCSI-firmware/commit/5e77a1b237c914b02a642b0ce4592d424de142a6">5e77a1b</a>
 - <a href="https://github.com/p0dalirius/ZuluSCSI-firmware/commit/c73f394aadc5965d9684a67859147073d2837e15">c73f394</a>
