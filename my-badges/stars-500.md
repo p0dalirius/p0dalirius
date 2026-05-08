@@ -13,8 +13,8 @@ Repos:
 * <a href="https://github.com/p0dalirius/CodeIgniter-session-unsign">p0dalirius/CodeIgniter-session-unsign: ★16</a>
 * <a href="https://github.com/p0dalirius/ListValidGSuiteEmails">p0dalirius/ListValidGSuiteEmails: ★16</a>
 * <a href="https://github.com/TheManticoreProject/SIDTool">TheManticoreProject/SIDTool: ★16</a>
+* <a href="https://github.com/p0dalirius/pdbdownload">p0dalirius/pdbdownload: ★16</a>
 * <a href="https://github.com/p0dalirius/gitea-extract-users">p0dalirius/gitea-extract-users: ★15</a>
-* <a href="https://github.com/p0dalirius/pdbdownload">p0dalirius/pdbdownload: ★15</a>
 * <a href="https://github.com/p0dalirius/CVE-2022-26159-Ametys-Autocompletion-XML">p0dalirius/CVE-2022-26159-Ametys-Autocompletion-XML: ★14</a>
 * <a href="https://github.com/p0dalirius/JoGet-webshell-plugin">p0dalirius/JoGet-webshell-plugin: ★14</a>
 * <a href="https://github.com/p0dalirius/shareql">p0dalirius/shareql: ★14</a>
@@ -57,6 +57,7 @@ Repos:
 * <a href="https://github.com/p0dalirius/ReflectArguments">p0dalirius/ReflectArguments: ★2</a>
 * <a href="https://github.com/Edr4/GLPI-RCE-Authenticated">Edr4/GLPI-RCE-Authenticated: ★1</a>
 * <a href="https://github.com/p0dalirius/shareql-vscode-ext">p0dalirius/shareql-vscode-ext: ★1</a>
+* <a href="https://github.com/p0dalirius/Shift-Happens-Uncovering-to-builtin-command-injection-in-Windows-context-menus">p0dalirius/Shift-Happens-Uncovering-to-builtin-command-injection-in-Windows-context-menus: ★1</a>
 
 <sup>I have push, maintainer or admin permissions, so I'm definitely an author.<sup>
 

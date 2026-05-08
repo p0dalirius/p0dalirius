@@ -27,6 +27,7 @@ Repos:
 * <a href="https://github.com/p0dalirius/ReflectArguments">p0dalirius/ReflectArguments: ★2</a>
 * <a href="https://github.com/Edr4/GLPI-RCE-Authenticated">Edr4/GLPI-RCE-Authenticated: ★1</a>
 * <a href="https://github.com/p0dalirius/shareql-vscode-ext">p0dalirius/shareql-vscode-ext: ★1</a>
+* <a href="https://github.com/p0dalirius/Shift-Happens-Uncovering-to-builtin-command-injection-in-Windows-context-menus">p0dalirius/Shift-Happens-Uncovering-to-builtin-command-injection-in-Windows-context-menus: ★1</a>
 
 <sup>I have push, maintainer or admin permissions, so I'm definitely an author.<sup>
 
