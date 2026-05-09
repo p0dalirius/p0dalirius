@@ -12,6 +12,8 @@ Commits:
 - <a href="https://github.com/p0dalirius/ZuluSCSI-firmware/commit/c73f394aadc5965d9684a67859147073d2837e15">c73f394</a>
 - <a href="https://github.com/p0dalirius/ZuluSCSI-firmware/commit/77b4fccb59ff1896999aa5bc0c2c5bc16e842004">77b4fcc</a>
 - <a href="https://github.com/p0dalirius/ZuluSCSI-firmware/commit/dac8f52a7cf9cc168d7517b9206ee849d3b947ff">dac8f52</a>
+- <a href="https://github.com/5250ng/5250ng/commit/5da6c469e5b4136295573ccdb6fb391839c27f0b">5da6c46</a>
+- <a href="https://github.com/5250ng/5250ng/commit/9c9bd5998cf44098691f388fa97f42dde0d15a2e">9c9bd59</a>
 - <a href="https://github.com/5250ng/5250ng/commit/01696479421ff035c49b53e592f05ebf7aefd368">0169647</a>
 - <a href="https://github.com/5250ng/5250ng/commit/653c4526aafc63d72785db332d6656a41ba5684f">653c452</a>
 - <a href="https://github.com/5250ng/5250ng/commit/40575dcc7089850e25c7bc2c60ff86dc19e19e4f">40575dc</a>
