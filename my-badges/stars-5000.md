@@ -14,7 +14,7 @@ Repos:
 * <a href="https://github.com/p0dalirius/Tomcat-webshell-application">p0dalirius/Tomcat-webshell-application: ★133</a>
 * <a href="https://github.com/p0dalirius/MSSQL-Analysis-Coerce">p0dalirius/MSSQL-Analysis-Coerce: ★133</a>
 * <a href="https://github.com/p0dalirius/pyLAPS">p0dalirius/pyLAPS: ★131</a>
-* <a href="https://github.com/p0dalirius/pyPDBdownload">p0dalirius/pyPDBdownload: ★129</a>
+* <a href="https://github.com/p0dalirius/pyPDBdownload">p0dalirius/pyPDBdownload: ★130</a>
 * <a href="https://github.com/p0dalirius/FindUnusualSessions">p0dalirius/FindUnusualSessions: ★121</a>
 * <a href="https://github.com/p0dalirius/RDWAtool">p0dalirius/RDWAtool: ★119</a>
 * <a href="https://github.com/p0dalirius/CVE-2022-36446-Webmin-Software-Package-Updates-RCE">p0dalirius/CVE-2022-36446-Webmin-Software-Package-Updates-RCE: ★116</a>
@@ -80,10 +80,10 @@ Repos:
 * <a href="https://github.com/TheManticoreProject/goLAPS">TheManticoreProject/goLAPS: ★17</a>
 * <a href="https://github.com/p0dalirius/pyDescribeSDDL">p0dalirius/pyDescribeSDDL: ★17</a>
 * <a href="https://github.com/TheManticoreProject/SIDTool">TheManticoreProject/SIDTool: ★17</a>
+* <a href="https://github.com/p0dalirius/pdbdownload">p0dalirius/pdbdownload: ★17</a>
 * <a href="https://github.com/p0dalirius/http-fuzzing-scripts">p0dalirius/http-fuzzing-scripts: ★16</a>
 * <a href="https://github.com/p0dalirius/CodeIgniter-session-unsign">p0dalirius/CodeIgniter-session-unsign: ★16</a>
 * <a href="https://github.com/p0dalirius/ListValidGSuiteEmails">p0dalirius/ListValidGSuiteEmails: ★16</a>
-* <a href="https://github.com/p0dalirius/pdbdownload">p0dalirius/pdbdownload: ★16</a>
 * <a href="https://github.com/p0dalirius/gitea-extract-users">p0dalirius/gitea-extract-users: ★15</a>
 * <a href="https://github.com/p0dalirius/CVE-2022-26159-Ametys-Autocompletion-XML">p0dalirius/CVE-2022-26159-Ametys-Autocompletion-XML: ★14</a>
 * <a href="https://github.com/p0dalirius/JoGet-webshell-plugin">p0dalirius/JoGet-webshell-plugin: ★14</a>
