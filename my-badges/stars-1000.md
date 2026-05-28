@@ -64,11 +64,11 @@ Repos:
 * <a href="https://github.com/p0dalirius/CpuCoresTemperatureGraph">p0dalirius/CpuCoresTemperatureGraph: ★7</a>
 * <a href="https://github.com/p0dalirius/securityscripts">p0dalirius/securityscripts: ★6</a>
 * <a href="https://github.com/p0dalirius/stackdumper">p0dalirius/stackdumper: ★6</a>
+* <a href="https://github.com/5250ng/5250ng">5250ng/5250ng: ★6</a>
 * <a href="https://github.com/p0dalirius/sql-injections-with-raw-hashes">p0dalirius/sql-injections-with-raw-hashes: ★5</a>
 * <a href="https://github.com/p0dalirius/SortPEbyVersions">p0dalirius/SortPEbyVersions: ★5</a>
 * <a href="https://github.com/p0dalirius/a-simple-tcp-honeypot">p0dalirius/a-simple-tcp-honeypot: ★5</a>
 * <a href="https://github.com/p0dalirius/docker-sagemath">p0dalirius/docker-sagemath: ★5</a>
-* <a href="https://github.com/5250ng/5250ng">5250ng/5250ng: ★5</a>
 * <a href="https://github.com/p0dalirius/RpcCoerceTemplateCpp">p0dalirius/RpcCoerceTemplateCpp: ★4</a>
 * <a href="https://github.com/p0dalirius/python-link-shortener">p0dalirius/python-link-shortener: ★3</a>
 * <a href="https://github.com/TheManticoreProject/DescribeKeyCredentialLink">TheManticoreProject/DescribeKeyCredentialLink: ★3</a>
