@@ -18,8 +18,8 @@ Repos:
 * <a href="https://github.com/p0dalirius/sectools">p0dalirius/sectools: ★42</a>
 * <a href="https://github.com/TheManticoreProject/winacl">TheManticoreProject/winacl: ★42</a>
 * <a href="https://github.com/p0dalirius/FindProcessesWithNamedPipes">p0dalirius/FindProcessesWithNamedPipes: ★42</a>
-* <a href="https://github.com/p0dalirius/DomainUsersToXLSX">p0dalirius/DomainUsersToXLSX: ★38</a>
-* <a href="https://github.com/p0dalirius/WifiListProbeRequests">p0dalirius/WifiListProbeRequests: ★37</a>
+* <a href="https://github.com/p0dalirius/DomainUsersToXLSX">p0dalirius/DomainUsersToXLSX: ★39</a>
+* <a href="https://github.com/p0dalirius/WifiListProbeRequests">p0dalirius/WifiListProbeRequests: ★38</a>
 * <a href="https://github.com/p0dalirius/p0dalirius">p0dalirius/p0dalirius: ★34</a>
 * <a href="https://github.com/p0dalirius/GetFortinetSerialNumber">p0dalirius/GetFortinetSerialNumber: ★34</a>
 * <a href="https://github.com/p0dalirius/crEAP">p0dalirius/crEAP: ★33</a>
@@ -30,9 +30,9 @@ Repos:
 * <a href="https://github.com/p0dalirius/pyDescribeNTSecurityDescriptor">p0dalirius/pyDescribeNTSecurityDescriptor: ★30</a>
 * <a href="https://github.com/p0dalirius/AccountShadowTakeover">p0dalirius/AccountShadowTakeover: ★28</a>
 * <a href="https://github.com/p0dalirius/Hashes-Harvester">p0dalirius/Hashes-Harvester: ★27</a>
-* <a href="https://github.com/p0dalirius/pySprayer">p0dalirius/pySprayer: ★27</a>
 * <a href="https://github.com/ShutdownRepo/Get-GPPPassword">ShutdownRepo/Get-GPPPassword: ★26</a>
 * <a href="https://github.com/p0dalirius/crawlersuseragents">p0dalirius/crawlersuseragents: ★26</a>
+* <a href="https://github.com/p0dalirius/pySprayer">p0dalirius/pySprayer: ★26</a>
 * <a href="https://github.com/p0dalirius/docker-volatility2">p0dalirius/docker-volatility2: ★26</a>
 * <a href="https://github.com/p0dalirius/msFlagsDecoder">p0dalirius/msFlagsDecoder: ★25</a>
 * <a href="https://github.com/p0dalirius/CVE-2018-16763-FuelCMS-1.4.1-RCE">p0dalirius/CVE-2018-16763-FuelCMS-1.4.1-RCE: ★25</a>
@@ -71,12 +71,12 @@ Repos:
 * <a href="https://github.com/p0dalirius/CrackedNTDStoXLSX">p0dalirius/CrackedNTDStoXLSX: ★12</a>
 * <a href="https://github.com/p0dalirius/UsersWithPwdLastSetOlderThan">p0dalirius/UsersWithPwdLastSetOlderThan: ★12</a>
 * <a href="https://github.com/TheManticoreProject/keytab">TheManticoreProject/keytab: ★12</a>
+* <a href="https://github.com/p0dalirius/Shift-Happens-Uncovering-to-builtin-command-injection-in-Windows-context-menus">p0dalirius/Shift-Happens-Uncovering-to-builtin-command-injection-in-Windows-context-menus: ★12</a>
 * <a href="https://github.com/p0dalirius/python_packages_paths">p0dalirius/python_packages_paths: ★11</a>
 * <a href="https://github.com/p0dalirius/streamableDownloader">p0dalirius/streamableDownloader: ★11</a>
 * <a href="https://github.com/p0dalirius/CVE-2021-31800-Impacket-SMB-Server-Arbitrary-file-read-write">p0dalirius/CVE-2021-31800-Impacket-SMB-Server-Arbitrary-file-read-write: ★11</a>
 * <a href="https://github.com/p0dalirius/hexcat">p0dalirius/hexcat: ★11</a>
 * <a href="https://github.com/TheManticoreProject/goopts">TheManticoreProject/goopts: ★11</a>
-* <a href="https://github.com/p0dalirius/Shift-Happens-Uncovering-to-builtin-command-injection-in-Windows-context-menus">p0dalirius/Shift-Happens-Uncovering-to-builtin-command-injection-in-Windows-context-menus: ★11</a>
 * <a href="https://github.com/p0dalirius/linux-kernels">p0dalirius/linux-kernels: ★10</a>
 * <a href="https://github.com/p0dalirius/Windows-Hardening">p0dalirius/Windows-Hardening: ★10</a>
 * <a href="https://github.com/pwnwithlove/conf-steakoverlow-2022">pwnwithlove/conf-steakoverlow-2022: ★9</a>
