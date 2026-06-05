@@ -27,13 +27,13 @@ Pull requests:
 - <a href="https://github.com/5250ng/5250ng/pull/57">#57</a>: [enhancement] Added PF13-PF24 function keys with Shift
 - <a href="https://github.com/5250ng/5250ng/pull/78">#78</a>: Fix SessionConfig::fromJson accepting out-of-range numeric values (#77)
 - <a href="https://github.com/5250ng/5250ng/pull/80">#80</a>: [bugfix] Fix submodule URLs use SSH breaking anonymous https clone (#79)
-- <a href="https://github.com/TheManticoreProject/Manticore/pull/100">#100</a>: Fix placeholder passwords being sent in plaintext SMB1 auth path (#93)
+- <a href="https://github.com/TheManticoreProject/Manticore/pull/100">#100</a>: [bugfix] Fix placeholder passwords being sent in plaintext SMB1 auth path (#93)
 - <a href="https://github.com/5250ng/5250ng/pull/84">#84</a>: [enhancement] Document git clone command in Linux build instructions (#83)
 - <a href="https://github.com/5250ng/5250ng/pull/86">#86</a>: [enhancement] Add virtual 5250 keyboard with user-configurable key remapping (#85)
 - <a href="https://github.com/TheManticoreProject/Manticore/pull/108">#108</a>: [enhancement] Moved kerberos to v5
-- <a href="https://github.com/TheManticoreProject/Manticore/pull/112">#112</a>: Fix APReq.Unmarshal double-wrapping of ticket bytes (#111)
-- <a href="https://github.com/TheManticoreProject/Manticore/pull/114">#114</a>: Fix RC4-HMAC usage 9 remap violating RFC 4757 errata (#113)
-- <a href="https://github.com/TheManticoreProject/Manticore/pull/118">#118</a>: Add TGSRep.TicketRaw and expose raw service ticket bytes from GetTGS (#117)
+- <a href="https://github.com/TheManticoreProject/Manticore/pull/112">#112</a>: [bugfix] Fix APReq.Unmarshal double-wrapping of ticket bytes (#111)
+- <a href="https://github.com/TheManticoreProject/Manticore/pull/114">#114</a>: [bugfix] Fix RC4-HMAC usage 9 remap violating RFC 4757 errata (#113)
+- <a href="https://github.com/TheManticoreProject/Manticore/pull/118">#118</a>: [enhancement] Add TGSRep.TicketRaw and expose raw service ticket bytes from GetTGS (#117)
 - <a href="https://github.com/5250ng/5250ng/pull/94">#94</a>: [bugfix] Fix Logger::setLogFile leaving m_logStream dangling on reopen failure (#93)
 - <a href="https://github.com/TheManticoreProject/FindKerberoastables/pull/2">#2</a>: [bug] Fix CI workflows binary name and build path (#1)
 - <a href="https://github.com/TheManticoreProject/FindKerberoastables/pull/4">#4</a>: [bug] Fix duplicate -d short flag by removing it from --debug (#3)
