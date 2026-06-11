@@ -7,6 +7,7 @@ I use words like "thanks" and "please" in my issues:
 - <a href="https://github.com/jfjallid/go-smb/issues/16">#16</a>: [enhancement] Adding SMBv1 support
 - <a href="https://github.com/p0dalirius/ApacheTomcatScanner/issues/38">#38</a>: [bug] setuptools CANNOT consider this value unless `scripts` is listed as `dynamic`.
 - <a href="https://github.com/go-ldap/ldap/issues/536">#536</a>: [bug] Could not make a working code example on connecting to LDAP with Kerberos from a linux machine to a Windows Server
+- <a href="https://github.com/5250ng/5250ng/issues/136">#136</a>: HAVE_QT6_SSL is never defined: all TLS code paths are compiled out of every build
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
