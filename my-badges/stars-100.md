@@ -18,8 +18,8 @@ Repos:
 * <a href="https://github.com/p0dalirius/a-simple-tcp-honeypot">p0dalirius/a-simple-tcp-honeypot: ★5</a>
 * <a href="https://github.com/p0dalirius/docker-sagemath">p0dalirius/docker-sagemath: ★5</a>
 * <a href="https://github.com/p0dalirius/RpcCoerceTemplateCpp">p0dalirius/RpcCoerceTemplateCpp: ★4</a>
+* <a href="https://github.com/TheManticoreProject/DescribeKeyCredentialLink">TheManticoreProject/DescribeKeyCredentialLink: ★4</a>
 * <a href="https://github.com/p0dalirius/python-link-shortener">p0dalirius/python-link-shortener: ★3</a>
-* <a href="https://github.com/TheManticoreProject/DescribeKeyCredentialLink">TheManticoreProject/DescribeKeyCredentialLink: ★3</a>
 * <a href="https://github.com/p0dalirius/FindStringInRegistry">p0dalirius/FindStringInRegistry: ★3</a>
 * <a href="https://github.com/p0dalirius/sharpopengraph">p0dalirius/sharpopengraph: ★3</a>
 * <a href="https://github.com/p0dalirius/sqli-dichotomic-search">p0dalirius/sqli-dichotomic-search: ★2</a>

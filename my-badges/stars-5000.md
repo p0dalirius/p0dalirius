@@ -68,11 +68,11 @@ Repos:
 * <a href="https://github.com/p0dalirius/pwndocapi">p0dalirius/pwndocapi: ★23</a>
 * <a href="https://github.com/p0dalirius/LimeSurvey-webshell-plugin">p0dalirius/LimeSurvey-webshell-plugin: ★23</a>
 * <a href="https://github.com/p0dalirius/windows-cryptographic-and-hashing-algorithms-explained">p0dalirius/windows-cryptographic-and-hashing-algorithms-explained: ★23</a>
-* <a href="https://github.com/p0dalirius/Joomla-1.6-1.7-2.5-Privilege-Escalation-Vulnerability">p0dalirius/Joomla-1.6-1.7-2.5-Privilege-Escalation-Vulnerability: ★22</a>
 * <a href="https://github.com/p0dalirius/win32errorcodes">p0dalirius/win32errorcodes: ★22</a>
 * <a href="https://github.com/p0dalirius/FindAzureDomainTenant">p0dalirius/FindAzureDomainTenant: ★22</a>
 * <a href="https://github.com/p0dalirius/CVE-2016-10956-mail-masta">p0dalirius/CVE-2016-10956-mail-masta: ★21</a>
 * <a href="https://github.com/p0dalirius/wav2mmv">p0dalirius/wav2mmv: ★21</a>
+* <a href="https://github.com/p0dalirius/Joomla-1.6-1.7-2.5-Privilege-Escalation-Vulnerability">p0dalirius/Joomla-1.6-1.7-2.5-Privilege-Escalation-Vulnerability: ★21</a>
 * <a href="https://github.com/p0dalirius/ParseFortinetSerialNumber">p0dalirius/ParseFortinetSerialNumber: ★19</a>
 * <a href="https://github.com/p0dalirius/WindowsBuilds">p0dalirius/WindowsBuilds: ★19</a>
 * <a href="https://github.com/p0dalirius/pySortWindowsISOs">p0dalirius/pySortWindowsISOs: ★17</a>
@@ -91,10 +91,10 @@ Repos:
 * <a href="https://github.com/Ooggle/shellcoding-companion">Ooggle/shellcoding-companion: ★13</a>
 * <a href="https://github.com/p0dalirius/mercurial-scm-extract">p0dalirius/mercurial-scm-extract: ★13</a>
 * <a href="https://github.com/p0dalirius/SymfonyDumpSource">p0dalirius/SymfonyDumpSource: ★13</a>
+* <a href="https://github.com/TheManticoreProject/keytab">TheManticoreProject/keytab: ★13</a>
 * <a href="https://github.com/p0dalirius/factorizator">p0dalirius/factorizator: ★12</a>
 * <a href="https://github.com/p0dalirius/CrackedNTDStoXLSX">p0dalirius/CrackedNTDStoXLSX: ★12</a>
 * <a href="https://github.com/p0dalirius/UsersWithPwdLastSetOlderThan">p0dalirius/UsersWithPwdLastSetOlderThan: ★12</a>
-* <a href="https://github.com/TheManticoreProject/keytab">TheManticoreProject/keytab: ★12</a>
 * <a href="https://github.com/p0dalirius/python_packages_paths">p0dalirius/python_packages_paths: ★11</a>
 * <a href="https://github.com/p0dalirius/streamableDownloader">p0dalirius/streamableDownloader: ★11</a>
 * <a href="https://github.com/p0dalirius/CVE-2021-31800-Impacket-SMB-Server-Arbitrary-file-read-write">p0dalirius/CVE-2021-31800-Impacket-SMB-Server-Arbitrary-file-read-write: ★11</a>
@@ -119,8 +119,8 @@ Repos:
 * <a href="https://github.com/p0dalirius/a-simple-tcp-honeypot">p0dalirius/a-simple-tcp-honeypot: ★5</a>
 * <a href="https://github.com/p0dalirius/docker-sagemath">p0dalirius/docker-sagemath: ★5</a>
 * <a href="https://github.com/p0dalirius/RpcCoerceTemplateCpp">p0dalirius/RpcCoerceTemplateCpp: ★4</a>
+* <a href="https://github.com/TheManticoreProject/DescribeKeyCredentialLink">TheManticoreProject/DescribeKeyCredentialLink: ★4</a>
 * <a href="https://github.com/p0dalirius/python-link-shortener">p0dalirius/python-link-shortener: ★3</a>
-* <a href="https://github.com/TheManticoreProject/DescribeKeyCredentialLink">TheManticoreProject/DescribeKeyCredentialLink: ★3</a>
 * <a href="https://github.com/p0dalirius/FindStringInRegistry">p0dalirius/FindStringInRegistry: ★3</a>
 * <a href="https://github.com/p0dalirius/sharpopengraph">p0dalirius/sharpopengraph: ★3</a>
 * <a href="https://github.com/p0dalirius/sqli-dichotomic-search">p0dalirius/sqli-dichotomic-search: ★2</a>
