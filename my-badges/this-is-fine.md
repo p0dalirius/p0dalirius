@@ -53,6 +53,14 @@ Pull requests:
 - <a href="https://github.com/5250ng/5250ng/pull/105">#105</a>: [bugfix] Fix garbled document-editor screen by bumping tn5250 submodule (#103)
 - <a href="https://github.com/TheManticoreProject/Manticore/pull/461">#461</a>: Fix GetRemoteServerTime returning the zero time (#382)
 - <a href="https://github.com/TheManticoreProject/Manticore/pull/535">#535</a>: SMB2: QUERY_INFO/SET_INFO + file management, and MS-FSCC structures (#534)
+- <a href="https://github.com/TheManticoreProject/Manticore/pull/719">#719</a>: Add ESE/JET-Blue database reader (windows/database/ese) (#709)
+- <a href="https://github.com/TheManticoreProject/Manticore/pull/720">#720</a>: Add offline NTDS.dit account dumping (windows/database/ntds) (#709)
+- <a href="https://github.com/TheManticoreProject/Manticore/pull/722">#722</a>: Fix NTDS RID byte order and filter to real accounts (#721)
+- <a href="https://github.com/TheManticoreProject/Manticore/pull/723">#723</a>: Add ESE long-value (LV) reassembly (windows/database/ese)
+- <a href="https://github.com/TheManticoreProject/Manticore/pull/724">#724</a>: Rework logger on log/slog: levels, with/without timestamps, no-colors, file tee
+- <a href="https://github.com/TheManticoreProject/Manticore/pull/725">#725</a>: Migrate LLMNR server logging to the new logger API
+- <a href="https://github.com/TheManticoreProject/Manticore/pull/726">#726</a>: Auto-disable logger colours when the output is not a terminal
+- <a href="https://github.com/TheManticoreProject/Manticore/pull/727">#727</a>: Migrate last legacy logger call site to new Warnf API
 - <a href="https://github.com/5250ng/5250ng/pull/68">#68</a>: [bugfix] Drop QIODevice::Text from MCP read_file and write_file (#65)
 - <a href="https://github.com/5250ng/5250ng/pull/71">#71</a>: [bugfix] Release session container on tab close (#69)
 - <a href="https://github.com/5250ng/5250ng/pull/72">#72</a>: [enhancement] Release agent panel collapsible block map on Clear (#70)
