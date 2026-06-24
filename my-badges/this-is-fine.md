@@ -61,6 +61,7 @@ Pull requests:
 - <a href="https://github.com/TheManticoreProject/Manticore/pull/725">#725</a>: Migrate LLMNR server logging to the new logger API
 - <a href="https://github.com/TheManticoreProject/Manticore/pull/726">#726</a>: Auto-disable logger colours when the output is not a terminal
 - <a href="https://github.com/TheManticoreProject/Manticore/pull/727">#727</a>: Migrate last legacy logger call site to new Warnf API
+- <a href="https://github.com/TheManticoreProject/Manticore/pull/728">#728</a>: Fix stale trans2 doc comment that contradicts the implementation
 - <a href="https://github.com/5250ng/5250ng/pull/68">#68</a>: [bugfix] Drop QIODevice::Text from MCP read_file and write_file (#65)
 - <a href="https://github.com/5250ng/5250ng/pull/71">#71</a>: [bugfix] Release session container on tab close (#69)
 - <a href="https://github.com/5250ng/5250ng/pull/72">#72</a>: [enhancement] Release agent panel collapsible block map on Clear (#70)
