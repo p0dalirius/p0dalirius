@@ -8,7 +8,7 @@ Repos:
 * <a href="https://github.com/p0dalirius/ShareHound">p0dalirius/ShareHound: ★306</a>
 * <a href="https://github.com/p0dalirius/DumpSMBShare">p0dalirius/DumpSMBShare: ★230</a>
 * <a href="https://github.com/p0dalirius/ctfd-parser">p0dalirius/ctfd-parser: ★173</a>
-* <a href="https://github.com/TheManticoreProject/FindGPPPasswords">TheManticoreProject/FindGPPPasswords: ★172</a>
+* <a href="https://github.com/TheManticoreProject/FindGPPPasswords">TheManticoreProject/FindGPPPasswords: ★173</a>
 * <a href="https://github.com/p0dalirius/GeoWordlists">p0dalirius/GeoWordlists: ★164</a>
 * <a href="https://github.com/p0dalirius/ldap2json">p0dalirius/ldap2json: ★148</a>
 * <a href="https://github.com/p0dalirius/Tomcat-webshell-application">p0dalirius/Tomcat-webshell-application: ★133</a>
@@ -102,10 +102,10 @@ Repos:
 * <a href="https://github.com/TheManticoreProject/goopts">TheManticoreProject/goopts: ★11</a>
 * <a href="https://github.com/p0dalirius/linux-kernels">p0dalirius/linux-kernels: ★10</a>
 * <a href="https://github.com/p0dalirius/Windows-Hardening">p0dalirius/Windows-Hardening: ★10</a>
+* <a href="https://github.com/p0dalirius/AutoType">p0dalirius/AutoType: ★10</a>
 * <a href="https://github.com/p0dalirius/Shift-Happens-Uncovering-to-builtin-command-injection-in-Windows-context-menus">p0dalirius/Shift-Happens-Uncovering-to-builtin-command-injection-in-Windows-context-menus: ★10</a>
 * <a href="https://github.com/pwnwithlove/conf-steakoverlow-2022">pwnwithlove/conf-steakoverlow-2022: ★9</a>
 * <a href="https://github.com/TheManticoreProject/FindReusedKeyCredentials">TheManticoreProject/FindReusedKeyCredentials: ★9</a>
-* <a href="https://github.com/p0dalirius/AutoType">p0dalirius/AutoType: ★9</a>
 * <a href="https://github.com/p0dalirius/SweetRice-webshell-plugin">p0dalirius/SweetRice-webshell-plugin: ★8</a>
 * <a href="https://github.com/p0dalirius/pdsimage-downloader">p0dalirius/pdsimage-downloader: ★7</a>
 * <a href="https://github.com/p0dalirius/CVE-2020-8813-Cacti-RCE-in-graph_realtime">p0dalirius/CVE-2020-8813-Cacti-RCE-in-graph_realtime: ★7</a>
