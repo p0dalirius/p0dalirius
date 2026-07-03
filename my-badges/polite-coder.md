@@ -10,5 +10,7 @@ I use words like "thanks" and "please" in my issues:
 - <a href="https://github.com/5250ng/5250ng/issues/136">#136</a>: HAVE_QT6_SSL is never defined: all TLS code paths are compiled out of every build
 - <a href="https://github.com/TheManticoreProject/Manticore/issues/631">#631</a>: [bug] EPM ept_lookup response fails to decode against real servers (entries[] is inline conformant-varying, not ptr)
 
+ And many more...
+
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
