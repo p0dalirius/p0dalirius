@@ -12,6 +12,7 @@ Issues:
 - <a href="https://github.com/p0dalirius/smbclient-ng/issues/19">#19</a>: [bug] Autocompletion bug for folders when full name is not written
 - <a href="https://github.com/p0dalirius/ldapconsole/issues/15">#15</a>: [enhancement] Create a new command to export the results of the last query to JSON, XLSX, CSV
 - <a href="https://github.com/TheManticoreProject/winacl/issues/30">#30</a>: [bug] A panic can sometimes occur when parsing a ill-formed ACE binary data
+- <a href="https://github.com/TheManticoreProject/Delegations/issues/14">#14</a>: [enhancement] [audit mode] Add option to remove legitimate cases
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
