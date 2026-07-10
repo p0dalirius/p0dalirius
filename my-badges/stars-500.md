@@ -4,7 +4,7 @@
 
 Repos:
 
-* <a href="https://github.com/p0dalirius/pdbdownload">p0dalirius/pdbdownload: ★18</a>
+* <a href="https://github.com/p0dalirius/pdbdownload">p0dalirius/pdbdownload: ★19</a>
 * <a href="https://github.com/p0dalirius/pySortWindowsISOs">p0dalirius/pySortWindowsISOs: ★17</a>
 * <a href="https://github.com/p0dalirius/CVE-2022-30780-lighttpd-denial-of-service">p0dalirius/CVE-2022-30780-lighttpd-denial-of-service: ★17</a>
 * <a href="https://github.com/TheManticoreProject/goLAPS">TheManticoreProject/goLAPS: ★17</a>

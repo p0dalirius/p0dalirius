@@ -50,7 +50,7 @@ Repos:
 * <a href="https://github.com/p0dalirius/Joomla-1.6-1.7-2.5-Privilege-Escalation-Vulnerability">p0dalirius/Joomla-1.6-1.7-2.5-Privilege-Escalation-Vulnerability: ★21</a>
 * <a href="https://github.com/p0dalirius/ParseFortinetSerialNumber">p0dalirius/ParseFortinetSerialNumber: ★20</a>
 * <a href="https://github.com/p0dalirius/WindowsBuilds">p0dalirius/WindowsBuilds: ★19</a>
-* <a href="https://github.com/p0dalirius/pdbdownload">p0dalirius/pdbdownload: ★18</a>
+* <a href="https://github.com/p0dalirius/pdbdownload">p0dalirius/pdbdownload: ★19</a>
 * <a href="https://github.com/p0dalirius/pySortWindowsISOs">p0dalirius/pySortWindowsISOs: ★17</a>
 * <a href="https://github.com/p0dalirius/CVE-2022-30780-lighttpd-denial-of-service">p0dalirius/CVE-2022-30780-lighttpd-denial-of-service: ★17</a>
 * <a href="https://github.com/TheManticoreProject/goLAPS">TheManticoreProject/goLAPS: ★17</a>

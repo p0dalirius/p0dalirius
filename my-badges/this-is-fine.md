@@ -4,8 +4,6 @@
 
 Pull requests:
 
-- <a href="https://github.com/TheManticoreProject/winacl/pull/20">#20</a>: [enhancement] Created functions for access control mask
-- <a href="https://github.com/TheManticoreProject/winacl/pull/27">#27</a>: [enhancement] Renamed serialized data to marshalled data
 - <a href="https://github.com/5250ng/5250ng/pull/1">#1</a>: [enhancement] UI Improvements
 - <a href="https://github.com/5250ng/5250ng/pull/5">#5</a>: [bugfix] missing scriptExecutor cleanup when closing a tab
 - <a href="https://github.com/5250ng/5250ng/pull/6">#6</a>: [bugfix] missing row bounds check in readScreenText()
