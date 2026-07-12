@@ -63,6 +63,8 @@ Pull requests:
 - <a href="https://github.com/TheManticoreProject/Manticore/pull/729">#729</a>: Add per-page replication progress callback to MS-DRSR full-NC replication
 - <a href="https://github.com/TheManticoreProject/Manticore/pull/733">#733</a>: Fix ncacn_np Recv to retry on transient STATUS_PIPE_EMPTY (#732)
 - <a href="https://github.com/TheManticoreProject/Manticore/pull/735">#735</a>: Fix BaseRegQueryValue NDR array framing with pointer count siblings (#734)
+- <a href="https://github.com/TheManticoreProject/Manticore/pull/1020">#1020</a>: Fix KerberosTime Marshal paths to normalize to UTC (Fixes #1016)
+- <a href="https://github.com/TheManticoreProject/Manticore/pull/1021">#1021</a>: Fix ccache reader to reject negative lengths (Fixes #1017)
 - <a href="https://github.com/5250ng/5250ng/pull/68">#68</a>: [bugfix] Drop QIODevice::Text from MCP read_file and write_file (#65)
 - <a href="https://github.com/5250ng/5250ng/pull/71">#71</a>: [bugfix] Release session container on tab close (#69)
 - <a href="https://github.com/5250ng/5250ng/pull/72">#72</a>: [enhancement] Release agent panel collapsible block map on Clear (#70)
