@@ -4,7 +4,6 @@
 
 Repos:
 
-* <a href="https://github.com/p0dalirius/Hashes-Harvester">p0dalirius/Hashes-Harvester: ★27</a>
 * <a href="https://github.com/ShutdownRepo/Get-GPPPassword">ShutdownRepo/Get-GPPPassword: ★26</a>
 * <a href="https://github.com/p0dalirius/msFlagsDecoder">p0dalirius/msFlagsDecoder: ★26</a>
 * <a href="https://github.com/p0dalirius/crawlersuseragents">p0dalirius/crawlersuseragents: ★26</a>
@@ -54,9 +53,9 @@ Repos:
 * <a href="https://github.com/p0dalirius/linux-kernels">p0dalirius/linux-kernels: ★10</a>
 * <a href="https://github.com/p0dalirius/Windows-Hardening">p0dalirius/Windows-Hardening: ★10</a>
 * <a href="https://github.com/p0dalirius/AutoType">p0dalirius/AutoType: ★10</a>
+* <a href="https://github.com/p0dalirius/Shift-Happens-Uncovering-to-builtin-command-injection-in-Windows-context-menus">p0dalirius/Shift-Happens-Uncovering-to-builtin-command-injection-in-Windows-context-menus: ★10</a>
 * <a href="https://github.com/pwnwithlove/conf-steakoverlow-2022">pwnwithlove/conf-steakoverlow-2022: ★9</a>
 * <a href="https://github.com/TheManticoreProject/FindReusedKeyCredentials">TheManticoreProject/FindReusedKeyCredentials: ★9</a>
-* <a href="https://github.com/p0dalirius/Shift-Happens-Uncovering-to-builtin-command-injection-in-Windows-context-menus">p0dalirius/Shift-Happens-Uncovering-to-builtin-command-injection-in-Windows-context-menus: ★9</a>
 * <a href="https://github.com/p0dalirius/SweetRice-webshell-plugin">p0dalirius/SweetRice-webshell-plugin: ★8</a>
 * <a href="https://github.com/p0dalirius/pdsimage-downloader">p0dalirius/pdsimage-downloader: ★7</a>
 * <a href="https://github.com/p0dalirius/CVE-2020-8813-Cacti-RCE-in-graph_realtime">p0dalirius/CVE-2020-8813-Cacti-RCE-in-graph_realtime: ★7</a>
