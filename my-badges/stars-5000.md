@@ -37,8 +37,8 @@ Repos:
 * <a href="https://github.com/p0dalirius/CVE-2022-45771-Pwndoc-LFI-to-RCE">p0dalirius/CVE-2022-45771-Pwndoc-LFI-to-RCE: ★47</a>
 * <a href="https://github.com/p0dalirius/Argon2Cracker">p0dalirius/Argon2Cracker: ★46</a>
 * <a href="https://github.com/Ruulian/CSPass">Ruulian/CSPass: ★45</a>
+* <a href="https://github.com/p0dalirius/GhostSPN">p0dalirius/GhostSPN: ★44</a>
 * <a href="https://github.com/p0dalirius/Moodle-webshell-plugin">p0dalirius/Moodle-webshell-plugin: ★43</a>
-* <a href="https://github.com/p0dalirius/GhostSPN">p0dalirius/GhostSPN: ★43</a>
 * <a href="https://github.com/TheManticoreProject/winacl">TheManticoreProject/winacl: ★43</a>
 * <a href="https://github.com/p0dalirius/sectools">p0dalirius/sectools: ★42</a>
 * <a href="https://github.com/p0dalirius/FindProcessesWithNamedPipes">p0dalirius/FindProcessesWithNamedPipes: ★42</a>
