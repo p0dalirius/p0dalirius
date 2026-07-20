@@ -5,7 +5,7 @@
 Repos:
 
 * <a href="https://github.com/p0dalirius/pyLDAPWordlistHarvester">p0dalirius/pyLDAPWordlistHarvester: ★378</a>
-* <a href="https://github.com/p0dalirius/ShareHound">p0dalirius/ShareHound: ★309</a>
+* <a href="https://github.com/p0dalirius/ShareHound">p0dalirius/ShareHound: ★310</a>
 * <a href="https://github.com/p0dalirius/DumpSMBShare">p0dalirius/DumpSMBShare: ★231</a>
 * <a href="https://github.com/p0dalirius/ctfd-parser">p0dalirius/ctfd-parser: ★173</a>
 * <a href="https://github.com/TheManticoreProject/FindGPPPasswords">TheManticoreProject/FindGPPPasswords: ★173</a>
