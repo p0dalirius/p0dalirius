@@ -41,6 +41,10 @@ Commits:
 - <a href="https://github.com/5250ng/5250ng/commit/7bf6166732be4a9d8248f830e5d52ce3cd3194a1">7bf6166</a>
 - <a href="https://github.com/TheManticoreProject/keytab/commit/e3dcb3115a12506277311dc383c76b04068c6f6b">e3dcb31</a>
 - <a href="https://github.com/TheManticoreProject/keytab/commit/a546450ea590374b02f337b81f30864126b1ec2c">a546450</a>
+- <a href="https://github.com/TheManticoreProject/winacl/commit/d0fb57180df614e0ad3234eaddb8b0b704bfb20c">d0fb571</a>
+- <a href="https://github.com/TheManticoreProject/winacl/commit/e50cf343415683a299be227a99467b4568082316">e50cf34</a>
+- <a href="https://github.com/TheManticoreProject/winacl/commit/b1a3135ad69c9a70197421345cf0939b8e70693a">b1a3135</a>
+- <a href="https://github.com/TheManticoreProject/winacl/commit/de490837b781cba69bb0438f21129a04782c8d49">de49083</a>
 - <a href="https://github.com/TheManticoreProject/winacl/commit/855cc52562b5a367b3bdf29cb38d4ad8d2289b5c">855cc52</a>
 - <a href="https://github.com/TheManticoreProject/winacl/commit/953663904dd7d85422e7b87a7ee0da71a609afa2">9536639</a>
 - <a href="https://github.com/TheManticoreProject/winacl/commit/d9f778c83541342d3d6562112b88bbb0e1d6dabb">d9f778c</a>
