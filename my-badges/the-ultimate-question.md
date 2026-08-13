@@ -4,6 +4,7 @@
 
 - <a href="https://github.com/p0dalirius/Coercer/issues/42">#42</a>
 - <a href="https://github.com/p0dalirius/smbclient-ng/issues/42">#42</a>
+- <a href="https://github.com/TheManticoreProject/goopts/issues/42">#42</a>
 - <a href="https://github.com/TheManticoreProject/Manticore/issues/42">#42</a>
 - <a href="https://github.com/TheManticoreProject/winacl/issues/42">#42</a>
 - <a href="https://github.com/5250ng/5250ng/issues/42">#42</a>
