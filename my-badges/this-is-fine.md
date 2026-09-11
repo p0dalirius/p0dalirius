@@ -69,6 +69,7 @@ Pull requests:
 - <a href="https://github.com/TheManticoreProject/Manticore/pull/1025">#1025</a>: Fix AS-REP hashcat formatter to reject unsupported AES etypes (Fixes #1024)
 - <a href="https://github.com/TheManticoreProject/Manticore/pull/1027">#1027</a>: Fix Kerberoast doc example to use the account name for the AES salt (Fixes #1026)
 - <a href="https://github.com/TheManticoreProject/Manticore/pull/1030">#1030</a>: Add built-in SPN service class recognition and HOST substitution (Fixes #1028)
+- <a href="https://github.com/TheManticoreProject/Manticore/pull/1235">#1235</a>: Carry SMB1 client paths as Unicode when the server negotiated it (Fixes #1234)
 - <a href="https://github.com/5250ng/5250ng/pull/68">#68</a>: [bugfix] Drop QIODevice::Text from MCP read_file and write_file (#65)
 - <a href="https://github.com/5250ng/5250ng/pull/71">#71</a>: [bugfix] Release session container on tab close (#69)
 - <a href="https://github.com/5250ng/5250ng/pull/72">#72</a>: [enhancement] Release agent panel collapsible block map on Clear (#70)
