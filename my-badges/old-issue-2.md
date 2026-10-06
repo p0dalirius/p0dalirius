@@ -5,6 +5,7 @@
 Issues:
 
 - <a href="https://github.com/p0dalirius/ldapconsole/issues/9">#9</a>: [enhancement] Add 3 retries and autoreconnect [Errno 104] Connection reset by peer
+- <a href="https://github.com/p0dalirius/GhostSPN/issues/1">#1</a>: [bug] argument of type 'NoneType' is not iterable (spn_data["hostname"])
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
