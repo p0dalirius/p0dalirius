@@ -8,7 +8,7 @@
 - <a href="https://github.com/TheManticoreProject/Manticore/issues/42">#42</a>
 - <a href="https://github.com/TheManticoreProject/winacl/issues/42">#42</a>
 - <a href="https://github.com/5250ng/5250ng/issues/42">#42</a>
-- <a href="https://github.com/TheManticoreProject/manticore-delegations/issues/42">#42</a>
+- <a href="https://github.com/TheManticoreProject/delegations/issues/42">#42</a>
 - <a href="https://github.com/p0dalirius/pyFindUncommonShares/issues/42">#42</a>
 
 
