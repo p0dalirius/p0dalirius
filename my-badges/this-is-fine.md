@@ -71,6 +71,7 @@ Pull requests:
 - <a href="https://github.com/TheManticoreProject/Manticore/pull/1030">#1030</a>: Add built-in SPN service class recognition and HOST substitution (Fixes #1028)
 - <a href="https://github.com/TheManticoreProject/Manticore/pull/1235">#1235</a>: Carry SMB1 client paths as Unicode when the server negotiated it (Fixes #1234)
 - <a href="https://github.com/TheManticoreProject/Manticore/pull/1347">#1347</a>: Fix TreeConnect UNC path to use ServerName instead of resolved IP
+- <a href="https://github.com/TheManticoreProject/smbclientng/pull/8">#8</a>: Fix daily auto-prefix execution (Fixes #7)
 - <a href="https://github.com/5250ng/5250ng/pull/68">#68</a>: [bugfix] Drop QIODevice::Text from MCP read_file and write_file (#65)
 - <a href="https://github.com/5250ng/5250ng/pull/71">#71</a>: [bugfix] Release session container on tab close (#69)
 - <a href="https://github.com/5250ng/5250ng/pull/72">#72</a>: [enhancement] Release agent panel collapsible block map on Clear (#70)
